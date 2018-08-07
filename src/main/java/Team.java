@@ -4,11 +4,11 @@ import java.util.Locale;
 
 public class Team {
 
-    private String name;
-    private List<Player> players;
-    private int totalSalary = 0, numOfPlayers;
+    String name;
+    List<Player> players;
+    int totalSalary = 0, numOfPlayers;
 
-     Team(String name, List<Player> players) {
+    Team(String name, List<Player> players) {
         this.name = name;
         this.players = players;
         for (Player player : players) {
@@ -17,7 +17,7 @@ public class Team {
         numOfPlayers = players.size();
     }
 
-     void addPlayer(String s) {
+    void addPlayer(String s) {
         NumberFormat formatter = NumberFormat.getCurrencyInstance(Locale.getDefault());
         String[] strings = s.split("@");
         String number = strings[0], name = strings[1], position = strings[2], height = strings[4], college = strings[6];
@@ -40,19 +40,23 @@ public class Team {
         return result;
     }
 
-     String getName() {
+    String getName() {
         return name;
     }
 
-     List<Player> getPlayers() {
+    List<Player> getPlayers() {
         return players;
     }
 
-     int getTotalSalary() {
+    int getTotalSalary() {
         return totalSalary;
     }
 
-     int getNumOfPlayers() {
+    int getNumOfPlayers() {
         return numOfPlayers;
+    }
+
+    public void sortPlayers() {
+        players.sort((o1, o2) -> (int) (o2.salary - o1.salary));
     }
 }

@@ -1,12 +1,11 @@
-public class Player {
-    private String number, name, position, height, college;
-    private int age, weight, tradeDays = 0;
+public class Player implements Comparable<Player> {
+    String number, name, position, height, college;
+    int age, weight, tradeDays = 0;
+    long salary;
 
     public int getTradeDays() {
         return tradeDays;
     }
-
-    long salary;
 
     Player(String number, String name, String position, int age, String height, int weight, String college, long salary) {
         this.number = number;
@@ -63,5 +62,10 @@ public class Player {
                 ", weight=" + weight +
                 ", salary=" + salary +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Player o) {
+        return (int) (this.salary - o.salary);
     }
 }
