@@ -3,13 +3,10 @@ import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
 
-import java.util.Comparator;
+import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 import java.io.*;
 import java.nio.charset.Charset;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
 
 import static java.lang.Math.abs;
 
@@ -21,6 +18,7 @@ public class TwitterAutoBot {
         }
     }
 
+    /* create tweets then send tweets */
     private static void tweetLines() {
         String line;
         createTweet();
@@ -53,9 +51,11 @@ public class TwitterAutoBot {
     private static void createTweet() {
         List<Team> teams = createTeams("roster.txt");
         List<String> templates = new ArrayList<>();
-        templates.add("#team1 will send #player1 to #team2 for #player2 and cash, league sources tell ESPN.");
-        templates.add("#team1 agreed to trade w/ #team2 to acquire #player2 for #player1 and cash, league sources tell ESPN.");
-        templates.add("#team1 has traded #position1 #player1 to the #team2 for #player2 and cash, league source tells ESPN.");
+        /* templates here */
+        templates.add("#team1 will send #players1 to #team2 for #players2, league sources tell ESPN.");
+        templates.add("#team1 agreed to trade w/ #team2 to acquire #players2 for #players1, league sources tell ESPN.");
+        templates.add("#team1 has traded #players1 to the #team2 for #players2, league source tells ESPN.");
+
         int teamIndex1 = randomInt(teams.size()), teamIndex2 = randomInt(teams.size());
         while (teamIndex1 == teamIndex2) {
             teamIndex2 = ThreadLocalRandom.current().nextInt(0, teams.size());
@@ -63,13 +63,15 @@ public class TwitterAutoBot {
         Team team1 = teams.get(teamIndex1 % teams.size());
         Team team2 = teams.get(teamIndex2 % teams.size());
 
-        int playerIndex1 = 0, playerIndex2 = 0;
-        boolean flag = false;
 
-        for (playerIndex1 = 0; playerIndex1 < team1.players.size(); playerIndex1++) {
+        Trade trade = genTrades(team1, team2);
+        /*
+            int playerIndex1 = 0, playerIndex2 = 0;
+            boolean flag = false;for (playerIndex1 = 0; playerIndex1 < team1.players.size(); playerIndex1++) {
             for (playerIndex2 = 0; playerIndex2 < team2.players.size(); playerIndex2++) {
                 Player player1 = team1.players.get(playerIndex1), player2 = team2.players.get(playerIndex2);
-                if (checkTrade(player1, player2)) {
+                if (checkTrade(new ArrayList<>(Collections.singletonList(player1)),
+                        new ArrayList<>(Collections.singletonList(player2)))) {
                     flag = true;
                     break;
                 }
@@ -77,49 +79,85 @@ public class TwitterAutoBot {
             if (flag) {
                 break;
             }
-        }
+        }*/
 
+        StringBuilder players1 = new StringBuilder(), players2 = new StringBuilder();
+        int count = 0;
+        for (Player p : trade.players1) {
+            int size = trade.players1.size();
+            players1.append(p.name);
+            if (count!=size-1){
+                if (count==size-2){
+                        players1.append(" and ");
+                }else{
+                    players1.append(", ");
+                }
+            }
+            count++;
+        }
+        count = 0;
+        for (Player p : trade.players2) {
+            int size = trade.players2.size();
+            players2.append(p.name);
+            if (count!=size-1){
+                if (count==size-2){
+                        players2.append(" and ");
+                }else{
+                    players2.append(", ");
+                }
+            }
+            count++;
+        }
         try {
             PrintWriter writer = new PrintWriter("tweets.txt");
             String tweet = templates.get(randomInt(templates.size()));
             tweet = tweet.replaceFirst("#team1", team1.name);
             tweet = tweet.replaceFirst("#team2", team2.name);
-            tweet = tweet.replaceFirst("#player1", team1.players.get(playerIndex1).name);
-            tweet = tweet.replaceFirst("#position1", team1.players.get(playerIndex1).position);
-            tweet = tweet.replaceFirst("#position2", team1.players.get(playerIndex2).position);
-            if (randomInt(100) % 2 == 0) {
+            tweet = tweet.replaceFirst("#players1", players1.toString());
+            /*if (randomInt(100) % 2 == 0) {
                 tweet = tweet.replaceFirst(" and cash", "");
-            }
-            writer.println(tweet.replaceFirst("#player2", team2.players.get(playerIndex2).name));
+            }*/
+            tweet = tweet.replaceFirst("#players2", players2.toString());
+            writer.println(tweet);
             writer.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    /* Generate all possible trades between two teams*/
-    private static List<Trade> generateTrades(Team team1, Team team2) {
-        List<Trade> trades = new ArrayList<>();
-        return trades;
-    }
 
-    private static int randomInt(int size) {
-        return ThreadLocalRandom.current().nextInt(0, size);
-    }
+    /*Check if a trade is valid, working on adding more rules and update the roster */
+    private static boolean checkTrade(List<Player> players1, List<Player> players2) {
 
-    private static boolean checkTrade(Player player1, Player player2) {
-
-        System.out.println(abs(player1.salary - player2.salary));
-        return abs(player1.salary - player2.salary) <= 100000;
-    }
-
-    private static List<Trade> genTrades(Team team1, Team team2) {
-        List<Trade> result = new ArrayList<>();
-        for (int i = 0; i < team1.players.size(); i++) {
+        /* System.out.println(abs(player1.salary - player2.salary)); */
+        long sum1 = 0, sum2 = 0;
+        for (Player player : players1) {
+            sum1 += player.salary;
         }
-        return result;
+        for (Player player : players2) {
+            sum2 += player.salary;
+        }
+        return abs(sum1 - sum2) <= 100000;
     }
 
+    /* Generate all possible trades between two teams*/
+    private static Trade genTrades(Team team1, Team team2) {
+        while (true) {
+            int numOfPlayers1 = randomInt(3) + 1, numOfPlayers2 = randomInt(3) + 1;
+            List<Player> copy1 = new ArrayList<>(team1.players);
+            List<Player> copy2 = new ArrayList<>(team2.players);
+            Collections.shuffle(copy1);
+            Collections.shuffle(copy2);
+            copy1 = copy1.subList(0, numOfPlayers1);
+            copy2 = copy2.subList(0, numOfPlayers2);
+            if (checkTrade(copy1, copy2)) {
+                System.out.println(copy1 + " " + copy2);
+                return new Trade(copy1, copy2);
+            }
+        }
+    }
+
+    /* Reading from a file to create all NBA Teams */
     private static List<Team> createTeams(String s) {
         List<Team> teams = new ArrayList<>();
         try {
@@ -133,20 +171,23 @@ public class TwitterAutoBot {
                     }
                     newTeam = new Team(line.substring(1), new ArrayList<>());
                 } else {
-                    newTeam.addPlayer(line);
-                    newTeam.sortPlayers();
+                    if (newTeam != null) {
+                        newTeam.addPlayer(line);
+                        newTeam.players.sort((o1, o2) -> (int) (o2.salary - o1.salary));
+                    }
                 }
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
         teams.sort((Comparator.comparing(o -> o.name)));
-        for (Team team : teams) {
+        /* for (Team team : teams) {
             System.out.println(team);
-        }
+        } */
         return teams;
     }
 
+    /* post a tweet */
     private static void sendTweet(String line) {
         Twitter twitter = TwitterFactory.getSingleton();
         Status status;
@@ -156,6 +197,11 @@ public class TwitterAutoBot {
         } catch (TwitterException e) {
             e.printStackTrace();
         }
+    }
+
+    /* A shorter version of randomInt*/
+    private static int randomInt(int size) {
+        return ThreadLocalRandom.current().nextInt(0, size);
     }
 
 }

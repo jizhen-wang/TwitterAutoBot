@@ -55,8 +55,4 @@ public class Team {
     int getNumOfPlayers() {
         return numOfPlayers;
     }
-
-    public void sortPlayers() {
-        players.sort((o1, o2) -> (int) (o2.salary - o1.salary));
-    }
 }
