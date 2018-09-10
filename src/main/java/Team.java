@@ -1,4 +1,5 @@
 import java.text.NumberFormat;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
 
@@ -20,6 +21,9 @@ public class Team {
     void addPlayer(String s) {
         NumberFormat formatter = NumberFormat.getCurrencyInstance(Locale.getDefault());
         String[] strings = s.split("@");
+        if (strings.length < 7) {
+            return;
+        }
         String number = strings[0], name = strings[1], position = strings[2], height = strings[4], college = strings[6];
         int age = Integer.parseInt(strings[3]), weight = Integer.parseInt(strings[5]);
         long salary = 0;
@@ -28,6 +32,7 @@ public class Team {
                 salary = (Long) formatter.parse(strings[7]);
             }
             players.add(new Player(number, name, position, age, height, weight, college, salary));
+            totalSalary += salary;
         } catch (Exception e) {
             e.printStackTrace();
         }

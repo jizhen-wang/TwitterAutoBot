@@ -1,3 +1,9 @@
+
+import com.ibm.icu.lang.UCharacter;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
@@ -10,12 +16,47 @@ import java.nio.charset.Charset;
 
 import static java.lang.Math.abs;
 
+
 public class TwitterAutoBot {
 
-    public static void main(String[] args) {
-        while (true) {
-            tweetLines();
+    public static void main(String[] args) throws IOException {
+        updateRoster();
+        tweetLines();
+    }
+
+    private static void updateRoster() throws IOException {
+        String url = "http://www.espn.com/nba/teams";
+        Document doc = Jsoup.connect(url)
+                .userAgent("Mozilla")
+                .get();
+        Elements links = doc.select("a");
+        List<String> linksHref = links.eachAttr("href");
+        Set<String> teamLinks = new TreeSet<>();
+        for (String s : linksHref) {
+            if (s.matches("http://www.espn.com/nba/team/_/name/[a-zA-z0-9]+/[a-zA-z0-9-]+")) {
+                teamLinks.add(s.substring(0, 29) + "roster/_" + s.substring(30));
+            }
         }
+        PrintWriter writer = new PrintWriter(new File("roster.txt"));
+        for (String link : teamLinks) {
+            writer.println('#' + UCharacter.toTitleCase(Locale.US, link.split("/")[9].replace('-', ' '), null, 0));
+            doc = Jsoup.connect(link)
+                    .userAgent("Mozilla")
+                    .get();
+            for (Element table : doc.select("table")) {
+                for (Element row : table.select("tr")) {
+                    Elements tds = row.select("td");
+                    if (tds.size() >= 7 && !tds.get(0).text().equals("NO.")) {
+                        StringBuilder line = new StringBuilder();
+                        for (Element td : tds) {
+                            line.append("@").append(td.text());
+                        }
+                        writer.println(line.substring(1));
+                    }
+                }
+            }
+        }
+        writer.close();
     }
 
     /* create tweets then send tweets */
@@ -33,8 +74,9 @@ public class TwitterAutoBot {
                     sendTweet(line);
                     System.out.println("Tweeting: " + line + "...");
                     try {
-                        System.out.println("Sleeping for 10 seconds...");
-                        Thread.sleep(10000); // every 30 minutes
+                        int t = randomInt(600000);
+                        System.out.println("Sleeping for " + t + " seconds...");
+                        Thread.sleep(t); // every 60 seconds
                         // Thread.sleep(10000); // every 10 seconds
                     } catch (InterruptedException e) {
                         e.printStackTrace();
@@ -63,8 +105,8 @@ public class TwitterAutoBot {
         Team team1 = teams.get(teamIndex1 % teams.size());
         Team team2 = teams.get(teamIndex2 % teams.size());
 
-
         Trade trade = genTrades(team1, team2);
+
         /*
             int playerIndex1 = 0, playerIndex2 = 0;
             boolean flag = false;for (playerIndex1 = 0; playerIndex1 < team1.players.size(); playerIndex1++) {
@@ -86,10 +128,10 @@ public class TwitterAutoBot {
         for (Player p : trade.players1) {
             int size = trade.players1.size();
             players1.append(p.name);
-            if (count!=size-1){
-                if (count==size-2){
-                        players1.append(" and ");
-                }else{
+            if (count != size - 1) {
+                if (count == size - 2) {
+                    players1.append(" and ");
+                } else {
                     players1.append(", ");
                 }
             }
@@ -99,10 +141,10 @@ public class TwitterAutoBot {
         for (Player p : trade.players2) {
             int size = trade.players2.size();
             players2.append(p.name);
-            if (count!=size-1){
-                if (count==size-2){
-                        players2.append(" and ");
-                }else{
+            if (count != size - 1) {
+                if (count == size - 2) {
+                    players2.append(" and ");
+                } else {
                     players2.append(", ");
                 }
             }
@@ -130,14 +172,14 @@ public class TwitterAutoBot {
     private static boolean checkTrade(List<Player> players1, List<Player> players2) {
 
         /* System.out.println(abs(player1.salary - player2.salary)); */
-        long sum1 = 0, sum2 = 0;
+        long sum = 0;
         for (Player player : players1) {
-            sum1 += player.salary;
+            sum += player.salary;
         }
         for (Player player : players2) {
-            sum2 += player.salary;
+            sum -= player.salary;
         }
-        return abs(sum1 - sum2) <= 100000;
+        return abs(sum) <= 100000;
     }
 
     /* Generate all possible trades between two teams*/
