@@ -18,38 +18,6 @@ public class Player implements Comparable<Player> {
         this.salary = salary;
     }
 
-    public String getNumber() {
-        return number;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getPosition() {
-        return position;
-    }
-
-    public String getHeight() {
-        return height;
-    }
-
-    public String getCollege() {
-        return college;
-    }
-
-    public int getWeight() {
-        return weight;
-    }
-
-    public long getSalary() {
-        return salary;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
     @Override
     public String toString() {
         return "Player{" +

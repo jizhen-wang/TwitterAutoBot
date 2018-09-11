@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Trade {
-    List<Player> players1 = new ArrayList<>(), players2 = new ArrayList<>();
+    List<Player> players1, players2;
 
     Trade(List<Player> players1, List<Player> players2) {
         this.players1 = players1;

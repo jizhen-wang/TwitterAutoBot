@@ -111,7 +111,7 @@
 11@David Nwaba@SF@25@6-4@209@Cal Poly@$1,512,601
 16@Cedi Osman@SF@23@6-8@215@@$2,775,000
 --@Collin Sexton@PG@19@6-2@183@Alabama@$4,068,600
-5@JR Smith@SG@32@6-6@225@@$14,720,000
+5@JR Smith@SG@33@6-6@225@@$14,720,000
 --@Isaiah Taylor@PG@24@6-3@170@Texas@
 13@Tristan Thompson@C@27@6-9@238@Texas@$17,469,565
 41@Ante Zizic@PF@21@6-11@250@@$1,952,760
@@ -348,6 +348,7 @@
 30@Aaron Brooks@PG@33@6-0@161@Oregon@
 23@Jimmy Butler@SG@28@6-8@236@Marquette@$20,445,779
 11@Jamal Crawford@SG@38@6-5@185@Michigan@
+9@Luol Deng@SF@33@6-9@220@Duke@$18,000,000
 5@Gorgui Dieng@C@28@6-11@251@Louisville@$15,170,787
 13@Marcus Georges-Hunt@SG@24@6-5@226@Georgia Tech@
 67@Taj Gibson@PF@33@6-9@235@USC@$14,000,000
