@@ -7,6 +7,10 @@ public class Player implements Comparable<Player> {
         return tradeDays;
     }
 
+    public void setTradeDays(int tradeDays) {
+        this.tradeDays = tradeDays;
+    }
+
     Player(String number, String name, String position, int age, String height, int weight, String college, long salary) {
         this.number = number;
         this.name = name;

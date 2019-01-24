@@ -46,9 +46,10 @@ public class TwitterAutoBot {
             for (Element table : doc.select("table")) {
                 for (Element row : table.select("tr")) {
                     Elements tds = row.select("td");
-                    if (tds.size() >= 7 && !tds.get(0).text().equals("NO.")) {
+                    if (tds.size() >= 7 && !tds.text().startsWith("NO")) {
                         StringBuilder line = new StringBuilder();
                         for (Element td : tds) {
+                            //System.out.println(td.text());
                             line.append("@").append(td.text());
                         }
                         writer.println(line.substring(1));
@@ -118,9 +119,6 @@ public class TwitterAutoBot {
             e.printStackTrace();
         }
         teams.sort((Comparator.comparing(o -> o.name)));
-        /* for (Team team : teams) {
-            System.out.println(team);
-        } */
         return teams;
     }
 
@@ -128,12 +126,15 @@ public class TwitterAutoBot {
     private static Trade genTrades(Team team1, Team team2) {
         while (true) {
             int numOfPlayers1 = randomInt(3) + 1, numOfPlayers2 = randomInt(3) + 1;
+
             List<Player> copy1 = new ArrayList<>(team1.players);
             List<Player> copy2 = new ArrayList<>(team2.players);
+
             Collections.shuffle(copy1);
             Collections.shuffle(copy2);
             copy1 = copy1.subList(0, numOfPlayers1);
             copy2 = copy2.subList(0, numOfPlayers2);
+
             if (checkTrade(copy1, copy2)) {
                 System.out.println(copy1 + " " + copy2);
                 return new Trade(copy1, copy2);
@@ -158,6 +159,7 @@ public class TwitterAutoBot {
     private static void createTweet() {
         List<Team> teams = createTeams();
         List<String> templates = new ArrayList<>();
+
         /* templates here */
         templates.add("#team1 will send #players1 to #team2 for #players2, league sources tell ESPN.");
         templates.add("#team1 agreed to trade w/ #team2 to acquire #players2 for #players1, league sources tell ESPN.");

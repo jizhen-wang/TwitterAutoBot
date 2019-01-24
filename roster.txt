@@ -1,605 +1,1518 @@
 #Atlanta Hawks
---@Jaylen Adams@PG@22@6-2@190@St. Bonaventure@$1,378,242
-1@Justin Anderson@SG@24@6-6@230@Virginia@$2,516,048
-24@Kent Bazemore@SG@29@6-5@201@Old Dominion@$18,089,887
-95@DeAndre' Bembry@SF@24@6-6@210@Saint Joseph's@$1,634,640
---@Vince Carter@SG@41@6-6@220@North Carolina@$1,512,601
-20@John Collins@PF@20@6-10@235@Wake Forest@$2,299,080
-14@Dewayne Dedmon@C@29@7-0@245@USC@$7,200,000
-5@Malcolm Delaney@PG@29@6-3@190@Virginia Tech@
-2@Tyler Dorsey@SG@22@6-5@183@Oregon@$1,378,242
-25@Daniel Hamilton@SG@23@6-7@195@Connecticut@$1,349,383
---@Kevin Huerter@SG@20@6-7@194@Maryland@$2,250,960
-2@R.J. Hunter@SG@24@6-5@185@Georgia State@
-21@Alex Len@C@25@7-1@250@Maryland@$4,350,000
-7@Jeremy Lin@PG@30@6-3@200@Harvard@$13,766,421
-18@Miles Plumlee@C@30@6-11@249@Duke@$12,500,000
-0@Alex Poythress@SF@25@6-9@235@Kentucky@$1,544,951
-12@Taurean Prince@SF@24@6-8@220@Baylor@$2,526,840
---@Thomas Robinson@PF@27@6-10@237@Kansas@
---@Omari Spellman@PF@21@6-9@253@Villanova@$1,620,480
-4@Andrew White III@SF@25@6-7@210@Syracuse@
---@Trae Young@PG@19@6-2@178@Oklahoma@$5,356,440
+10@Jaylen Adams@PG@22@6' 2"@190 lbs@St. Bonaventure@$1,378,242
+1@Justin Anderson@SG@25@6' 6"@230 lbs@Virginia@$2,516,048
+24@Kent Bazemore@SG@29@6' 5"@201 lbs@Old Dominion@$18,089,887
+95@DeAndre' Bembry@SF@24@6' 6"@210 lbs@Saint Joseph's@$1,634,640
+15@Vince Carter@SF@41@6' 6"@220 lbs@North Carolina@$1,512,601
+20@John Collins@PF@21@6' 10"@235 lbs@Wake Forest@$2,299,080
+14@Dewayne Dedmon@C@29@7' 0"@245 lbs@USC@$7,200,000
+2@Tyler Dorsey@SG@22@6' 5"@183 lbs@Oregon@$1,378,242
+5@Daniel Hamilton@SG@23@6' 7"@195 lbs@Connecticut@$1,349,383
+3@Kevin Huerter@SG@20@6' 7"@190 lbs@Maryland@$2,250,960
+25@Alex Len@C@25@7' 1"@250 lbs@Maryland@$4,350,000
+7@Jeremy Lin@PG@30@6' 3"@200 lbs@Harvard@$13,766,421
+18@Miles Plumlee@C@30@6' 11"@249 lbs@Duke@$12,500,000
+22@Alex Poythress@SF@25@6' 9"@235 lbs@Kentucky@$1,544,951
+12@Taurean Prince@SF@24@6' 8"@220 lbs@Baylor@$2,526,840
+6@Omari Spellman@PF@21@6' 9"@245 lbs@Villanova@$1,620,480
+11@Trae Young@PG@20@6' 2"@180 lbs@Oklahoma@$5,356,440
+10@Jaylen Adams@PG@22@6' 2"@190 lbs@St. Bonaventure@$1,378,242
+1@Justin Anderson@SG@25@6' 6"@230 lbs@Virginia@$2,516,048
+24@Kent Bazemore@SG@29@6' 5"@201 lbs@Old Dominion@$18,089,887
+95@DeAndre' Bembry@SF@24@6' 6"@210 lbs@Saint Joseph's@$1,634,640
+15@Vince Carter@SF@41@6' 6"@220 lbs@North Carolina@$1,512,601
+20@John Collins@PF@21@6' 10"@235 lbs@Wake Forest@$2,299,080
+14@Dewayne Dedmon@C@29@7' 0"@245 lbs@USC@$7,200,000
+2@Tyler Dorsey@SG@22@6' 5"@183 lbs@Oregon@$1,378,242
+5@Daniel Hamilton@SG@23@6' 7"@195 lbs@Connecticut@$1,349,383
+3@Kevin Huerter@SG@20@6' 7"@190 lbs@Maryland@$2,250,960
+25@Alex Len@C@25@7' 1"@250 lbs@Maryland@$4,350,000
+7@Jeremy Lin@PG@30@6' 3"@200 lbs@Harvard@$13,766,421
+18@Miles Plumlee@C@30@6' 11"@249 lbs@Duke@$12,500,000
+22@Alex Poythress@SF@25@6' 9"@235 lbs@Kentucky@$1,544,951
+12@Taurean Prince@SF@24@6' 8"@220 lbs@Baylor@$2,526,840
+6@Omari Spellman@PF@21@6' 9"@245 lbs@Villanova@$1,620,480
+11@Trae Young@PG@20@6' 2"@180 lbs@Oklahoma@$5,356,440
+10@Jaylen Adams@PG@22@6' 2"@190 lbs@St. Bonaventure@$1,378,242
+1@Justin Anderson@SG@25@6' 6"@230 lbs@Virginia@$2,516,048
+24@Kent Bazemore@SG@29@6' 5"@201 lbs@Old Dominion@$18,089,887
+95@DeAndre' Bembry@SF@24@6' 6"@210 lbs@Saint Joseph's@$1,634,640
+15@Vince Carter@SF@41@6' 6"@220 lbs@North Carolina@$1,512,601
+20@John Collins@PF@21@6' 10"@235 lbs@Wake Forest@$2,299,080
+14@Dewayne Dedmon@C@29@7' 0"@245 lbs@USC@$7,200,000
+2@Tyler Dorsey@SG@22@6' 5"@183 lbs@Oregon@$1,378,242
+5@Daniel Hamilton@SG@23@6' 7"@195 lbs@Connecticut@$1,349,383
+3@Kevin Huerter@SG@20@6' 7"@190 lbs@Maryland@$2,250,960
+25@Alex Len@C@25@7' 1"@250 lbs@Maryland@$4,350,000
+7@Jeremy Lin@PG@30@6' 3"@200 lbs@Harvard@$13,766,421
+18@Miles Plumlee@C@30@6' 11"@249 lbs@Duke@$12,500,000
+22@Alex Poythress@SF@25@6' 9"@235 lbs@Kentucky@$1,544,951
+12@Taurean Prince@SF@24@6' 8"@220 lbs@Baylor@$2,526,840
+6@Omari Spellman@PF@21@6' 9"@245 lbs@Villanova@$1,620,480
+11@Trae Young@PG@20@6' 2"@180 lbs@Oklahoma@$5,356,440
 #Brooklyn Nets
-13@Quincy Acy@SF@27@6-7@240@Baylor@
-31@Jarrett Allen@C@20@6-11@234@Texas@$2,034,120
-00@Darrell Arthur@PF@30@6-9@235@Kansas@$7,464,912
-9@DeMarre Carroll@SF@32@6-8@215@Missouri@$15,400,000
-33@Allen Crabbe@SG@26@6-6@215@California@$18,500,000
---@Mitchell Creek@SF@26@6-5@216@@
-17@Ed Davis@PF@29@6-10@245@North Carolina@$4,449,000
-8@Spencer Dinwiddie@PG@25@6-6@200@Colorado@$1,656,092
-14@Milton Doyle@SG@24@6-4@180@Loyola (IL)@
-3@Jared Dudley@SF@33@6-7@240@Boston College@$9,530,000
-35@Kenneth Faried@PF@28@6-8@228@Morehead State@$13,764,045
---@Treveon Graham@SG@24@6-5@219@Virginia Commonwealth@$1,512,601
-12@Joe Harris@SF@27@6-6@219@Virginia@$8,000,000
-24@Rondae Hollis-Jefferson@SF@23@6-7@214@Arizona@$2,470,357
---@Rodions Kurucs@SF@20@6-9@220@@$1,618,320
-22@Caris LeVert@SG@24@6-7@203@Michigan@$1,702,800
-10@Jordan McLaughlin@PG@22@6-1@185@USC@
---@Dzanan Musa@SG@19@6-9@195@@$1,632,240
-6@Shabazz Napier@PG@27@6-1@175@Connecticut@$1,942,422
-1@D'Angelo Russell@PG@22@6-5@195@Ohio State@$7,019,698
-0@James Webb III@SF@25@6-9@202@Boise State@
+31@Jarrett Allen@C@20@6' 11"@237 lbs@Texas@$2,034,120
+9@DeMarre Carroll@SF@32@6' 8"@215 lbs@Missouri@$15,400,000
+33@Allen Crabbe@SG@26@6' 6"@212 lbs@California@$18,500,000
+17@Ed Davis@PF@29@6' 10"@225 lbs@North Carolina@$4,449,000
+8@Spencer Dinwiddie@PG@25@6' 6"@210 lbs@Colorado@$1,656,092
+6@Jared Dudley@SF@33@6' 7"@237 lbs@Boston College@$9,530,000
+21@Treveon Graham@SG@25@6' 5"@225 lbs@Virginia Commonwealth@$1,512,601
+12@Joe Harris@SF@27@6' 6"@218 lbs@Virginia@$8,333,333
+24@Rondae Hollis-Jefferson@SF@24@6' 7"@217 lbs@Arizona@$2,470,357
+00@Rodions Kurucs@SF@20@6' 9"@210 lbs@-@$1,618,320
+22@Caris LeVert@SG@24@6' 7"@204 lbs@Michigan@$1,702,800
+30@Dzanan Musa@SG@19@6' 9"@208 lbs@-@$1,632,240
+13@Shabazz Napier@PG@27@6' 1"@180 lbs@Connecticut@$1,942,422
+10@Theo Pinson@SG@23@6' 6"@218 lbs@North Carolina@-
+1@D'Angelo Russell@PG@22@6' 5"@198 lbs@Ohio State@$7,019,698
+15@Alan Williams@PF@25@6' 8"@265 lbs@UC Santa Barbara@$5,000,000
+31@Jarrett Allen@C@20@6' 11"@237 lbs@Texas@$2,034,120
+9@DeMarre Carroll@SF@32@6' 8"@215 lbs@Missouri@$15,400,000
+33@Allen Crabbe@SG@26@6' 6"@212 lbs@California@$18,500,000
+17@Ed Davis@PF@29@6' 10"@225 lbs@North Carolina@$4,449,000
+8@Spencer Dinwiddie@PG@25@6' 6"@210 lbs@Colorado@$1,656,092
+6@Jared Dudley@SF@33@6' 7"@237 lbs@Boston College@$9,530,000
+21@Treveon Graham@SG@25@6' 5"@225 lbs@Virginia Commonwealth@$1,512,601
+12@Joe Harris@SF@27@6' 6"@218 lbs@Virginia@$8,333,333
+24@Rondae Hollis-Jefferson@SF@24@6' 7"@217 lbs@Arizona@$2,470,357
+00@Rodions Kurucs@SF@20@6' 9"@210 lbs@-@$1,618,320
+22@Caris LeVert@SG@24@6' 7"@204 lbs@Michigan@$1,702,800
+30@Dzanan Musa@SG@19@6' 9"@208 lbs@-@$1,632,240
+13@Shabazz Napier@PG@27@6' 1"@180 lbs@Connecticut@$1,942,422
+10@Theo Pinson@SG@23@6' 6"@218 lbs@North Carolina@-
+1@D'Angelo Russell@PG@22@6' 5"@198 lbs@Ohio State@$7,019,698
+15@Alan Williams@PF@25@6' 8"@265 lbs@UC Santa Barbara@$5,000,000
+31@Jarrett Allen@C@20@6' 11"@237 lbs@Texas@$2,034,120
+9@DeMarre Carroll@SF@32@6' 8"@215 lbs@Missouri@$15,400,000
+33@Allen Crabbe@SG@26@6' 6"@212 lbs@California@$18,500,000
+17@Ed Davis@PF@29@6' 10"@225 lbs@North Carolina@$4,449,000
+8@Spencer Dinwiddie@PG@25@6' 6"@210 lbs@Colorado@$1,656,092
+6@Jared Dudley@SF@33@6' 7"@237 lbs@Boston College@$9,530,000
+21@Treveon Graham@SG@25@6' 5"@225 lbs@Virginia Commonwealth@$1,512,601
+12@Joe Harris@SF@27@6' 6"@218 lbs@Virginia@$8,333,333
+24@Rondae Hollis-Jefferson@SF@24@6' 7"@217 lbs@Arizona@$2,470,357
+00@Rodions Kurucs@SF@20@6' 9"@210 lbs@-@$1,618,320
+22@Caris LeVert@SG@24@6' 7"@204 lbs@Michigan@$1,702,800
+30@Dzanan Musa@SG@19@6' 9"@208 lbs@-@$1,632,240
+13@Shabazz Napier@PG@27@6' 1"@180 lbs@Connecticut@$1,942,422
+10@Theo Pinson@SG@23@6' 6"@218 lbs@North Carolina@-
+1@D'Angelo Russell@PG@22@6' 5"@198 lbs@Ohio State@$7,019,698
+15@Alan Williams@PF@25@6' 8"@265 lbs@UC Santa Barbara@$5,000,000
 #Boston Celtics
-46@Aron Baynes@C@31@6-10@260@Washington State@$5,193,600
-26@Jabari Bird@SG@24@6-6@198@California@$1,349,464
-7@Jaylen Brown@SG@21@6-7@225@California@$5,169,960
-35@PJ Dozier@PG@21@6-6@205@South Carolina@
-20@Gordon Hayward@SF@28@6-8@226@Butler@$31,214,295
-42@Al Horford@PF@32@6-10@245@Florida@$28,928,709
-11@Kyrie Irving@PG@26@6-3@193@Duke@$20,099,189
-8@Shane Larkin@PG@25@5-11@175@Miami (FL)@
---@Walt Lemon Jr.@PG@26@6-3@180@Bradley@
-13@Marcus Morris@PF@29@6-9@235@Kansas@$5,375,000
-37@Semi Ojeleye@PF@23@6-7@235@SMU@$1,378,242
-12@Terry Rozier@PG@24@6-2@190@Louisville@$3,050,390
-36@Marcus Smart@PG@24@6-4@220@Oklahoma State@$11,660,716
-0@Jayson Tatum@SF@20@6-8@205@Duke@$6,700,800
-27@Daniel Theis@PF@26@6-9@243@@$1,378,242
-22@Brad Wanamaker@PG@29@6-4@210@Pittsburgh@$838,464
-44@Robert Williams@PF@20@6-10@241@Texas A&M@
-30@Guerschon Yabusele@PF@22@6-8@260@@$2,667,600
+46@Aron Baynes@C@32@6' 10"@260 lbs@Washington State@$5,193,600
+26@Jabari Bird@SG@24@6' 6"@198 lbs@California@$1,349,464
+7@Jaylen Brown@SG@22@6' 7"@220 lbs@California@$5,169,960
+50@PJ Dozier@PG@22@6' 6"@205 lbs@South Carolina@-
+20@Gordon Hayward@SF@28@6' 8"@225 lbs@Butler@$31,214,295
+42@Al Horford@C@32@6' 10"@245 lbs@Florida@$28,928,709
+28@RJ Hunter@SG@25@6' 5"@185 lbs@Georgia State@-
+11@Kyrie Irving@PG@26@6' 3"@193 lbs@Duke@$20,099,189
+13@Marcus Morris@PF@29@6' 9"@235 lbs@Kansas@$5,375,000
+37@Semi Ojeleye@PF@24@6' 7"@241 lbs@SMU@$1,378,242
+12@Terry Rozier@PG@24@6' 1"@190 lbs@Louisville@$3,050,390
+36@Marcus Smart@PG@24@6' 4"@220 lbs@Oklahoma State@$11,660,716
+0@Jayson Tatum@SF@20@6' 8"@208 lbs@Duke@$6,700,800
+27@Daniel Theis@PF@26@6' 8"@243 lbs@-@$1,378,242
+9@Brad Wanamaker@PG@29@6' 4"@210 lbs@Pittsburgh@$838,464
+44@Robert Williams@C@21@6' 10"@240 lbs@Texas A&M@$1,654,440
+30@Guerschon Yabusele@PF@23@6' 8"@260 lbs@-@$2,667,600
+46@Aron Baynes@C@32@6' 10"@260 lbs@Washington State@$5,193,600
+26@Jabari Bird@SG@24@6' 6"@198 lbs@California@$1,349,464
+7@Jaylen Brown@SG@22@6' 7"@220 lbs@California@$5,169,960
+50@PJ Dozier@PG@22@6' 6"@205 lbs@South Carolina@-
+20@Gordon Hayward@SF@28@6' 8"@225 lbs@Butler@$31,214,295
+42@Al Horford@C@32@6' 10"@245 lbs@Florida@$28,928,709
+28@RJ Hunter@SG@25@6' 5"@185 lbs@Georgia State@-
+11@Kyrie Irving@PG@26@6' 3"@193 lbs@Duke@$20,099,189
+13@Marcus Morris@PF@29@6' 9"@235 lbs@Kansas@$5,375,000
+37@Semi Ojeleye@PF@24@6' 7"@241 lbs@SMU@$1,378,242
+12@Terry Rozier@PG@24@6' 1"@190 lbs@Louisville@$3,050,390
+36@Marcus Smart@PG@24@6' 4"@220 lbs@Oklahoma State@$11,660,716
+0@Jayson Tatum@SF@20@6' 8"@208 lbs@Duke@$6,700,800
+27@Daniel Theis@PF@26@6' 8"@243 lbs@-@$1,378,242
+9@Brad Wanamaker@PG@29@6' 4"@210 lbs@Pittsburgh@$838,464
+44@Robert Williams@C@21@6' 10"@240 lbs@Texas A&M@$1,654,440
+30@Guerschon Yabusele@PF@23@6' 8"@260 lbs@-@$2,667,600
+46@Aron Baynes@C@32@6' 10"@260 lbs@Washington State@$5,193,600
+26@Jabari Bird@SG@24@6' 6"@198 lbs@California@$1,349,464
+7@Jaylen Brown@SG@22@6' 7"@220 lbs@California@$5,169,960
+50@PJ Dozier@PG@22@6' 6"@205 lbs@South Carolina@-
+20@Gordon Hayward@SF@28@6' 8"@225 lbs@Butler@$31,214,295
+42@Al Horford@C@32@6' 10"@245 lbs@Florida@$28,928,709
+28@RJ Hunter@SG@25@6' 5"@185 lbs@Georgia State@-
+11@Kyrie Irving@PG@26@6' 3"@193 lbs@Duke@$20,099,189
+13@Marcus Morris@PF@29@6' 9"@235 lbs@Kansas@$5,375,000
+37@Semi Ojeleye@PF@24@6' 7"@241 lbs@SMU@$1,378,242
+12@Terry Rozier@PG@24@6' 1"@190 lbs@Louisville@$3,050,390
+36@Marcus Smart@PG@24@6' 4"@220 lbs@Oklahoma State@$11,660,716
+0@Jayson Tatum@SF@20@6' 8"@208 lbs@Duke@$6,700,800
+27@Daniel Theis@PF@26@6' 8"@243 lbs@-@$1,378,242
+9@Brad Wanamaker@PG@29@6' 4"@210 lbs@Pittsburgh@$838,464
+44@Robert Williams@C@21@6' 10"@240 lbs@Texas A&M@$1,654,440
+30@Guerschon Yabusele@PF@23@6' 8"@260 lbs@-@$2,667,600
 #Charlotte Hornets
-7@Dwayne Bacon@SF@23@6-7@221@Florida State@$1,378,242
-5@Nicolas Batum@SG@29@6-8@200@@$24,000,000
-11@Bismack Biyombo@C@26@6-9@255@@$17,000,000
---@Miles Bridges@SF@20@6-7@220@Michigan State@$3,206,640
---@Devonte' Graham@PG@23@6-2@185@Kansas@$988,464
-41@Willy Hernangomez@C@24@6-11@240@@$1,544,951
-44@Frank Kaminsky@PF@25@7-0@242@Wisconsin@$3,627,842
-14@Michael Kidd-Gilchrist@SF@24@6-7@232@Kentucky@$13,000,000
---@Arnoldas Kulboka@SF@20@6-10@213@@
-3@Jeremy Lamb@SG@26@6-5@185@Connecticut@$7,488,372
-55@J.P. Macura@SG@23@6-5@203@Xavier@
-1@Malik Monk@SG@20@6-3@200@Kentucky@$3,447,480
-4@Marcus Paige@PG@24@6-0@164@North Carolina@
-9@Tony Parker@PG@36@6-2@185@@$5,000,000
-15@Kemba Walker@PG@28@6-1@184@Connecticut@$12,000,000
---@Isaiah Wilkins@F@22@6-8@205@Virginia@
-2@Marvin Williams@PF@32@6-9@237@North Carolina@$14,087,500
-40@Cody Zeller@C@25@7-0@240@Indiana@$13,528,090
+7@Dwayne Bacon@SG@23@6' 7"@221 lbs@Florida State@$1,378,242
+5@Nicolas Batum@SF@30@6' 8"@200 lbs@-@$24,000,000
+8@Bismack Biyombo@C@26@6' 9"@255 lbs@-@$17,000,000
+0@Miles Bridges@SF@20@6' 7"@225 lbs@Michigan State@$3,206,640
+31@Joe Chealey@PG@23@6' 3"@190 lbs@Charleston@-
+4@Devonte' Graham@PG@23@6' 2"@185 lbs@Kansas@$988,464
+41@Willy Hernangomez@C@24@6' 11"@240 lbs@-@$1,544,951
+44@Frank Kaminsky@PF@25@7' 0"@242 lbs@Wisconsin@$3,627,842
+14@Michael Kidd-Gilchrist@SF@25@6' 7"@232 lbs@Kentucky@$13,000,000
+3@Jeremy Lamb@SG@26@6' 5"@185 lbs@Connecticut@$7,488,372
+55@J.P. Macura@SG@23@6' 5"@205 lbs@Xavier@-
+1@Malik Monk@SG@20@6' 3"@200 lbs@Kentucky@$3,447,480
+9@Tony Parker@PG@36@6' 2"@185 lbs@-@$5,000,000
+15@Kemba Walker@PG@28@6' 1"@184 lbs@Connecticut@$12,000,000
+2@Marvin Williams@PF@32@6' 9"@237 lbs@North Carolina@$14,087,500
+40@Cody Zeller@C@26@7' 0"@240 lbs@Indiana@$13,528,090
+7@Dwayne Bacon@SG@23@6' 7"@221 lbs@Florida State@$1,378,242
+5@Nicolas Batum@SF@30@6' 8"@200 lbs@-@$24,000,000
+8@Bismack Biyombo@C@26@6' 9"@255 lbs@-@$17,000,000
+0@Miles Bridges@SF@20@6' 7"@225 lbs@Michigan State@$3,206,640
+31@Joe Chealey@PG@23@6' 3"@190 lbs@Charleston@-
+4@Devonte' Graham@PG@23@6' 2"@185 lbs@Kansas@$988,464
+41@Willy Hernangomez@C@24@6' 11"@240 lbs@-@$1,544,951
+44@Frank Kaminsky@PF@25@7' 0"@242 lbs@Wisconsin@$3,627,842
+14@Michael Kidd-Gilchrist@SF@25@6' 7"@232 lbs@Kentucky@$13,000,000
+3@Jeremy Lamb@SG@26@6' 5"@185 lbs@Connecticut@$7,488,372
+55@J.P. Macura@SG@23@6' 5"@205 lbs@Xavier@-
+1@Malik Monk@SG@20@6' 3"@200 lbs@Kentucky@$3,447,480
+9@Tony Parker@PG@36@6' 2"@185 lbs@-@$5,000,000
+15@Kemba Walker@PG@28@6' 1"@184 lbs@Connecticut@$12,000,000
+2@Marvin Williams@PF@32@6' 9"@237 lbs@North Carolina@$14,087,500
+40@Cody Zeller@C@26@7' 0"@240 lbs@Indiana@$13,528,090
+7@Dwayne Bacon@SG@23@6' 7"@221 lbs@Florida State@$1,378,242
+5@Nicolas Batum@SF@30@6' 8"@200 lbs@-@$24,000,000
+8@Bismack Biyombo@C@26@6' 9"@255 lbs@-@$17,000,000
+0@Miles Bridges@SF@20@6' 7"@225 lbs@Michigan State@$3,206,640
+31@Joe Chealey@PG@23@6' 3"@190 lbs@Charleston@-
+4@Devonte' Graham@PG@23@6' 2"@185 lbs@Kansas@$988,464
+41@Willy Hernangomez@C@24@6' 11"@240 lbs@-@$1,544,951
+44@Frank Kaminsky@PF@25@7' 0"@242 lbs@Wisconsin@$3,627,842
+14@Michael Kidd-Gilchrist@SF@25@6' 7"@232 lbs@Kentucky@$13,000,000
+3@Jeremy Lamb@SG@26@6' 5"@185 lbs@Connecticut@$7,488,372
+55@J.P. Macura@SG@23@6' 5"@205 lbs@Xavier@-
+1@Malik Monk@SG@20@6' 3"@200 lbs@Kentucky@$3,447,480
+9@Tony Parker@PG@36@6' 2"@185 lbs@-@$5,000,000
+15@Kemba Walker@PG@28@6' 1"@184 lbs@Connecticut@$12,000,000
+2@Marvin Williams@PF@32@6' 9"@237 lbs@North Carolina@$14,087,500
+40@Cody Zeller@C@26@7' 0"@240 lbs@Indiana@$13,528,090
 #Chicago Bulls
---@Rawle Alkins@SG@20@6-5@220@Arizona@
-15@Ryan Arcidiacono@PG@24@6-3@195@Villanova@
-3@Omer Asik@C@32@7-0@255@@$11,286,516
-9@Antonio Blakeney@SG@21@6-4@197@LSU@$1,349,383
---@Wendell Carter Jr.@PF@19@6-10@251@Duke@$4,441,200
---@Antonius Cleveland@SG@24@6-6@195@Southeast Missouri State@$1,378,242
-32@Kris Dunn@PG@24@6-4@210@Providence@$4,221,000
-6@Cristiano Felicio@C@26@6-9@280@@$8,740,980
-7@Justin Holiday@SG@29@6-6@185@Washington@$4,384,616
---@Chandler Hutchison@SF@22@6-7@197@Boise State@$1,990,520
-8@Zach LaVine@PG@23@6-5@185@UCLA@$19,500,000
-42@Robin Lopez@C@30@7-0@277@Stanford@$14,357,750
-24@Lauri Markkanen@PF@21@7-0@230@Arizona@$4,536,120
-12@Jabari Parker@PF@23@6-8@250@Duke@$20,000,000
-22@Cameron Payne@PG@24@6-3@185@Murray State@$3,263,294
-5@Bobby Portis@PF@23@6-11@248@Arkansas@$2,494,346
-45@Denzel Valentine@SF@24@6-6@214@Michigan State@$2,280,600
-14@Derrick Walton Jr.@PG@23@6-1@185@Michigan@
+20@Rawle Alkins@SG@21@6' 5"@225 lbs@Arizona@-
+7@Carmelo Anthony@PF@34@6' 8"@240 lbs@Syracuse@$1,512,601
+51@Ryan Arcidiacono@PG@24@6' 3"@200 lbs@Villanova@$1,349,383
+9@Antonio Blakeney@SG@22@6' 4"@192 lbs@LSU@$1,349,383
+34@Wendell Carter Jr.@C@19@6' 10"@255 lbs@Duke@$4,441,200
+32@Kris Dunn@PG@24@6' 4"@205 lbs@Providence@$4,221,000
+6@Cristiano Felicio@PF@26@6' 10"@265 lbs@-@$8,740,980
+3@Shaquille Harrison@PG@25@6' 4"@190 lbs@Tulsa@$1,311,265
+15@Chandler Hutchison@SF@22@6' 7"@197 lbs@Boise State@$1,990,520
+8@Zach LaVine@PG@23@6' 5"@200 lbs@UCLA@$19,500,000
+42@Robin Lopez@C@30@7' 0"@275 lbs@Stanford@$14,357,750
+24@Lauri Markkanen@PF@21@7' 0"@240 lbs@Arizona@$4,536,120
+2@Jabari Parker@PF@23@6' 8"@245 lbs@Duke@$20,000,000
+5@Bobby Portis@PF@23@6' 11"@250 lbs@Arkansas@$2,494,346
+44@Brandon Sampson@SG@21@6' 5"@184 lbs@LSU@-
+14@Wayne Selden@SG@24@6' 5"@230 lbs@Kansas@$1,544,951
+45@Denzel Valentine@SG@25@6' 6"@210 lbs@Michigan State@$2,280,600
+20@Rawle Alkins@SG@21@6' 5"@225 lbs@Arizona@-
+7@Carmelo Anthony@PF@34@6' 8"@240 lbs@Syracuse@$1,512,601
+51@Ryan Arcidiacono@PG@24@6' 3"@200 lbs@Villanova@$1,349,383
+9@Antonio Blakeney@SG@22@6' 4"@192 lbs@LSU@$1,349,383
+34@Wendell Carter Jr.@C@19@6' 10"@255 lbs@Duke@$4,441,200
+32@Kris Dunn@PG@24@6' 4"@205 lbs@Providence@$4,221,000
+6@Cristiano Felicio@PF@26@6' 10"@265 lbs@-@$8,740,980
+3@Shaquille Harrison@PG@25@6' 4"@190 lbs@Tulsa@$1,311,265
+15@Chandler Hutchison@SF@22@6' 7"@197 lbs@Boise State@$1,990,520
+8@Zach LaVine@PG@23@6' 5"@200 lbs@UCLA@$19,500,000
+42@Robin Lopez@C@30@7' 0"@275 lbs@Stanford@$14,357,750
+24@Lauri Markkanen@PF@21@7' 0"@240 lbs@Arizona@$4,536,120
+2@Jabari Parker@PF@23@6' 8"@245 lbs@Duke@$20,000,000
+5@Bobby Portis@PF@23@6' 11"@250 lbs@Arkansas@$2,494,346
+44@Brandon Sampson@SG@21@6' 5"@184 lbs@LSU@-
+14@Wayne Selden@SG@24@6' 5"@230 lbs@Kansas@$1,544,951
+45@Denzel Valentine@SG@25@6' 6"@210 lbs@Michigan State@$2,280,600
+20@Rawle Alkins@SG@21@6' 5"@225 lbs@Arizona@-
+7@Carmelo Anthony@PF@34@6' 8"@240 lbs@Syracuse@$1,512,601
+51@Ryan Arcidiacono@PG@24@6' 3"@200 lbs@Villanova@$1,349,383
+9@Antonio Blakeney@SG@22@6' 4"@192 lbs@LSU@$1,349,383
+34@Wendell Carter Jr.@C@19@6' 10"@255 lbs@Duke@$4,441,200
+32@Kris Dunn@PG@24@6' 4"@205 lbs@Providence@$4,221,000
+6@Cristiano Felicio@PF@26@6' 10"@265 lbs@-@$8,740,980
+3@Shaquille Harrison@PG@25@6' 4"@190 lbs@Tulsa@$1,311,265
+15@Chandler Hutchison@SF@22@6' 7"@197 lbs@Boise State@$1,990,520
+8@Zach LaVine@PG@23@6' 5"@200 lbs@UCLA@$19,500,000
+42@Robin Lopez@C@30@7' 0"@275 lbs@Stanford@$14,357,750
+24@Lauri Markkanen@PF@21@7' 0"@240 lbs@Arizona@$4,536,120
+2@Jabari Parker@PF@23@6' 8"@245 lbs@Duke@$20,000,000
+5@Bobby Portis@PF@23@6' 11"@250 lbs@Arkansas@$2,494,346
+44@Brandon Sampson@SG@21@6' 5"@184 lbs@LSU@-
+14@Wayne Selden@SG@24@6' 5"@230 lbs@Kansas@$1,544,951
+45@Denzel Valentine@SG@25@6' 6"@210 lbs@Michigan State@$2,280,600
 #Cleveland Cavaliers
-8@Jordan Clarkson@PG@26@6-5@194@Missouri@$12,500,000
-7@Sam Dekker@SF@24@6-9@230@Wisconsin@$2,760,095
-12@Channing Frye@PF@35@6-11@255@Arizona@$1,512,601
-3@George Hill@PG@32@6-3@188@IUPUI@$19,000,000
-1@Rodney Hood@SG@25@6-8@206@Duke@$3,472,887
-26@Kyle Korver@SG@37@6-7@212@Creighton@$7,560,000
-0@Kevin Love@C@30@6-10@251@UCLA@$24,119,025
-22@Larry Nance Jr.@PF@25@6-9@230@Wyoming@$2,272,391
-11@David Nwaba@SF@25@6-4@209@Cal Poly@$1,512,601
-16@Cedi Osman@SF@23@6-8@215@@$2,775,000
---@Collin Sexton@PG@19@6-2@183@Alabama@$4,068,600
-5@JR Smith@SG@33@6-6@225@@$14,720,000
---@Isaiah Taylor@PG@24@6-3@170@Texas@
-13@Tristan Thompson@C@27@6-9@238@Texas@$17,469,565
-41@Ante Zizic@PF@21@6-11@250@@$1,952,760
+32@Deng Adel@SF@21@6' 7"@200 lbs@Louisville@-
+4@Jaron Blossomgame@SF@25@6' 8"@220 lbs@Clemson@-
+10@Alec Burks@SG@27@6' 6"@214 lbs@Colorado@$11,536,515
+8@Jordan Clarkson@PG@26@6' 5"@194 lbs@Missouri@$12,500,000
+18@Matthew Dellavedova@PG@28@6' 4"@200 lbs@Saint Mary's@$9,607,500
+9@Channing Frye@PF@35@7' 0"@255 lbs@Arizona@$1,512,601
+31@John Henson@F@28@6' 11"@219 lbs@North Carolina@$11,327,466
+1@Rodney Hood@SG@26@6' 8"@206 lbs@Duke@$3,472,887
+0@Kevin Love@PF@30@6' 10"@251 lbs@UCLA@$24,119,025
+22@Larry Nance Jr.@PF@26@6' 9"@230 lbs@Wyoming@$2,272,391
+12@David Nwaba@SG@26@6' 4"@219 lbs@Cal Poly@$1,512,601
+16@Cedi Osman@SF@23@6' 8"@215 lbs@-@$2,775,000
+3@Cameron Payne@PG@24@6' 3"@190 lbs@Murray State@$3,263,294
+2@Collin Sexton@PG@20@6' 2"@190 lbs@Alabama@$4,068,600
+5@JR Smith@SG@33@6' 6"@225 lbs@-@$14,720,000
+13@Tristan Thompson@C@27@6' 10"@238 lbs@Texas@$17,469,565
+41@Ante Zizic@C@22@6' 11"@254 lbs@-@$1,952,760
+32@Deng Adel@SF@21@6' 7"@200 lbs@Louisville@-
+4@Jaron Blossomgame@SF@25@6' 8"@220 lbs@Clemson@-
+10@Alec Burks@SG@27@6' 6"@214 lbs@Colorado@$11,536,515
+8@Jordan Clarkson@PG@26@6' 5"@194 lbs@Missouri@$12,500,000
+18@Matthew Dellavedova@PG@28@6' 4"@200 lbs@Saint Mary's@$9,607,500
+9@Channing Frye@PF@35@7' 0"@255 lbs@Arizona@$1,512,601
+31@John Henson@F@28@6' 11"@219 lbs@North Carolina@$11,327,466
+1@Rodney Hood@SG@26@6' 8"@206 lbs@Duke@$3,472,887
+0@Kevin Love@PF@30@6' 10"@251 lbs@UCLA@$24,119,025
+22@Larry Nance Jr.@PF@26@6' 9"@230 lbs@Wyoming@$2,272,391
+12@David Nwaba@SG@26@6' 4"@219 lbs@Cal Poly@$1,512,601
+16@Cedi Osman@SF@23@6' 8"@215 lbs@-@$2,775,000
+3@Cameron Payne@PG@24@6' 3"@190 lbs@Murray State@$3,263,294
+2@Collin Sexton@PG@20@6' 2"@190 lbs@Alabama@$4,068,600
+5@JR Smith@SG@33@6' 6"@225 lbs@-@$14,720,000
+13@Tristan Thompson@C@27@6' 10"@238 lbs@Texas@$17,469,565
+41@Ante Zizic@C@22@6' 11"@254 lbs@-@$1,952,760
+32@Deng Adel@SF@21@6' 7"@200 lbs@Louisville@-
+4@Jaron Blossomgame@SF@25@6' 8"@220 lbs@Clemson@-
+10@Alec Burks@SG@27@6' 6"@214 lbs@Colorado@$11,536,515
+8@Jordan Clarkson@PG@26@6' 5"@194 lbs@Missouri@$12,500,000
+18@Matthew Dellavedova@PG@28@6' 4"@200 lbs@Saint Mary's@$9,607,500
+9@Channing Frye@PF@35@7' 0"@255 lbs@Arizona@$1,512,601
+31@John Henson@F@28@6' 11"@219 lbs@North Carolina@$11,327,466
+1@Rodney Hood@SG@26@6' 8"@206 lbs@Duke@$3,472,887
+0@Kevin Love@PF@30@6' 10"@251 lbs@UCLA@$24,119,025
+22@Larry Nance Jr.@PF@26@6' 9"@230 lbs@Wyoming@$2,272,391
+12@David Nwaba@SG@26@6' 4"@219 lbs@Cal Poly@$1,512,601
+16@Cedi Osman@SF@23@6' 8"@215 lbs@-@$2,775,000
+3@Cameron Payne@PG@24@6' 3"@190 lbs@Murray State@$3,263,294
+2@Collin Sexton@PG@20@6' 2"@190 lbs@Alabama@$4,068,600
+5@JR Smith@SG@33@6' 6"@225 lbs@-@$14,720,000
+13@Tristan Thompson@C@27@6' 10"@238 lbs@Texas@$17,469,565
+41@Ante Zizic@C@22@6' 11"@254 lbs@-@$1,952,760
 #Dallas Mavericks
---@Kostas Antetokounmpo@PF@20@6-11@195@Dayton@
-5@J.J. Barea@PG@34@6-0@185@Northeastern@$3,710,850
-40@Harrison Barnes@SF@26@6-8@225@North Carolina@$24,107,258
-9@Ryan Broekhoff@SG@28@6-7@215@@
-13@Jalen Brunson@PG@22@6-3@190@Villanova@$1,230,000
-8@Kyle Collinsworth@PG@26@6-6@210@BYU@$1,378,242
-77@Luka Doncic@PG@19@6-6@218@@$6,560,640
-10@Dorian Finney-Smith@SF@25@6-8@220@Florida@$1,544,951
-34@Devin Harris@PG@35@6-3@185@Wisconsin@
-32@Scotty Hopson@SG@29@6-7@230@Tennessee@
-21@Jalen Jones@SF@25@6-7@220@Texas A&M@
-6@DeAndre Jordan@C@30@6-11@265@Texas A&M@$22,897,200
-42@Maximilian Kleber@PF@26@6-11@220@@$1,378,242
-54@Daryl Macon@SG@22@6-3@185@Arkansas@
-23@Wesley Matthews@SG@31@6-5@220@Marquette@$18,622,514
-50@Salah Mejri@C@32@7-2@235@@
-11@Codi Miller-McIntyre@G@0@6-3@205@@
-41@Dirk Nowitzki@C@40@7-0@245@@$5,000,000
-7@Dwight Powell@C@27@6-11@240@Stanford@$9,631,250
-1@Dennis Smith Jr.@PG@20@6-3@195@North Carolina State@$3,819,960
---@Ray Spalding@PF@21@6-10@215@Louisville@$838,464
-8@Ding Yanyuhang@F@25@6-7@200@@
+37@Kostas Antetokounmpo@PF@21@6' 10"@200 lbs@Dayton@-
+5@J.J. Barea@PG@34@6' 0"@185 lbs@Northeastern@$3,710,850
+40@Harrison Barnes@SF@26@6' 8"@225 lbs@North Carolina@$24,107,258
+45@Ryan Broekhoff@SG@28@6' 7"@215 lbs@Valparaiso@$838,464
+13@Jalen Brunson@PG@22@6' 3"@190 lbs@Villanova@$1,230,000
+77@Luka Doncic@SF@19@6' 7"@218 lbs@-@$6,560,640
+10@Dorian Finney-Smith@SF@25@6' 8"@220 lbs@Florida@$1,544,951
+34@Devin Harris@PG@35@6' 3"@185 lbs@Wisconsin@$1,512,601
+6@DeAndre Jordan@C@30@6' 11"@265 lbs@Texas A&M@$22,897,200
+42@Maximilian Kleber@PF@26@6' 11"@240 lbs@-@$1,378,242
+3@Daryl Macon@SG@23@6' 3"@185 lbs@Arkansas@-
+23@Wesley Matthews@SG@32@6' 5"@220 lbs@Marquette@$18,622,514
+50@Salah Mejri@C@32@7' 2"@235 lbs@-@$1,512,601
+41@Dirk Nowitzki@PF@40@7' 0"@245 lbs@-@$5,000,000
+7@Dwight Powell@PF@27@6' 11"@240 lbs@Stanford@$9,631,250
+1@Dennis Smith Jr.@PG@21@6' 3"@195 lbs@North Carolina State@$3,819,960
+26@Ray Spalding@PF@21@6' 10"@215 lbs@Louisville@$838,464
+37@Kostas Antetokounmpo@PF@21@6' 10"@200 lbs@Dayton@-
+5@J.J. Barea@PG@34@6' 0"@185 lbs@Northeastern@$3,710,850
+40@Harrison Barnes@SF@26@6' 8"@225 lbs@North Carolina@$24,107,258
+45@Ryan Broekhoff@SG@28@6' 7"@215 lbs@Valparaiso@$838,464
+13@Jalen Brunson@PG@22@6' 3"@190 lbs@Villanova@$1,230,000
+77@Luka Doncic@SF@19@6' 7"@218 lbs@-@$6,560,640
+10@Dorian Finney-Smith@SF@25@6' 8"@220 lbs@Florida@$1,544,951
+34@Devin Harris@PG@35@6' 3"@185 lbs@Wisconsin@$1,512,601
+6@DeAndre Jordan@C@30@6' 11"@265 lbs@Texas A&M@$22,897,200
+42@Maximilian Kleber@PF@26@6' 11"@240 lbs@-@$1,378,242
+3@Daryl Macon@SG@23@6' 3"@185 lbs@Arkansas@-
+23@Wesley Matthews@SG@32@6' 5"@220 lbs@Marquette@$18,622,514
+50@Salah Mejri@C@32@7' 2"@235 lbs@-@$1,512,601
+41@Dirk Nowitzki@PF@40@7' 0"@245 lbs@-@$5,000,000
+7@Dwight Powell@PF@27@6' 11"@240 lbs@Stanford@$9,631,250
+1@Dennis Smith Jr.@PG@21@6' 3"@195 lbs@North Carolina State@$3,819,960
+26@Ray Spalding@PF@21@6' 10"@215 lbs@Louisville@$838,464
+37@Kostas Antetokounmpo@PF@21@6' 10"@200 lbs@Dayton@-
+5@J.J. Barea@PG@34@6' 0"@185 lbs@Northeastern@$3,710,850
+40@Harrison Barnes@SF@26@6' 8"@225 lbs@North Carolina@$24,107,258
+45@Ryan Broekhoff@SG@28@6' 7"@215 lbs@Valparaiso@$838,464
+13@Jalen Brunson@PG@22@6' 3"@190 lbs@Villanova@$1,230,000
+77@Luka Doncic@SF@19@6' 7"@218 lbs@-@$6,560,640
+10@Dorian Finney-Smith@SF@25@6' 8"@220 lbs@Florida@$1,544,951
+34@Devin Harris@PG@35@6' 3"@185 lbs@Wisconsin@$1,512,601
+6@DeAndre Jordan@C@30@6' 11"@265 lbs@Texas A&M@$22,897,200
+42@Maximilian Kleber@PF@26@6' 11"@240 lbs@-@$1,378,242
+3@Daryl Macon@SG@23@6' 3"@185 lbs@Arkansas@-
+23@Wesley Matthews@SG@32@6' 5"@220 lbs@Marquette@$18,622,514
+50@Salah Mejri@C@32@7' 2"@235 lbs@-@$1,512,601
+41@Dirk Nowitzki@PF@40@7' 0"@245 lbs@-@$5,000,000
+7@Dwight Powell@PF@27@6' 11"@240 lbs@Stanford@$9,631,250
+1@Dennis Smith Jr.@PG@21@6' 3"@195 lbs@North Carolina State@$3,819,960
+26@Ray Spalding@PF@21@6' 10"@215 lbs@Louisville@$838,464
 #Denver Nuggets
---@DeVaughn Akoon-Purcell@SG@25@6-5@201@Illinois State@
-5@Will Barton@SF@27@6-6@190@Memphis@$11,830,358
-25@Malik Beasley@SG@21@6-5@196@Florida State@$1,773,840
-3@Torrey Craig@SG@27@6-6@215@USC Upstate@$2,000,000
-14@Gary Harris@SG@23@6-4@210@Michigan State@$16,517,857
-41@Juan Hernangomez@PF@22@6-9@230@@$2,166,360
-22@Richard Jefferson@SF@38@6-7@233@Arizona@
-15@Nikola Jokic@C@23@6-10@250@@$24,605,181
-20@Tyler Lydon@PF@22@6-9@220@Syracuse@$1,874,640
-7@Trey Lyles@PF@22@6-10@234@Kentucky@$3,364,249
-4@Paul Millsap@PF@33@6-8@246@Louisiana Tech@$29,230,769
-11@Monte Morris@PG@23@6-3@175@Iowa State@$1,349,383
-27@Jamal Murray@PG@21@6-4@207@Kentucky@$3,499,800
-24@Mason Plumlee@C@28@6-11@255@Duke@$12,917,808
---@Michael Porter Jr.@PF@20@6-10@215@Missouri@$2,894,160
-3@Isaiah Thomas@PG@29@5-9@185@Washington@$1,512,601
---@Jarred Vanderbilt@PF@19@6-9@214@Kentucky@$838,464
---@Thomas Welsh@C@22@7-0@255@UCLA@
+5@Will Barton@SG@28@6' 6"@190 lbs@Memphis@$11,830,358
+25@Malik Beasley@SG@22@6' 5"@195 lbs@Florida State@$1,773,840
+3@Torrey Craig@SF@28@6' 7"@215 lbs@USC Upstate@$2,000,000
+6@Brandon Goodwin@PG@23@6' 2"@180 lbs@Florida Gulf Coast@$630,032
+14@Gary Harris@SG@24@6' 4"@210 lbs@Michigan State@$16,517,857
+41@Juan Hernangomez@PF@23@6' 9"@230 lbs@-@$2,166,360
+15@Nikola Jokic@C@23@7' 0"@250 lbs@-@$24,605,181
+20@Tyler Lydon@PF@22@6' 10"@225 lbs@Syracuse@$1,874,640
+7@Trey Lyles@PF@23@6' 10"@234 lbs@Kentucky@$3,364,249
+4@Paul Millsap@PF@33@6' 8"@246 lbs@Louisiana Tech@$29,230,769
+11@Monte Morris@PG@23@6' 3"@175 lbs@Iowa State@$1,349,383
+27@Jamal Murray@PG@21@6' 4"@207 lbs@Kentucky@$3,499,800
+24@Mason Plumlee@PF@28@6' 11"@235 lbs@Duke@$12,917,808
+1@Michael Porter Jr.@PF@20@6' 10"@210 lbs@Missouri@$2,894,160
+0@Isaiah Thomas@PG@29@5' 9"@185 lbs@Washington@$1,512,601
+8@Jarred Vanderbilt@PF@19@6' 9"@214 lbs@Kentucky@$838,464
+45@Thomas Welsh@C@22@7' 0"@255 lbs@UCLA@-
+5@Will Barton@SG@28@6' 6"@190 lbs@Memphis@$11,830,358
+25@Malik Beasley@SG@22@6' 5"@195 lbs@Florida State@$1,773,840
+3@Torrey Craig@SF@28@6' 7"@215 lbs@USC Upstate@$2,000,000
+6@Brandon Goodwin@PG@23@6' 2"@180 lbs@Florida Gulf Coast@$630,032
+14@Gary Harris@SG@24@6' 4"@210 lbs@Michigan State@$16,517,857
+41@Juan Hernangomez@PF@23@6' 9"@230 lbs@-@$2,166,360
+15@Nikola Jokic@C@23@7' 0"@250 lbs@-@$24,605,181
+20@Tyler Lydon@PF@22@6' 10"@225 lbs@Syracuse@$1,874,640
+7@Trey Lyles@PF@23@6' 10"@234 lbs@Kentucky@$3,364,249
+4@Paul Millsap@PF@33@6' 8"@246 lbs@Louisiana Tech@$29,230,769
+11@Monte Morris@PG@23@6' 3"@175 lbs@Iowa State@$1,349,383
+27@Jamal Murray@PG@21@6' 4"@207 lbs@Kentucky@$3,499,800
+24@Mason Plumlee@PF@28@6' 11"@235 lbs@Duke@$12,917,808
+1@Michael Porter Jr.@PF@20@6' 10"@210 lbs@Missouri@$2,894,160
+0@Isaiah Thomas@PG@29@5' 9"@185 lbs@Washington@$1,512,601
+8@Jarred Vanderbilt@PF@19@6' 9"@214 lbs@Kentucky@$838,464
+45@Thomas Welsh@C@22@7' 0"@255 lbs@UCLA@-
+5@Will Barton@SG@28@6' 6"@190 lbs@Memphis@$11,830,358
+25@Malik Beasley@SG@22@6' 5"@195 lbs@Florida State@$1,773,840
+3@Torrey Craig@SF@28@6' 7"@215 lbs@USC Upstate@$2,000,000
+6@Brandon Goodwin@PG@23@6' 2"@180 lbs@Florida Gulf Coast@$630,032
+14@Gary Harris@SG@24@6' 4"@210 lbs@Michigan State@$16,517,857
+41@Juan Hernangomez@PF@23@6' 9"@230 lbs@-@$2,166,360
+15@Nikola Jokic@C@23@7' 0"@250 lbs@-@$24,605,181
+20@Tyler Lydon@PF@22@6' 10"@225 lbs@Syracuse@$1,874,640
+7@Trey Lyles@PF@23@6' 10"@234 lbs@Kentucky@$3,364,249
+4@Paul Millsap@PF@33@6' 8"@246 lbs@Louisiana Tech@$29,230,769
+11@Monte Morris@PG@23@6' 3"@175 lbs@Iowa State@$1,349,383
+27@Jamal Murray@PG@21@6' 4"@207 lbs@Kentucky@$3,499,800
+24@Mason Plumlee@PF@28@6' 11"@235 lbs@Duke@$12,917,808
+1@Michael Porter Jr.@PF@20@6' 10"@210 lbs@Missouri@$2,894,160
+0@Isaiah Thomas@PG@29@5' 9"@185 lbs@Washington@$1,512,601
+8@Jarred Vanderbilt@PF@19@6' 9"@214 lbs@Kentucky@$838,464
+45@Thomas Welsh@C@22@7' 0"@255 lbs@UCLA@-
 #Detroit Pistons
-6@Bruce Brown@SG@22@6-5@202@Miami (FL)@$838,464
-25@Reggie Bullock@SG@27@6-7@205@North Carolina@$2,500,000
---@Jose Calderon@PG@36@6-3@200@@$1,512,601
-12@Larry Drew II@PG@28@6-2@180@UCLA@
-0@Andre Drummond@C@25@6-11@279@Connecticut@$25,434,263
-8@Henry Ellenson@PF@21@6-11@245@Marquette@$1,857,480
-12@Keenan Evans@G@21@6-3@190@@
-9@Langston Galloway@SG@26@6-2@200@Saint Joseph's@$7,000,000
-23@Blake Griffin@PF@29@6-10@251@Oklahoma@$32,088,932
-38@Reggie Hearn@SG@27@6-5@210@Northwestern@
-1@Reggie Jackson@PG@28@6-3@208@Boston College@$17,043,478
-7@Stanley Johnson@SF@22@6-7@245@Arizona@$3,940,402
-5@Luke Kennard@SG@22@6-5@200@Duke@$3,275,280
-30@Jon Leuer@PF@29@6-10@228@Wisconsin@$10,002,681
-34@Zach Lofton@G@25@6-4@180@@
-41@Jameer Nelson@PG@36@6-0@190@Saint Joseph's@
-27@Zaza Pachulia@C@34@6-11@270@@$1,512,601
-40@Glenn Robinson III@SG@24@6-7@215@Michigan@$4,075,000
-14@Ish Smith@PG@30@6-0@175@Wake Forest@$6,000,000
---@Khyri Thomas@SG@22@6-4@199@Creighton@$838,464
+6@Bruce Brown@SG@22@6' 5"@202 lbs@Miami (FL)@$838,464
+25@Reggie Bullock@SG@27@6' 7"@205 lbs@North Carolina@$2,500,000
+81@Jose Calderon@PG@37@6' 3"@200 lbs@-@$1,512,601
+0@Andre Drummond@C@25@6' 11"@279 lbs@Connecticut@$25,434,263
+8@Henry Ellenson@PF@22@6' 11"@245 lbs@Marquette@$1,857,480
+9@Langston Galloway@SG@27@6' 2"@200 lbs@Saint Joseph's@$7,000,000
+23@Blake Griffin@PF@29@6' 10"@250 lbs@Oklahoma@$32,088,932
+1@Reggie Jackson@PG@28@6' 3"@208 lbs@Boston College@$17,043,478
+7@Stanley Johnson@SF@22@6' 7"@245 lbs@Arizona@$3,940,402
+5@Luke Kennard@SG@22@6' 5"@206 lbs@Duke@$3,275,280
+30@Jon Leuer@PF@29@6' 10"@228 lbs@Wisconsin@$10,002,681
+24@Kalin Lucas@PG@29@6' 1"@195 lbs@Michigan State@-
+27@Zaza Pachulia@C@34@6' 11"@270 lbs@-@$1,512,601
+22@Glenn Robinson III@SG@25@6' 6"@222 lbs@Michigan@$4,075,000
+14@Ish Smith@PG@30@6' 0"@175 lbs@Wake Forest@$6,000,000
+13@Khyri Thomas@SG@22@6' 3"@210 lbs@Creighton@$838,464
+15@Isaiah Whitehead@SG@23@6' 4"@213 lbs@Seton Hall@-
+6@Bruce Brown@SG@22@6' 5"@202 lbs@Miami (FL)@$838,464
+25@Reggie Bullock@SG@27@6' 7"@205 lbs@North Carolina@$2,500,000
+81@Jose Calderon@PG@37@6' 3"@200 lbs@-@$1,512,601
+0@Andre Drummond@C@25@6' 11"@279 lbs@Connecticut@$25,434,263
+8@Henry Ellenson@PF@22@6' 11"@245 lbs@Marquette@$1,857,480
+9@Langston Galloway@SG@27@6' 2"@200 lbs@Saint Joseph's@$7,000,000
+23@Blake Griffin@PF@29@6' 10"@250 lbs@Oklahoma@$32,088,932
+1@Reggie Jackson@PG@28@6' 3"@208 lbs@Boston College@$17,043,478
+7@Stanley Johnson@SF@22@6' 7"@245 lbs@Arizona@$3,940,402
+5@Luke Kennard@SG@22@6' 5"@206 lbs@Duke@$3,275,280
+30@Jon Leuer@PF@29@6' 10"@228 lbs@Wisconsin@$10,002,681
+24@Kalin Lucas@PG@29@6' 1"@195 lbs@Michigan State@-
+27@Zaza Pachulia@C@34@6' 11"@270 lbs@-@$1,512,601
+22@Glenn Robinson III@SG@25@6' 6"@222 lbs@Michigan@$4,075,000
+14@Ish Smith@PG@30@6' 0"@175 lbs@Wake Forest@$6,000,000
+13@Khyri Thomas@SG@22@6' 3"@210 lbs@Creighton@$838,464
+15@Isaiah Whitehead@SG@23@6' 4"@213 lbs@Seton Hall@-
+6@Bruce Brown@SG@22@6' 5"@202 lbs@Miami (FL)@$838,464
+25@Reggie Bullock@SG@27@6' 7"@205 lbs@North Carolina@$2,500,000
+81@Jose Calderon@PG@37@6' 3"@200 lbs@-@$1,512,601
+0@Andre Drummond@C@25@6' 11"@279 lbs@Connecticut@$25,434,263
+8@Henry Ellenson@PF@22@6' 11"@245 lbs@Marquette@$1,857,480
+9@Langston Galloway@SG@27@6' 2"@200 lbs@Saint Joseph's@$7,000,000
+23@Blake Griffin@PF@29@6' 10"@250 lbs@Oklahoma@$32,088,932
+1@Reggie Jackson@PG@28@6' 3"@208 lbs@Boston College@$17,043,478
+7@Stanley Johnson@SF@22@6' 7"@245 lbs@Arizona@$3,940,402
+5@Luke Kennard@SG@22@6' 5"@206 lbs@Duke@$3,275,280
+30@Jon Leuer@PF@29@6' 10"@228 lbs@Wisconsin@$10,002,681
+24@Kalin Lucas@PG@29@6' 1"@195 lbs@Michigan State@-
+27@Zaza Pachulia@C@34@6' 11"@270 lbs@-@$1,512,601
+22@Glenn Robinson III@SG@25@6' 6"@222 lbs@Michigan@$4,075,000
+14@Ish Smith@PG@30@6' 0"@175 lbs@Wake Forest@$6,000,000
+13@Khyri Thomas@SG@22@6' 3"@210 lbs@Creighton@$838,464
+15@Isaiah Whitehead@SG@23@6' 4"@213 lbs@Seton Hall@-
 #Golden State Warriors
-2@Jordan Bell@C@23@6-9@224@Oregon@$1,378,242
-4@Quinn Cook@PG@25@6-2@179@Duke@$1,544,951
-0@DeMarcus Cousins@C@28@6-11@270@Kentucky@$5,337,000
-30@Stephen Curry@PG@30@6-3@190@Davidson@$37,457,154
-32@Marcus Derrickson@F@22@6-7@250@Georgetown@
-35@Kevin Durant@SF@29@6-9@240@Texas@$30,000,000
---@Jacob Evans@SG@21@6-6@199@Cincinnati@$1,644,240
-23@Draymond Green@PF@28@6-7@230@Michigan State@$17,469,565
---@Danuel House Jr.@SF@25@6-7@220@Texas A&M@
-9@Andre Iguodala@SF@34@6-6@215@Arizona@$16,000,000
-8@Jonas Jerebko@PF@31@6-10@231@@$1,512,601
-15@Damian Jones@C@23@7-0@245@Vanderbilt@$1,544,951
-8@Damion Lee@SG@25@6-6@210@Louisville@
-34@Shaun Livingston@PG@32@6-7@192@@$8,307,692
-5@Kevon Looney@SF@22@6-9@220@UCLA@$1,512,601
-0@Patrick McCaw@SG@22@6-7@185@UNLV@
-11@Klay Thompson@SG@28@6-7@215@Washington State@$18,988,725
-6@Nick Young@SG@33@6-7@210@USC@
+2@Jordan Bell@PF@24@6' 9"@224 lbs@Oregon@$1,378,242
+4@Quinn Cook@PG@25@6' 2"@179 lbs@Duke@$1,544,951
+0@DeMarcus Cousins@C@28@6' 11"@270 lbs@Kentucky@$5,337,000
+30@Stephen Curry@PG@30@6' 3"@190 lbs@Davidson@$37,457,154
+32@Marcus Derrickson@F@22@6' 7"@249 lbs@Georgetown@-
+35@Kevin Durant@SF@30@6' 9"@240 lbs@Texas@$30,000,000
+10@Jacob Evans@SG@21@6' 6"@210 lbs@Cincinnati@$1,644,240
+23@Draymond Green@PF@28@6' 7"@230 lbs@Michigan State@$17,469,565
+9@Andre Iguodala@SG@34@6' 6"@215 lbs@Arizona@$16,000,000
+21@Jonas Jerebko@PF@31@6' 10"@231 lbs@-@$1,512,601
+15@Damian Jones@C@23@7' 0"@245 lbs@Vanderbilt@$1,544,951
+1@Damion Lee@SG@26@6' 6"@210 lbs@Louisville@-
+34@Shaun Livingston@PG@33@6' 7"@192 lbs@-@$8,307,692
+5@Kevon Looney@C@22@6' 9"@220 lbs@UCLA@$1,512,601
+28@Alfonzo McKinnie@SF@26@6' 8"@215 lbs@Green Bay@$1,349,383
+11@Klay Thompson@SG@28@6' 7"@215 lbs@Washington State@$18,988,725
+2@Jordan Bell@PF@24@6' 9"@224 lbs@Oregon@$1,378,242
+4@Quinn Cook@PG@25@6' 2"@179 lbs@Duke@$1,544,951
+0@DeMarcus Cousins@C@28@6' 11"@270 lbs@Kentucky@$5,337,000
+30@Stephen Curry@PG@30@6' 3"@190 lbs@Davidson@$37,457,154
+32@Marcus Derrickson@F@22@6' 7"@249 lbs@Georgetown@-
+35@Kevin Durant@SF@30@6' 9"@240 lbs@Texas@$30,000,000
+10@Jacob Evans@SG@21@6' 6"@210 lbs@Cincinnati@$1,644,240
+23@Draymond Green@PF@28@6' 7"@230 lbs@Michigan State@$17,469,565
+9@Andre Iguodala@SG@34@6' 6"@215 lbs@Arizona@$16,000,000
+21@Jonas Jerebko@PF@31@6' 10"@231 lbs@-@$1,512,601
+15@Damian Jones@C@23@7' 0"@245 lbs@Vanderbilt@$1,544,951
+1@Damion Lee@SG@26@6' 6"@210 lbs@Louisville@-
+34@Shaun Livingston@PG@33@6' 7"@192 lbs@-@$8,307,692
+5@Kevon Looney@C@22@6' 9"@220 lbs@UCLA@$1,512,601
+28@Alfonzo McKinnie@SF@26@6' 8"@215 lbs@Green Bay@$1,349,383
+11@Klay Thompson@SG@28@6' 7"@215 lbs@Washington State@$18,988,725
+2@Jordan Bell@PF@24@6' 9"@224 lbs@Oregon@$1,378,242
+4@Quinn Cook@PG@25@6' 2"@179 lbs@Duke@$1,544,951
+0@DeMarcus Cousins@C@28@6' 11"@270 lbs@Kentucky@$5,337,000
+30@Stephen Curry@PG@30@6' 3"@190 lbs@Davidson@$37,457,154
+32@Marcus Derrickson@F@22@6' 7"@249 lbs@Georgetown@-
+35@Kevin Durant@SF@30@6' 9"@240 lbs@Texas@$30,000,000
+10@Jacob Evans@SG@21@6' 6"@210 lbs@Cincinnati@$1,644,240
+23@Draymond Green@PF@28@6' 7"@230 lbs@Michigan State@$17,469,565
+9@Andre Iguodala@SG@34@6' 6"@215 lbs@Arizona@$16,000,000
+21@Jonas Jerebko@PF@31@6' 10"@231 lbs@-@$1,512,601
+15@Damian Jones@C@23@7' 0"@245 lbs@Vanderbilt@$1,544,951
+1@Damion Lee@SG@26@6' 6"@210 lbs@Louisville@-
+34@Shaun Livingston@PG@33@6' 7"@192 lbs@-@$8,307,692
+5@Kevon Looney@C@22@6' 9"@220 lbs@UCLA@$1,512,601
+28@Alfonzo McKinnie@SF@26@6' 8"@215 lbs@Green Bay@$1,349,383
+11@Klay Thompson@SG@28@6' 7"@215 lbs@Washington State@$18,988,725
 #Houston Rockets
-7@Carmelo Anthony@PF@34@6-8@240@Syracuse@$1,512,601
-28@Tarik Black@PF@26@6-9@250@Kansas@
-26@Markel Brown@SG@26@6-3@190@Oklahoma State@
---@Bruno Caboclo@SF@22@6-9@205@@
-15@Clint Capela@C@24@6-10@240@@$15,293,104
---@Michael Carter-Williams@PG@26@6-6@190@Syracuse@$1,512,601
---@Marquese Chriss@PF@21@6-10@240@Washington@$3,206,160
---@Vincent Edwards@SF@22@6-7@220@Purdue@
-33@James Ennis III@SF@28@6-7@210@Long Beach State@$1,621,415
-10@Eric Gordon@SG@29@6-4@215@Indiana@$13,500,375
-32@Rob Gray@G@24@6-1@185@Houston@
-14@Gerald Green@SG@32@6-7@205@@$1,512,601
-13@James Harden@PG@29@6-5@220@Arizona State@$35,650,150
-42@Nene Hilario@C@35@6-11@250@@$3,651,480
-5@Aaron Jackson@PG@32@6-3@183@Duquesne@
-7@Joe Johnson@SG@37@6-7@240@Arkansas@
---@Brandon Knight@PG@26@6-3@195@Kentucky@$14,631,250
-3@Chris Paul@PG@33@6-0@175@Wake Forest@$35,654,150
-9@Zhou Qi@PF@22@7-1@210@@$1,378,242
-4@PJ Tucker@SF@33@6-6@245@Texas@$7,969,537
+15@Clint Capela@C@24@6' 10"@240 lbs@-@$15,293,104
+0@Marquese Chriss@PF@21@6' 10"@240 lbs@Washington@$3,206,160
+6@Gary Clark@PF@24@6' 8"@225 lbs@Cincinnati@$569,873
+12@Vincent Edwards@SF@22@6' 8"@225 lbs@Purdue@-
+8@James Ennis III@SF@28@6' 7"@210 lbs@Long Beach State@$1,621,415
+35@Kenneth Faried@PF@29@6' 8"@220 lbs@Morehead State@$683,661
+10@Eric Gordon@SG@30@6' 4"@215 lbs@Indiana@$13,500,375
+14@Gerald Green@SG@32@6' 7"@205 lbs@-@$1,512,601
+13@James Harden@PG@29@6' 5"@220 lbs@Arizona State@$35,650,150
+55@Isaiah Hartenstein@PF@20@7' 0"@249 lbs@-@$838,464
+42@Nene Hilario@C@36@6' 11"@250 lbs@-@$3,651,480
+4@Danuel House Jr.@SF@25@6' 7"@220 lbs@Texas A&M@$116,224
+2@Brandon Knight@PG@27@6' 3"@195 lbs@Kentucky@$14,631,250
+3@Chris Paul@PG@33@6' 0"@175 lbs@Wake Forest@$35,654,150
+25@Austin Rivers@PG@26@6' 4"@200 lbs@Duke@$922,943
+17@PJ Tucker@SF@33@6' 6"@245 lbs@Texas@$7,969,537
+15@Clint Capela@C@24@6' 10"@240 lbs@-@$15,293,104
+0@Marquese Chriss@PF@21@6' 10"@240 lbs@Washington@$3,206,160
+6@Gary Clark@PF@24@6' 8"@225 lbs@Cincinnati@$569,873
+12@Vincent Edwards@SF@22@6' 8"@225 lbs@Purdue@-
+8@James Ennis III@SF@28@6' 7"@210 lbs@Long Beach State@$1,621,415
+35@Kenneth Faried@PF@29@6' 8"@220 lbs@Morehead State@$683,661
+10@Eric Gordon@SG@30@6' 4"@215 lbs@Indiana@$13,500,375
+14@Gerald Green@SG@32@6' 7"@205 lbs@-@$1,512,601
+13@James Harden@PG@29@6' 5"@220 lbs@Arizona State@$35,650,150
+55@Isaiah Hartenstein@PF@20@7' 0"@249 lbs@-@$838,464
+42@Nene Hilario@C@36@6' 11"@250 lbs@-@$3,651,480
+4@Danuel House Jr.@SF@25@6' 7"@220 lbs@Texas A&M@$116,224
+2@Brandon Knight@PG@27@6' 3"@195 lbs@Kentucky@$14,631,250
+3@Chris Paul@PG@33@6' 0"@175 lbs@Wake Forest@$35,654,150
+25@Austin Rivers@PG@26@6' 4"@200 lbs@Duke@$922,943
+17@PJ Tucker@SF@33@6' 6"@245 lbs@Texas@$7,969,537
+15@Clint Capela@C@24@6' 10"@240 lbs@-@$15,293,104
+0@Marquese Chriss@PF@21@6' 10"@240 lbs@Washington@$3,206,160
+6@Gary Clark@PF@24@6' 8"@225 lbs@Cincinnati@$569,873
+12@Vincent Edwards@SF@22@6' 8"@225 lbs@Purdue@-
+8@James Ennis III@SF@28@6' 7"@210 lbs@Long Beach State@$1,621,415
+35@Kenneth Faried@PF@29@6' 8"@220 lbs@Morehead State@$683,661
+10@Eric Gordon@SG@30@6' 4"@215 lbs@Indiana@$13,500,375
+14@Gerald Green@SG@32@6' 7"@205 lbs@-@$1,512,601
+13@James Harden@PG@29@6' 5"@220 lbs@Arizona State@$35,650,150
+55@Isaiah Hartenstein@PF@20@7' 0"@249 lbs@-@$838,464
+42@Nene Hilario@C@36@6' 11"@250 lbs@-@$3,651,480
+4@Danuel House Jr.@SF@25@6' 7"@220 lbs@Texas A&M@$116,224
+2@Brandon Knight@PG@27@6' 3"@195 lbs@Kentucky@$14,631,250
+3@Chris Paul@PG@33@6' 0"@175 lbs@Wake Forest@$35,654,150
+25@Austin Rivers@PG@26@6' 4"@200 lbs@Duke@$922,943
+17@PJ Tucker@SF@33@6' 6"@245 lbs@Texas@$7,969,537
 #Indiana Pacers
-13@Ike Anigbogu@C@19@6-10@262@UCLA@$1,378,242
-44@Bojan Bogdanovic@SF@29@6-8@230@@$10,500,000
-20@Trevor Booker@PF@30@6-8@228@Clemson@
-2@Darren Collison@PG@31@6-2@185@UCLA@$10,000,000
-12@Tyreke Evans@SG@28@6-6@220@Memphis@$12,400,000
---@Aaron Holiday@PG@21@6-1@187@UCLA@$1,911,960
---@Alize Johnson@PF@22@6-8@216@Missouri State@$838,464
-6@Cory Joseph@PG@27@6-3@190@Texas@$7,945,000
-22@T.J. Leaf@PF@21@6-10@230@UCLA@$2,407,560
-20@Doug McDermott@SF@26@6-8@219@Creighton@$7,333,333
-4@Victor Oladipo@SG@26@6-4@210@Indiana@$21,000,000
-11@Domantas Sabonis@C@22@6-10@252@Gonzaga@$2,659,800
-5@Edmond Sumner@PG@22@6-5@188@Xavier@
-33@Myles Turner@C@22@6-11@255@Texas@$3,410,284
-23@CJ Wilcox@SG@27@6-5@195@Washington@
-3@Joe Young@PG@26@6-2@185@Oregon@
-21@Thaddeus Young@PF@30@6-8@230@Georgia Tech@$13,964,045
+13@Ike Anigbogu@C@20@6' 10"@250 lbs@UCLA@$1,378,242
+44@Bojan Bogdanovic@SF@29@6' 8"@216 lbs@-@$10,500,000
+2@Darren Collison@PG@31@6' 0"@175 lbs@UCLA@$10,000,000
+12@Tyreke Evans@SG@29@6' 6"@220 lbs@Memphis@$12,400,000
+17@Stephan Hicks@G@26@6' 6"@215 lbs@Cal State Northridge@-
+3@Aaron Holiday@PG@22@6' 1"@185 lbs@UCLA@$1,911,960
+24@Alize Johnson@PF@22@6' 9"@212 lbs@Missouri State@$838,464
+6@Cory Joseph@PG@27@6' 3"@193 lbs@Texas@$7,945,000
+22@T.J. Leaf@PF@21@6' 10"@225 lbs@UCLA@$2,407,560
+20@Doug McDermott@SF@27@6' 8"@225 lbs@Creighton@$7,333,333
+10@Kyle O'Quinn@C@28@6' 10"@250 lbs@Norfolk State@$4,449,000
+4@Victor Oladipo@SG@26@6' 4"@210 lbs@Indiana@$21,000,000
+32@Davon Reed@SG@23@6' 5"@208 lbs@Miami (FL)@-
+11@Domantas Sabonis@PF@22@6' 11"@240 lbs@Gonzaga@$2,659,800
+5@Edmond Sumner@PG@23@6' 6"@176 lbs@Xavier@-
+33@Myles Turner@C@22@6' 11"@250 lbs@Texas@$3,410,284
+21@Thaddeus Young@PF@30@6' 8"@221 lbs@Georgia Tech@$13,964,045
+13@Ike Anigbogu@C@20@6' 10"@250 lbs@UCLA@$1,378,242
+44@Bojan Bogdanovic@SF@29@6' 8"@216 lbs@-@$10,500,000
+2@Darren Collison@PG@31@6' 0"@175 lbs@UCLA@$10,000,000
+12@Tyreke Evans@SG@29@6' 6"@220 lbs@Memphis@$12,400,000
+17@Stephan Hicks@G@26@6' 6"@215 lbs@Cal State Northridge@-
+3@Aaron Holiday@PG@22@6' 1"@185 lbs@UCLA@$1,911,960
+24@Alize Johnson@PF@22@6' 9"@212 lbs@Missouri State@$838,464
+6@Cory Joseph@PG@27@6' 3"@193 lbs@Texas@$7,945,000
+22@T.J. Leaf@PF@21@6' 10"@225 lbs@UCLA@$2,407,560
+20@Doug McDermott@SF@27@6' 8"@225 lbs@Creighton@$7,333,333
+10@Kyle O'Quinn@C@28@6' 10"@250 lbs@Norfolk State@$4,449,000
+4@Victor Oladipo@SG@26@6' 4"@210 lbs@Indiana@$21,000,000
+32@Davon Reed@SG@23@6' 5"@208 lbs@Miami (FL)@-
+11@Domantas Sabonis@PF@22@6' 11"@240 lbs@Gonzaga@$2,659,800
+5@Edmond Sumner@PG@23@6' 6"@176 lbs@Xavier@-
+33@Myles Turner@C@22@6' 11"@250 lbs@Texas@$3,410,284
+21@Thaddeus Young@PF@30@6' 8"@221 lbs@Georgia Tech@$13,964,045
+13@Ike Anigbogu@C@20@6' 10"@250 lbs@UCLA@$1,378,242
+44@Bojan Bogdanovic@SF@29@6' 8"@216 lbs@-@$10,500,000
+2@Darren Collison@PG@31@6' 0"@175 lbs@UCLA@$10,000,000
+12@Tyreke Evans@SG@29@6' 6"@220 lbs@Memphis@$12,400,000
+17@Stephan Hicks@G@26@6' 6"@215 lbs@Cal State Northridge@-
+3@Aaron Holiday@PG@22@6' 1"@185 lbs@UCLA@$1,911,960
+24@Alize Johnson@PF@22@6' 9"@212 lbs@Missouri State@$838,464
+6@Cory Joseph@PG@27@6' 3"@193 lbs@Texas@$7,945,000
+22@T.J. Leaf@PF@21@6' 10"@225 lbs@UCLA@$2,407,560
+20@Doug McDermott@SF@27@6' 8"@225 lbs@Creighton@$7,333,333
+10@Kyle O'Quinn@C@28@6' 10"@250 lbs@Norfolk State@$4,449,000
+4@Victor Oladipo@SG@26@6' 4"@210 lbs@Indiana@$21,000,000
+32@Davon Reed@SG@23@6' 5"@208 lbs@Miami (FL)@-
+11@Domantas Sabonis@PF@22@6' 11"@240 lbs@Gonzaga@$2,659,800
+5@Edmond Sumner@PG@23@6' 6"@176 lbs@Xavier@-
+33@Myles Turner@C@22@6' 11"@250 lbs@Texas@$3,410,284
+21@Thaddeus Young@PF@30@6' 8"@221 lbs@Georgia Tech@$13,964,045
 #La Clippers
-21@Patrick Beverley@PG@30@6-1@185@Arkansas@$5,027,028
-11@Avery Bradley@SG@27@6-2@180@Texas@$12,000,000
-1@Jawun Evans@PG@22@6-0@190@Oklahoma State@$1,378,242
-8@Danilo Gallinari@SF@30@6-10@225@@$21,587,579
-2@Shai Gilgeous-Alexander@PG@20@6-6@180@Kentucky@$3,375,360
---@Marcin Gortat@C@34@6-11@240@@$13,565,218
-5@Montrezl Harrell@PF@24@6-8@240@Louisville@$6,000,000
-34@Tobias Harris@SF@26@6-9@235@Tennessee@$14,800,000
-33@Wesley Johnson@SF@31@6-7@215@Syracuse@$6,134,520
-51@Boban Marjanovic@C@30@7-3@290@@$7,000,000
-12@Luc Mbah a Moute@PF@31@6-8@230@UCLA@$4,320,500
-6@Johnathan Motley@PF@23@6-10@230@Baylor@
-13@Jerome Robinson@SG@21@6-5@188@Boston College@$3,046,200
-30@Mike Scott@PF@30@6-8@237@Virginia@$4,320,500
-4@Milos Teodosic@PG@31@6-5@196@@$6,300,000
-0@Sindarius Thornwell@SG@23@6-5@215@South Carolina@$1,378,242
-12@Tyrone Wallace@SG@24@6-5@198@California@
-23@Lou Williams@SG@31@6-1@175@@$8,000,000
+21@Patrick Beverley@PG@30@6' 1"@185 lbs@Arkansas@$5,027,028
+11@Avery Bradley@SG@28@6' 2"@180 lbs@Texas@$12,000,000
+31@Angel Delgado@C@24@6' 10"@245 lbs@Seton Hall@-
+8@Danilo Gallinari@SF@30@6' 10"@225 lbs@-@$21,587,579
+2@Shai Gilgeous-Alexander@PG@20@6' 6"@181 lbs@Kentucky@$3,375,360
+13@Marcin Gortat@C@34@6' 11"@240 lbs@-@$13,565,218
+5@Montrezl Harrell@PF@24@6' 8"@240 lbs@Louisville@$6,000,000
+34@Tobias Harris@SF@26@6' 9"@235 lbs@Tennessee@$14,800,000
+51@Boban Marjanovic@C@30@7' 3"@290 lbs@-@$7,000,000
+12@Luc Mbah a Moute@PF@32@6' 8"@230 lbs@UCLA@$4,320,500
+15@Johnathan Motley@PF@23@6' 10"@230 lbs@Baylor@-
+10@Jerome Robinson@SG@21@6' 5"@190 lbs@Boston College@$3,046,200
+30@Mike Scott@PF@30@6' 8"@237 lbs@Virginia@$4,320,500
+4@Milos Teodosic@PG@31@6' 5"@196 lbs@-@$6,300,000
+0@Sindarius Thornwell@SG@24@6' 5"@215 lbs@South Carolina@$1,378,242
+9@Tyrone Wallace@SG@24@6' 5"@198 lbs@California@$1,349,383
+23@Lou Williams@SG@32@6' 1"@175 lbs@-@$8,000,000
+21@Patrick Beverley@PG@30@6' 1"@185 lbs@Arkansas@$5,027,028
+11@Avery Bradley@SG@28@6' 2"@180 lbs@Texas@$12,000,000
+31@Angel Delgado@C@24@6' 10"@245 lbs@Seton Hall@-
+8@Danilo Gallinari@SF@30@6' 10"@225 lbs@-@$21,587,579
+2@Shai Gilgeous-Alexander@PG@20@6' 6"@181 lbs@Kentucky@$3,375,360
+13@Marcin Gortat@C@34@6' 11"@240 lbs@-@$13,565,218
+5@Montrezl Harrell@PF@24@6' 8"@240 lbs@Louisville@$6,000,000
+34@Tobias Harris@SF@26@6' 9"@235 lbs@Tennessee@$14,800,000
+51@Boban Marjanovic@C@30@7' 3"@290 lbs@-@$7,000,000
+12@Luc Mbah a Moute@PF@32@6' 8"@230 lbs@UCLA@$4,320,500
+15@Johnathan Motley@PF@23@6' 10"@230 lbs@Baylor@-
+10@Jerome Robinson@SG@21@6' 5"@190 lbs@Boston College@$3,046,200
+30@Mike Scott@PF@30@6' 8"@237 lbs@Virginia@$4,320,500
+4@Milos Teodosic@PG@31@6' 5"@196 lbs@-@$6,300,000
+0@Sindarius Thornwell@SG@24@6' 5"@215 lbs@South Carolina@$1,378,242
+9@Tyrone Wallace@SG@24@6' 5"@198 lbs@California@$1,349,383
+23@Lou Williams@SG@32@6' 1"@175 lbs@-@$8,000,000
+21@Patrick Beverley@PG@30@6' 1"@185 lbs@Arkansas@$5,027,028
+11@Avery Bradley@SG@28@6' 2"@180 lbs@Texas@$12,000,000
+31@Angel Delgado@C@24@6' 10"@245 lbs@Seton Hall@-
+8@Danilo Gallinari@SF@30@6' 10"@225 lbs@-@$21,587,579
+2@Shai Gilgeous-Alexander@PG@20@6' 6"@181 lbs@Kentucky@$3,375,360
+13@Marcin Gortat@C@34@6' 11"@240 lbs@-@$13,565,218
+5@Montrezl Harrell@PF@24@6' 8"@240 lbs@Louisville@$6,000,000
+34@Tobias Harris@SF@26@6' 9"@235 lbs@Tennessee@$14,800,000
+51@Boban Marjanovic@C@30@7' 3"@290 lbs@-@$7,000,000
+12@Luc Mbah a Moute@PF@32@6' 8"@230 lbs@UCLA@$4,320,500
+15@Johnathan Motley@PF@23@6' 10"@230 lbs@Baylor@-
+10@Jerome Robinson@SG@21@6' 5"@190 lbs@Boston College@$3,046,200
+30@Mike Scott@PF@30@6' 8"@237 lbs@Virginia@$4,320,500
+4@Milos Teodosic@PG@31@6' 5"@196 lbs@-@$6,300,000
+0@Sindarius Thornwell@SG@24@6' 5"@215 lbs@South Carolina@$1,378,242
+9@Tyrone Wallace@SG@24@6' 5"@198 lbs@California@$1,349,383
+23@Lou Williams@SG@32@6' 1"@175 lbs@-@$8,000,000
 #Los Angeles Lakers
-2@Lonzo Ball@PG@20@6-6@190@UCLA@$7,461,960
-8@Michael Beasley@SF@29@6-9@235@Kansas State@$3,500,000
-11@Joel Berry II@PG@23@6-0@195@North Carolina@
---@Isaac Bonga@PG@18@6-9@203@@$1,000,000
-1@Kentavious Caldwell-Pope@SG@25@6-5@205@Georgia@$12,000,000
---@Jeffrey Carroll@G@23@6-6@220@@
-4@Alex Caruso@SG@24@6-5@186@Texas A&M@
-5@Josh Hart@SG@23@6-5@215@Villanova@$1,655,160
-20@Andre Ingram@SG@32@6-3@190@American University@
-14@Brandon Ingram@SF@21@6-9@190@Duke@$5,757,120
-23@LeBron James@SF@33@6-8@250@@$35,654,150
-0@Kyle Kuzma@PF@23@6-9@220@Utah@$1,689,840
-1@JaVale McGee@C@30@7-0@270@Nevada@$1,512,601
---@Sviatoslav Mykhailiuk@SF@21@6-8@212@Kansas@$1,487,694
-9@Rajon Rondo@PG@32@6-1@186@Kentucky@$9,000,000
-1@Lance Stephenson@SG@28@6-6@230@Cincinnati@$4,449,000
---@Moritz Wagner@PF@21@7-0@241@Michigan@$1,762,080
-21@Travis Wear@SF@27@6-10@225@UCLA@
---@Johnathan Williams@PF@23@6-9@228@Gonzaga@
-40@Ivica Zubac@C@21@7-1@240@@$1,544,951
+2@Lonzo Ball@PG@21@6' 6"@190 lbs@UCLA@$7,461,960
+11@Michael Beasley@SF@30@6' 9"@235 lbs@Kansas State@$3,500,000
+17@Isaac Bonga@PG@19@6' 8"@180 lbs@-@$1,000,000
+1@Kentavious Caldwell-Pope@SG@25@6' 5"@205 lbs@Georgia@$12,000,000
+4@Alex Caruso@SG@24@6' 5"@186 lbs@Texas A&M@-
+5@Tyson Chandler@C@36@7' 1"@240 lbs@-@$1,333,140
+3@Josh Hart@SG@23@6' 5"@215 lbs@Villanova@$1,655,160
+14@Brandon Ingram@SF@21@6' 9"@190 lbs@Duke@$5,757,120
+23@LeBron James@SF@34@6' 8"@250 lbs@-@$35,654,150
+0@Kyle Kuzma@PF@23@6' 9"@220 lbs@Utah@$1,689,840
+7@JaVale McGee@C@31@7' 0"@270 lbs@Nevada@$1,512,601
+10@Sviatoslav Mykhailiuk@SG@21@6' 8"@205 lbs@Kansas@$1,487,694
+9@Rajon Rondo@PG@32@6' 1"@186 lbs@Kentucky@$9,000,000
+6@Lance Stephenson@SG@28@6' 6"@230 lbs@Cincinnati@$4,449,000
+15@Moritz Wagner@C@21@6' 11"@245 lbs@Michigan@$1,762,080
+19@Johnathan Williams@PF@23@6' 9"@228 lbs@Gonzaga@-
+40@Ivica Zubac@C@21@7' 1"@240 lbs@-@$1,544,951
+2@Lonzo Ball@PG@21@6' 6"@190 lbs@UCLA@$7,461,960
+11@Michael Beasley@SF@30@6' 9"@235 lbs@Kansas State@$3,500,000
+17@Isaac Bonga@PG@19@6' 8"@180 lbs@-@$1,000,000
+1@Kentavious Caldwell-Pope@SG@25@6' 5"@205 lbs@Georgia@$12,000,000
+4@Alex Caruso@SG@24@6' 5"@186 lbs@Texas A&M@-
+5@Tyson Chandler@C@36@7' 1"@240 lbs@-@$1,333,140
+3@Josh Hart@SG@23@6' 5"@215 lbs@Villanova@$1,655,160
+14@Brandon Ingram@SF@21@6' 9"@190 lbs@Duke@$5,757,120
+23@LeBron James@SF@34@6' 8"@250 lbs@-@$35,654,150
+0@Kyle Kuzma@PF@23@6' 9"@220 lbs@Utah@$1,689,840
+7@JaVale McGee@C@31@7' 0"@270 lbs@Nevada@$1,512,601
+10@Sviatoslav Mykhailiuk@SG@21@6' 8"@205 lbs@Kansas@$1,487,694
+9@Rajon Rondo@PG@32@6' 1"@186 lbs@Kentucky@$9,000,000
+6@Lance Stephenson@SG@28@6' 6"@230 lbs@Cincinnati@$4,449,000
+15@Moritz Wagner@C@21@6' 11"@245 lbs@Michigan@$1,762,080
+19@Johnathan Williams@PF@23@6' 9"@228 lbs@Gonzaga@-
+40@Ivica Zubac@C@21@7' 1"@240 lbs@-@$1,544,951
+2@Lonzo Ball@PG@21@6' 6"@190 lbs@UCLA@$7,461,960
+11@Michael Beasley@SF@30@6' 9"@235 lbs@Kansas State@$3,500,000
+17@Isaac Bonga@PG@19@6' 8"@180 lbs@-@$1,000,000
+1@Kentavious Caldwell-Pope@SG@25@6' 5"@205 lbs@Georgia@$12,000,000
+4@Alex Caruso@SG@24@6' 5"@186 lbs@Texas A&M@-
+5@Tyson Chandler@C@36@7' 1"@240 lbs@-@$1,333,140
+3@Josh Hart@SG@23@6' 5"@215 lbs@Villanova@$1,655,160
+14@Brandon Ingram@SF@21@6' 9"@190 lbs@Duke@$5,757,120
+23@LeBron James@SF@34@6' 8"@250 lbs@-@$35,654,150
+0@Kyle Kuzma@PF@23@6' 9"@220 lbs@Utah@$1,689,840
+7@JaVale McGee@C@31@7' 0"@270 lbs@Nevada@$1,512,601
+10@Sviatoslav Mykhailiuk@SG@21@6' 8"@205 lbs@Kansas@$1,487,694
+9@Rajon Rondo@PG@32@6' 1"@186 lbs@Kentucky@$9,000,000
+6@Lance Stephenson@SG@28@6' 6"@230 lbs@Cincinnati@$4,449,000
+15@Moritz Wagner@C@21@6' 11"@245 lbs@Michigan@$1,762,080
+19@Johnathan Williams@PF@23@6' 9"@228 lbs@Gonzaga@-
+40@Ivica Zubac@C@21@7' 1"@240 lbs@-@$1,544,951
 #Memphis Grizzlies
-1@Kyle Anderson@SF@24@6-9@230@UCLA@$8,641,000
-24@Dillon Brooks@SF@22@6-6@220@Oregon@$1,378,242
-8@MarShon Brooks@SG@29@6-5@200@Providence@$1,656,092
---@Jevon Carter@PG@22@6-2@196@West Virginia@$838,464
-18@Omri Casspi@SF@30@6-9@225@@$1,512,601
-6@Mario Chalmers@PG@32@6-2@190@Kansas@
-11@Mike Conley@PG@30@6-1@175@Ohio State@$30,521,115
-18@Markel Crawford@G@23@6-4@209@Ole Miss@
-33@Marc Gasol@C@33@7-1@255@@$24,119,025
-0@JaMychal Green@PF@28@6-9@227@Alabama@$7,666,667
-5@Andrew Harrison@SG@23@6-6@213@Kentucky@$1,544,951
-4@Tyler Harvey@G@25@6-4@185@Eastern Washington@
---@Jaren Jackson Jr.@PF@18@6-11@242@Michigan State@$5,915,040
-7@Shelvin Mack@PG@28@6-3@203@Butler@$1,512,601
---@Doral Moore@C@21@7-1@265@Wake Forest@
-25@Chandler Parsons@SF@29@6-10@230@Florida@$24,107,258
-10@Ivan Rabb@PF@21@6-10@220@California@$1,378,242
-7@Wayne Selden@SG@23@6-5@230@Kansas@$1,544,951
-17@Garrett Temple@SF@32@6-6@195@LSU@$8,000,000
-12@Yuta Watanabe@F@23@6-9@196@@
+1@Kyle Anderson@SF@25@6' 9"@230 lbs@UCLA@$8,641,000
+24@Dillon Brooks@SG@23@6' 6"@220 lbs@Oregon@$1,378,242
+3@Jevon Carter@PG@23@6' 2"@196 lbs@West Virginia@$838,464
+18@Omri Casspi@SF@30@6' 9"@225 lbs@-@$1,512,601
+11@Mike Conley@PG@31@6' 1"@175 lbs@Ohio State@$30,521,115
+33@Marc Gasol@C@33@7' 1"@255 lbs@-@$24,119,025
+0@JaMychal Green@PF@28@6' 9"@227 lbs@Alabama@$7,666,667
+7@Justin Holiday@SF@29@6' 6"@181 lbs@Washington@$4,384,616
+13@Jaren Jackson Jr.@PF@19@6' 11"@242 lbs@Michigan State@$5,915,040
+6@Shelvin Mack@PG@28@6' 3"@203 lbs@Butler@$1,512,601
+55@Joakim Noah@C@33@6' 11"@230 lbs@Florida@$1,093,858
+25@Chandler Parsons@SF@30@6' 10"@230 lbs@Florida@$24,107,258
+10@Ivan Rabb@PF@21@6' 10"@220 lbs@California@$1,378,242
+17@Garrett Temple@SG@32@6' 6"@195 lbs@LSU@$8,000,000
+24@Julian Washburn@F@27@6' 8"@210 lbs@UTEP@-
+12@Yuta Watanabe@G@24@6' 9"@205 lbs@George Washington@-
+1@Kyle Anderson@SF@25@6' 9"@230 lbs@UCLA@$8,641,000
+24@Dillon Brooks@SG@23@6' 6"@220 lbs@Oregon@$1,378,242
+3@Jevon Carter@PG@23@6' 2"@196 lbs@West Virginia@$838,464
+18@Omri Casspi@SF@30@6' 9"@225 lbs@-@$1,512,601
+11@Mike Conley@PG@31@6' 1"@175 lbs@Ohio State@$30,521,115
+33@Marc Gasol@C@33@7' 1"@255 lbs@-@$24,119,025
+0@JaMychal Green@PF@28@6' 9"@227 lbs@Alabama@$7,666,667
+7@Justin Holiday@SF@29@6' 6"@181 lbs@Washington@$4,384,616
+13@Jaren Jackson Jr.@PF@19@6' 11"@242 lbs@Michigan State@$5,915,040
+6@Shelvin Mack@PG@28@6' 3"@203 lbs@Butler@$1,512,601
+55@Joakim Noah@C@33@6' 11"@230 lbs@Florida@$1,093,858
+25@Chandler Parsons@SF@30@6' 10"@230 lbs@Florida@$24,107,258
+10@Ivan Rabb@PF@21@6' 10"@220 lbs@California@$1,378,242
+17@Garrett Temple@SG@32@6' 6"@195 lbs@LSU@$8,000,000
+24@Julian Washburn@F@27@6' 8"@210 lbs@UTEP@-
+12@Yuta Watanabe@G@24@6' 9"@205 lbs@George Washington@-
+1@Kyle Anderson@SF@25@6' 9"@230 lbs@UCLA@$8,641,000
+24@Dillon Brooks@SG@23@6' 6"@220 lbs@Oregon@$1,378,242
+3@Jevon Carter@PG@23@6' 2"@196 lbs@West Virginia@$838,464
+18@Omri Casspi@SF@30@6' 9"@225 lbs@-@$1,512,601
+11@Mike Conley@PG@31@6' 1"@175 lbs@Ohio State@$30,521,115
+33@Marc Gasol@C@33@7' 1"@255 lbs@-@$24,119,025
+0@JaMychal Green@PF@28@6' 9"@227 lbs@Alabama@$7,666,667
+7@Justin Holiday@SF@29@6' 6"@181 lbs@Washington@$4,384,616
+13@Jaren Jackson Jr.@PF@19@6' 11"@242 lbs@Michigan State@$5,915,040
+6@Shelvin Mack@PG@28@6' 3"@203 lbs@Butler@$1,512,601
+55@Joakim Noah@C@33@6' 11"@230 lbs@Florida@$1,093,858
+25@Chandler Parsons@SF@30@6' 10"@230 lbs@Florida@$24,107,258
+10@Ivan Rabb@PF@21@6' 10"@220 lbs@California@$1,378,242
+17@Garrett Temple@SG@32@6' 6"@195 lbs@LSU@$8,000,000
+24@Julian Washburn@F@27@6' 8"@210 lbs@UTEP@-
+12@Yuta Watanabe@G@24@6' 9"@205 lbs@George Washington@-
 #Miami Heat
-13@Bam Adebayo@C@21@6-10@255@Kentucky@$2,955,840
-22@Luke Babbitt@SF@29@6-9@225@Nevada@$14,651,700
-7@Goran Dragic@PG@32@6-3@190@@$18,109,175
-2@Wayne Ellington@SG@30@6-5@200@North Carolina@$6,270,000
-40@Udonis Haslem@PF@38@6-8@235@Florida@
-16@James Johnson@PF@31@6-8@240@Wake Forest@$14,651,700
-8@Tyler Johnson@SG@26@6-4@190@Fresno State@$19,245,370
-5@Derrick Jones Jr.@SF@21@6-7@200@UNLV@$1,512,601
-24@Marcus Lee@F@23@6-10@225@California@
-71@Yante Maten@PF@22@6-8@240@Georgia@
-17@Rodney McGruder@SG@27@6-4@200@Kansas State@$1,544,951
-25@Jordan Mickey@C@24@6-8@235@LSU@
-14@Malik Newman@SG@21@6-3@190@Kansas@
-9@Kelly Olynyk@PF@27@7-0@240@Gonzaga@$12,537,527
-0@Josh Richardson@SF@24@6-6@200@Tennessee@$9,367,200
-55@Jarnell Stokes@PF@24@6-9@255@Tennessee@
-3@Dwyane Wade@SG@36@6-4@220@Marquette@
-11@Dion Waiters@SG@26@6-4@215@Syracuse@$11,550,000
-12@Briante Weber@PG@25@6-2@170@Virginia Commonwealth@
-21@Hassan Whiteside@C@29@7-0@265@Marshall@$25,434,262
-20@Justise Winslow@SF@22@6-7@225@Duke@$3,448,926
+13@Bam Adebayo@C@21@6' 10"@255 lbs@Kentucky@$2,955,840
+7@Goran Dragic@PG@32@6' 3"@190 lbs@-@$18,109,175
+2@Wayne Ellington@SG@31@6' 5"@200 lbs@North Carolina@$6,270,000
+40@Udonis Haslem@PF@38@6' 8"@235 lbs@Florida@$1,512,601
+16@James Johnson@PF@31@6' 8"@240 lbs@Wake Forest@$14,651,700
+8@Tyler Johnson@SG@26@6' 4"@190 lbs@Fresno State@$19,245,370
+5@Derrick Jones Jr.@SF@21@6' 7"@200 lbs@UNLV@$1,512,601
+00@Yante Maten@PF@22@6' 8"@240 lbs@Georgia@-
+17@Rodney McGruder@SF@27@6' 4"@200 lbs@Kansas State@$1,544,951
+9@Kelly Olynyk@PF@27@7' 0"@240 lbs@Gonzaga@$12,537,527
+0@Josh Richardson@SG@25@6' 6"@200 lbs@Tennessee@$9,367,200
+55@Duncan Robinson@SF@24@6' 8"@210 lbs@Michigan@-
+3@Dwyane Wade@SG@37@6' 4"@220 lbs@Marquette@$1,512,601
+11@Dion Waiters@SG@27@6' 4"@215 lbs@Syracuse@$11,550,000
+21@Hassan Whiteside@C@29@7' 0"@265 lbs@Marshall@$25,434,262
+20@Justise Winslow@SF@22@6' 7"@225 lbs@Duke@$3,448,926
+13@Bam Adebayo@C@21@6' 10"@255 lbs@Kentucky@$2,955,840
+7@Goran Dragic@PG@32@6' 3"@190 lbs@-@$18,109,175
+2@Wayne Ellington@SG@31@6' 5"@200 lbs@North Carolina@$6,270,000
+40@Udonis Haslem@PF@38@6' 8"@235 lbs@Florida@$1,512,601
+16@James Johnson@PF@31@6' 8"@240 lbs@Wake Forest@$14,651,700
+8@Tyler Johnson@SG@26@6' 4"@190 lbs@Fresno State@$19,245,370
+5@Derrick Jones Jr.@SF@21@6' 7"@200 lbs@UNLV@$1,512,601
+00@Yante Maten@PF@22@6' 8"@240 lbs@Georgia@-
+17@Rodney McGruder@SF@27@6' 4"@200 lbs@Kansas State@$1,544,951
+9@Kelly Olynyk@PF@27@7' 0"@240 lbs@Gonzaga@$12,537,527
+0@Josh Richardson@SG@25@6' 6"@200 lbs@Tennessee@$9,367,200
+55@Duncan Robinson@SF@24@6' 8"@210 lbs@Michigan@-
+3@Dwyane Wade@SG@37@6' 4"@220 lbs@Marquette@$1,512,601
+11@Dion Waiters@SG@27@6' 4"@215 lbs@Syracuse@$11,550,000
+21@Hassan Whiteside@C@29@7' 0"@265 lbs@Marshall@$25,434,262
+20@Justise Winslow@SF@22@6' 7"@225 lbs@Duke@$3,448,926
+13@Bam Adebayo@C@21@6' 10"@255 lbs@Kentucky@$2,955,840
+7@Goran Dragic@PG@32@6' 3"@190 lbs@-@$18,109,175
+2@Wayne Ellington@SG@31@6' 5"@200 lbs@North Carolina@$6,270,000
+40@Udonis Haslem@PF@38@6' 8"@235 lbs@Florida@$1,512,601
+16@James Johnson@PF@31@6' 8"@240 lbs@Wake Forest@$14,651,700
+8@Tyler Johnson@SG@26@6' 4"@190 lbs@Fresno State@$19,245,370
+5@Derrick Jones Jr.@SF@21@6' 7"@200 lbs@UNLV@$1,512,601
+00@Yante Maten@PF@22@6' 8"@240 lbs@Georgia@-
+17@Rodney McGruder@SF@27@6' 4"@200 lbs@Kansas State@$1,544,951
+9@Kelly Olynyk@PF@27@7' 0"@240 lbs@Gonzaga@$12,537,527
+0@Josh Richardson@SG@25@6' 6"@200 lbs@Tennessee@$9,367,200
+55@Duncan Robinson@SF@24@6' 8"@210 lbs@Michigan@-
+3@Dwyane Wade@SG@37@6' 4"@220 lbs@Marquette@$1,512,601
+11@Dion Waiters@SG@27@6' 4"@215 lbs@Syracuse@$11,550,000
+21@Hassan Whiteside@C@29@7' 0"@265 lbs@Marshall@$25,434,262
+20@Justise Winslow@SF@22@6' 7"@225 lbs@Duke@$3,448,926
 #Milwaukee Bucks
-34@Giannis Antetokounmpo@PF@23@6-11@222@@$24,157,303
---@Jordan Barnett@F@0@6-7@215@@
-6@Eric Bledsoe@PG@28@6-1@205@Kentucky@$15,000,000
-13@Malcolm Brogdon@PG@25@6-5@215@Virginia@$1,544,951
-23@Sterling Brown@SG@23@6-6@230@SMU@$1,378,242
-5@Pat Connaughton@SG@25@6-5@210@Notre Dame@$1,641,000
-8@Matthew Dellavedova@PG@28@6-4@198@Saint Mary's@$9,607,500
-9@Donte DiVincenzo@SG@21@6-5@200@Villanova@$2,481,000
-1@Trevon Duval@G@0@6-3@186@@
-31@John Henson@C@27@6-11@229@North Carolina@$11,327,466
-23@Ersan Ilyasova@PF@31@6-10@235@@$7,000,000
-11@Brook Lopez@C@30@7-0@268@Stanford@$3,382,000
-7@Thon Maker@C@21@7-1@223@@$2,799,720
-43@Brandon McCoy@C@0@7-1@250@@
-22@Khris Middleton@SF@27@6-8@234@Texas A&M@$13,000,000
---@Jaylen Morris@G@22@6-5@185@@$1,378,242
-15@Shabazz Muhammad@SG@25@6-6@221@UCLA@
-0@Xavier Munford@PG@26@6-4@173@Rhode Island@
-40@Marshall Plumlee@C@26@7-0@250@Duke@
-21@Tony Snell@SG@26@6-7@221@New Mexico@$10,607,143
-3@Jason Terry@SG@40@6-2@185@Arizona@
-5@D.J. Wilson@PF@22@6-10@236@Michigan@$2,534,280
-44@Tyler Zeller@C@28@7-0@250@North Carolina@$1,933,941
+34@Giannis Antetokounmpo@PF@24@6' 11"@242 lbs@-@$24,157,303
+6@Eric Bledsoe@PG@29@6' 1"@205 lbs@Kentucky@$15,000,000
+13@Malcolm Brogdon@PG@26@6' 5"@229 lbs@Virginia@$1,544,951
+23@Sterling Brown@SG@23@6' 6"@232 lbs@SMU@$1,378,242
+50@Bonzie Colson@PF@23@6' 6"@225 lbs@Notre Dame@-
+24@Pat Connaughton@SG@26@6' 4"@209 lbs@Notre Dame@$1,641,000
+9@Donte DiVincenzo@SG@21@6' 4"@203 lbs@Villanova@$2,481,000
+0@Trevon Duval@PG@20@6' 2"@189 lbs@Duke@-
+3@George Hill@PG@32@6' 3"@188 lbs@IUPUI@$19,000,000
+77@Ersan Ilyasova@PF@31@6' 10"@235 lbs@-@$7,000,000
+11@Brook Lopez@C@30@7' 0"@270 lbs@Stanford@$3,382,000
+7@Thon Maker@PF@21@7' 1"@221 lbs@-@$2,799,720
+22@Khris Middleton@SF@27@6' 8"@222 lbs@Texas A&M@$13,000,000
+20@Jason Smith@PF@32@7' 0"@240 lbs@Colorado State@$5,450,000
+21@Tony Snell@SG@27@6' 7"@213 lbs@New Mexico@$10,607,143
+5@D.J. Wilson@PF@22@6' 10"@231 lbs@Michigan@$2,534,280
+35@Christian Wood@PF@23@6' 10"@214 lbs@UNLV@$1,512,601
+34@Giannis Antetokounmpo@PF@24@6' 11"@242 lbs@-@$24,157,303
+6@Eric Bledsoe@PG@29@6' 1"@205 lbs@Kentucky@$15,000,000
+13@Malcolm Brogdon@PG@26@6' 5"@229 lbs@Virginia@$1,544,951
+23@Sterling Brown@SG@23@6' 6"@232 lbs@SMU@$1,378,242
+50@Bonzie Colson@PF@23@6' 6"@225 lbs@Notre Dame@-
+24@Pat Connaughton@SG@26@6' 4"@209 lbs@Notre Dame@$1,641,000
+9@Donte DiVincenzo@SG@21@6' 4"@203 lbs@Villanova@$2,481,000
+0@Trevon Duval@PG@20@6' 2"@189 lbs@Duke@-
+3@George Hill@PG@32@6' 3"@188 lbs@IUPUI@$19,000,000
+77@Ersan Ilyasova@PF@31@6' 10"@235 lbs@-@$7,000,000
+11@Brook Lopez@C@30@7' 0"@270 lbs@Stanford@$3,382,000
+7@Thon Maker@PF@21@7' 1"@221 lbs@-@$2,799,720
+22@Khris Middleton@SF@27@6' 8"@222 lbs@Texas A&M@$13,000,000
+20@Jason Smith@PF@32@7' 0"@240 lbs@Colorado State@$5,450,000
+21@Tony Snell@SG@27@6' 7"@213 lbs@New Mexico@$10,607,143
+5@D.J. Wilson@PF@22@6' 10"@231 lbs@Michigan@$2,534,280
+35@Christian Wood@PF@23@6' 10"@214 lbs@UNLV@$1,512,601
+34@Giannis Antetokounmpo@PF@24@6' 11"@242 lbs@-@$24,157,303
+6@Eric Bledsoe@PG@29@6' 1"@205 lbs@Kentucky@$15,000,000
+13@Malcolm Brogdon@PG@26@6' 5"@229 lbs@Virginia@$1,544,951
+23@Sterling Brown@SG@23@6' 6"@232 lbs@SMU@$1,378,242
+50@Bonzie Colson@PF@23@6' 6"@225 lbs@Notre Dame@-
+24@Pat Connaughton@SG@26@6' 4"@209 lbs@Notre Dame@$1,641,000
+9@Donte DiVincenzo@SG@21@6' 4"@203 lbs@Villanova@$2,481,000
+0@Trevon Duval@PG@20@6' 2"@189 lbs@Duke@-
+3@George Hill@PG@32@6' 3"@188 lbs@IUPUI@$19,000,000
+77@Ersan Ilyasova@PF@31@6' 10"@235 lbs@-@$7,000,000
+11@Brook Lopez@C@30@7' 0"@270 lbs@Stanford@$3,382,000
+7@Thon Maker@PF@21@7' 1"@221 lbs@-@$2,799,720
+22@Khris Middleton@SF@27@6' 8"@222 lbs@Texas A&M@$13,000,000
+20@Jason Smith@PF@32@7' 0"@240 lbs@Colorado State@$5,450,000
+21@Tony Snell@SG@27@6' 7"@213 lbs@New Mexico@$10,607,143
+5@D.J. Wilson@PF@22@6' 10"@231 lbs@Michigan@$2,534,280
+35@Christian Wood@PF@23@6' 10"@214 lbs@UNLV@$1,512,601
 #Minnesota Timberwolves
---@Keita Bates-Diop@SF@22@6-9@223@Ohio State@$838,464
-30@Aaron Brooks@PG@33@6-0@161@Oregon@
-23@Jimmy Butler@SG@28@6-8@236@Marquette@$20,445,779
-11@Jamal Crawford@SG@38@6-5@185@Michigan@
-9@Luol Deng@SF@33@6-9@220@Duke@$18,000,000
-5@Gorgui Dieng@C@28@6-11@251@Louisville@$15,170,787
-13@Marcus Georges-Hunt@SG@24@6-5@226@Georgia Tech@
-67@Taj Gibson@PF@33@6-9@235@USC@$14,000,000
-1@Tyus Jones@PG@22@6-2@184@Duke@$2,444,053
-12@James Nunnally@SF@28@6-7@205@UC Santa Barbara@
---@Josh Okogie@SG@20@6-5@211@Georgia Tech@$2,160,746
-24@Justin Patton@C@21@7-0@236@Creighton@$2,667,600
-25@Derrick Rose@PG@29@6-3@190@Memphis@$1,512,601
-0@Jeff Teague@PG@30@6-2@189@Wake Forest@$19,000,000
-43@Anthony Tolliver@PF@33@6-8@240@Creighton@$4,750,000
-32@Karl-Anthony Towns@C@22@7-0@248@Kentucky@$7,839,435
-22@Andrew Wiggins@SF@23@6-8@202@Kansas@$25,467,250
---@C.J. Williams@SG@28@6-5@230@North Carolina State@$1,378,242
+31@Keita Bates-Diop@SF@22@6' 9"@229 lbs@Ohio State@$838,464
+8@Jerryd Bayless@PG@30@6' 3"@200 lbs@Arizona@$8,575,916
+33@Robert Covington@SF@28@6' 9"@225 lbs@Tennessee State@$10,464,092
+9@Luol Deng@SF@33@6' 9"@237 lbs@Duke@$1,512,601
+5@Gorgui Dieng@C@29@6' 11"@252 lbs@Louisville@$15,170,787
+67@Taj Gibson@PF@33@6' 9"@232 lbs@USC@$14,000,000
+1@Tyus Jones@PG@22@6' 2"@196 lbs@Duke@$2,444,053
+20@Josh Okogie@SG@20@6' 4"@212 lbs@Georgia Tech@$2,160,720
+25@Derrick Rose@PG@30@6' 3"@200 lbs@Memphis@$1,512,601
+36@Dario Saric@PF@24@6' 10"@223 lbs@-@$2,526,840
+0@Jeff Teague@PG@30@6' 2"@195 lbs@Wake Forest@$19,000,000
+3@Jared Terrell@SG@23@6' 3"@227 lbs@Rhode Island@-
+43@Anthony Tolliver@PF@33@6' 8"@250 lbs@Creighton@$4,750,000
+32@Karl-Anthony Towns@C@23@7' 0"@248 lbs@Kentucky@$7,839,435
+22@Andrew Wiggins@SF@23@6' 8"@194 lbs@Kansas@$25,467,250
+12@C.J. Williams@SG@28@6' 5"@226 lbs@North Carolina State@-
+31@Keita Bates-Diop@SF@22@6' 9"@229 lbs@Ohio State@$838,464
+8@Jerryd Bayless@PG@30@6' 3"@200 lbs@Arizona@$8,575,916
+33@Robert Covington@SF@28@6' 9"@225 lbs@Tennessee State@$10,464,092
+9@Luol Deng@SF@33@6' 9"@237 lbs@Duke@$1,512,601
+5@Gorgui Dieng@C@29@6' 11"@252 lbs@Louisville@$15,170,787
+67@Taj Gibson@PF@33@6' 9"@232 lbs@USC@$14,000,000
+1@Tyus Jones@PG@22@6' 2"@196 lbs@Duke@$2,444,053
+20@Josh Okogie@SG@20@6' 4"@212 lbs@Georgia Tech@$2,160,720
+25@Derrick Rose@PG@30@6' 3"@200 lbs@Memphis@$1,512,601
+36@Dario Saric@PF@24@6' 10"@223 lbs@-@$2,526,840
+0@Jeff Teague@PG@30@6' 2"@195 lbs@Wake Forest@$19,000,000
+3@Jared Terrell@SG@23@6' 3"@227 lbs@Rhode Island@-
+43@Anthony Tolliver@PF@33@6' 8"@250 lbs@Creighton@$4,750,000
+32@Karl-Anthony Towns@C@23@7' 0"@248 lbs@Kentucky@$7,839,435
+22@Andrew Wiggins@SF@23@6' 8"@194 lbs@Kansas@$25,467,250
+12@C.J. Williams@SG@28@6' 5"@226 lbs@North Carolina State@-
+31@Keita Bates-Diop@SF@22@6' 9"@229 lbs@Ohio State@$838,464
+8@Jerryd Bayless@PG@30@6' 3"@200 lbs@Arizona@$8,575,916
+33@Robert Covington@SF@28@6' 9"@225 lbs@Tennessee State@$10,464,092
+9@Luol Deng@SF@33@6' 9"@237 lbs@Duke@$1,512,601
+5@Gorgui Dieng@C@29@6' 11"@252 lbs@Louisville@$15,170,787
+67@Taj Gibson@PF@33@6' 9"@232 lbs@USC@$14,000,000
+1@Tyus Jones@PG@22@6' 2"@196 lbs@Duke@$2,444,053
+20@Josh Okogie@SG@20@6' 4"@212 lbs@Georgia Tech@$2,160,720
+25@Derrick Rose@PG@30@6' 3"@200 lbs@Memphis@$1,512,601
+36@Dario Saric@PF@24@6' 10"@223 lbs@-@$2,526,840
+0@Jeff Teague@PG@30@6' 2"@195 lbs@Wake Forest@$19,000,000
+3@Jared Terrell@SG@23@6' 3"@227 lbs@Rhode Island@-
+43@Anthony Tolliver@PF@33@6' 8"@250 lbs@Creighton@$4,750,000
+32@Karl-Anthony Towns@C@23@7' 0"@248 lbs@Kentucky@$7,839,435
+22@Andrew Wiggins@SF@23@6' 8"@194 lbs@Kansas@$25,467,250
+12@C.J. Williams@SG@28@6' 5"@226 lbs@North Carolina State@-
 #New Orleans Pelicans
-42@Alexis Ajinca@C@30@7-2@248@@$5,285,394
-12@Trevon Bluiett@SG@23@6-5@215@Xavier@
---@Tony Carr@PG@20@6-5@198@Penn State@
-2@Ian Clark@SG@27@6-3@175@Belmont@$1,512,601
-4@Charles Cooke@SG@24@6-5@196@Dayton@
-27@Jordan Crawford@SG@29@6-5@195@Xavier@
-23@Anthony Davis@PF@25@6-10@253@Kentucky@$25,434,263
-13@Cheick Diallo@PF@21@6-9@220@Kansas@$1,544,951
-33@Garlon Green@F@27@6-7@215@TCU@
-44@Solomon Hill@SF@27@6-7@225@Arizona@$12,252,928
-11@Jrue Holiday@PG@28@6-4@205@UCLA@$25,976,111
-15@Frank Jackson@PG@20@6-3@205@Duke@$1,378,242
-21@Darius Miller@SF@28@6-8@225@Kentucky@$2,205,000
-3@Nikola Mirotic@PF@27@6-10@238@@$12,500,000
-55@E'Twaun Moore@SF@29@6-4@191@Purdue@$8,808,685
-14@Darius Morris@PG@27@6-4@195@Michigan@
-50@Emeka Okafor@C@35@6-10@255@Connecticut@$2,445,085
-4@Jahlil Okafor@C@22@6-11@275@Duke@$1,567,707
-2@Elfrid Payton@PG@24@6-4@185@Louisiana-Lafayette@$3,000,000
-30@Julius Randle@PF@23@6-9@250@Kentucky@$8,641,000
---@Troy Williams@SF@23@6-7@218@Indiana@$1,544,951
+5@Trevon Bluiett@SG@24@6' 6"@198 lbs@Xavier@-
+2@Ian Clark@SG@27@6' 3"@175 lbs@Belmont@$1,512,601
+23@Anthony Davis@PF@25@6' 10"@253 lbs@Kentucky@$25,434,263
+13@Cheick Diallo@PF@22@6' 9"@220 lbs@Kansas@$1,544,951
+10@Tim Frazier@PG@28@6' 1"@170 lbs@Penn State@$1,512,601
+44@Solomon Hill@SF@27@6' 7"@225 lbs@Arizona@$12,252,928
+11@Jrue Holiday@PG@28@6' 4"@205 lbs@UCLA@$25,976,111
+15@Frank Jackson@PG@20@6' 3"@205 lbs@Duke@$1,378,242
+33@Wesley Johnson@SF@31@6' 7"@215 lbs@Syracuse@$6,134,520
+21@Darius Miller@SF@28@6' 8"@225 lbs@Kentucky@$2,205,000
+3@Nikola Mirotic@PF@27@6' 10"@250 lbs@-@$12,500,000
+55@E'Twaun Moore@G@29@6' 4"@191 lbs@Purdue@$8,808,685
+8@Jahlil Okafor@C@23@6' 11"@275 lbs@Duke@$1,567,707
+4@Elfrid Payton@PG@24@6' 4"@185 lbs@Louisiana-Lafayette@$3,000,000
+30@Julius Randle@C@24@6' 9"@250 lbs@Kentucky@$8,641,000
+34@Kenrich Williams@SG@24@6' 7"@210 lbs@TCU@$838,464
+5@Trevon Bluiett@SG@24@6' 6"@198 lbs@Xavier@-
+2@Ian Clark@SG@27@6' 3"@175 lbs@Belmont@$1,512,601
+23@Anthony Davis@PF@25@6' 10"@253 lbs@Kentucky@$25,434,263
+13@Cheick Diallo@PF@22@6' 9"@220 lbs@Kansas@$1,544,951
+10@Tim Frazier@PG@28@6' 1"@170 lbs@Penn State@$1,512,601
+44@Solomon Hill@SF@27@6' 7"@225 lbs@Arizona@$12,252,928
+11@Jrue Holiday@PG@28@6' 4"@205 lbs@UCLA@$25,976,111
+15@Frank Jackson@PG@20@6' 3"@205 lbs@Duke@$1,378,242
+33@Wesley Johnson@SF@31@6' 7"@215 lbs@Syracuse@$6,134,520
+21@Darius Miller@SF@28@6' 8"@225 lbs@Kentucky@$2,205,000
+3@Nikola Mirotic@PF@27@6' 10"@250 lbs@-@$12,500,000
+55@E'Twaun Moore@G@29@6' 4"@191 lbs@Purdue@$8,808,685
+8@Jahlil Okafor@C@23@6' 11"@275 lbs@Duke@$1,567,707
+4@Elfrid Payton@PG@24@6' 4"@185 lbs@Louisiana-Lafayette@$3,000,000
+30@Julius Randle@C@24@6' 9"@250 lbs@Kentucky@$8,641,000
+34@Kenrich Williams@SG@24@6' 7"@210 lbs@TCU@$838,464
+5@Trevon Bluiett@SG@24@6' 6"@198 lbs@Xavier@-
+2@Ian Clark@SG@27@6' 3"@175 lbs@Belmont@$1,512,601
+23@Anthony Davis@PF@25@6' 10"@253 lbs@Kentucky@$25,434,263
+13@Cheick Diallo@PF@22@6' 9"@220 lbs@Kansas@$1,544,951
+10@Tim Frazier@PG@28@6' 1"@170 lbs@Penn State@$1,512,601
+44@Solomon Hill@SF@27@6' 7"@225 lbs@Arizona@$12,252,928
+11@Jrue Holiday@PG@28@6' 4"@205 lbs@UCLA@$25,976,111
+15@Frank Jackson@PG@20@6' 3"@205 lbs@Duke@$1,378,242
+33@Wesley Johnson@SF@31@6' 7"@215 lbs@Syracuse@$6,134,520
+21@Darius Miller@SF@28@6' 8"@225 lbs@Kentucky@$2,205,000
+3@Nikola Mirotic@PF@27@6' 10"@250 lbs@-@$12,500,000
+55@E'Twaun Moore@G@29@6' 4"@191 lbs@Purdue@$8,808,685
+8@Jahlil Okafor@C@23@6' 11"@275 lbs@Duke@$1,567,707
+4@Elfrid Payton@PG@24@6' 4"@185 lbs@Louisiana-Lafayette@$3,000,000
+30@Julius Randle@C@24@6' 9"@250 lbs@Kentucky@$8,641,000
+34@Kenrich Williams@SG@24@6' 7"@210 lbs@TCU@$838,464
 #New York Knicks
---@Kadeem Allen@SG@25@6-3@200@Arizona@
-31@Ron Baker@SG@25@6-4@220@Wichita State@$4,544,000
-23@Trey Burke@PG@25@6-1@191@Michigan@$1,795,015
-21@Damyean Dotson@SG@24@6-5@210@Houston@$1,378,242
-3@Tim Hardaway Jr.@SF@26@6-6@205@Michigan@$17,325,000
-8@Mario Hezonja@SF@23@6-8@218@@$6,500,000
-4@Isaiah Hicks@PF@24@6-9@242@North Carolina@
-55@Jarrett Jack@PG@34@6-3@200@Georgia Tech@
-00@Enes Kanter@C@26@6-11@245@Kentucky@$18,622,514
---@Kevin Knox@SF@19@6-9@212@Kentucky@$3,739,920
-2@Luke Kornet@PF@23@7-1@250@Vanderbilt@$1,619,260
-5@Courtney Lee@SG@32@6-5@200@Western Kentucky@$12,253,780
-1@Emmanuel Mudiay@PG@22@6-5@200@@$4,294,480
-13@Joakim Noah@C@33@6-11@230@Florida@$18,530,000
-11@Frank Ntilikina@PG@20@6-5@190@@$4,155,720
-9@Kyle O'Quinn@C@28@6-10@250@Norfolk State@
-6@Kristaps Porzingis@PF@23@7-3@240@@$5,697,054
---@Mitchell Robinson@C@20@7-1@225@Western Kentucky@$1,485,440
-42@Lance Thomas@SF@30@6-8@235@Duke@$7,119,650
---@Noah Vonleh@PF@23@6-9@245@Indiana@$1,512,601
+0@Kadeem Allen@SG@26@6' 3"@200 lbs@Arizona@-
+23@Trey Burke@PG@26@6' 1"@175 lbs@Michigan@$1,795,015
+21@Damyean Dotson@SG@24@6' 6"@210 lbs@Houston@$1,378,242
+3@Tim Hardaway Jr.@G@26@6' 6"@205 lbs@Michigan@$17,325,000
+8@Mario Hezonja@SF@23@6' 8"@225 lbs@-@$6,500,000
+4@Isaiah Hicks@PF@24@6' 9"@230 lbs@North Carolina@-
+00@Enes Kanter@C@26@6' 11"@250 lbs@Kentucky@$18,622,514
+20@Kevin Knox@SF@19@6' 9"@215 lbs@Kentucky@$3,739,920
+2@Luke Kornet@PF@23@7' 1"@250 lbs@Vanderbilt@$1,619,260
+5@Courtney Lee@SG@33@6' 5"@215 lbs@Western Kentucky@$12,253,780
+1@Emmanuel Mudiay@PG@22@6' 5"@200 lbs@-@$4,294,480
+11@Frank Ntilikina@PG@20@6' 6"@200 lbs@-@$4,155,720
+6@Kristaps Porzingis@PF@23@7' 3"@240 lbs@-@$5,697,054
+26@Mitchell Robinson@C@20@7' 1"@240 lbs@Western Kentucky@$1,485,440
+42@Lance Thomas@SF@30@6' 8"@240 lbs@Duke@$7,119,650
+14@Allonzo Trier@SG@23@6' 5"@200 lbs@Arizona@$3,382,000
+32@Noah Vonleh@PF@23@6' 9"@250 lbs@Indiana@$1,512,601
+0@Kadeem Allen@SG@26@6' 3"@200 lbs@Arizona@-
+23@Trey Burke@PG@26@6' 1"@175 lbs@Michigan@$1,795,015
+21@Damyean Dotson@SG@24@6' 6"@210 lbs@Houston@$1,378,242
+3@Tim Hardaway Jr.@G@26@6' 6"@205 lbs@Michigan@$17,325,000
+8@Mario Hezonja@SF@23@6' 8"@225 lbs@-@$6,500,000
+4@Isaiah Hicks@PF@24@6' 9"@230 lbs@North Carolina@-
+00@Enes Kanter@C@26@6' 11"@250 lbs@Kentucky@$18,622,514
+20@Kevin Knox@SF@19@6' 9"@215 lbs@Kentucky@$3,739,920
+2@Luke Kornet@PF@23@7' 1"@250 lbs@Vanderbilt@$1,619,260
+5@Courtney Lee@SG@33@6' 5"@215 lbs@Western Kentucky@$12,253,780
+1@Emmanuel Mudiay@PG@22@6' 5"@200 lbs@-@$4,294,480
+11@Frank Ntilikina@PG@20@6' 6"@200 lbs@-@$4,155,720
+6@Kristaps Porzingis@PF@23@7' 3"@240 lbs@-@$5,697,054
+26@Mitchell Robinson@C@20@7' 1"@240 lbs@Western Kentucky@$1,485,440
+42@Lance Thomas@SF@30@6' 8"@240 lbs@Duke@$7,119,650
+14@Allonzo Trier@SG@23@6' 5"@200 lbs@Arizona@$3,382,000
+32@Noah Vonleh@PF@23@6' 9"@250 lbs@Indiana@$1,512,601
+0@Kadeem Allen@SG@26@6' 3"@200 lbs@Arizona@-
+23@Trey Burke@PG@26@6' 1"@175 lbs@Michigan@$1,795,015
+21@Damyean Dotson@SG@24@6' 6"@210 lbs@Houston@$1,378,242
+3@Tim Hardaway Jr.@G@26@6' 6"@205 lbs@Michigan@$17,325,000
+8@Mario Hezonja@SF@23@6' 8"@225 lbs@-@$6,500,000
+4@Isaiah Hicks@PF@24@6' 9"@230 lbs@North Carolina@-
+00@Enes Kanter@C@26@6' 11"@250 lbs@Kentucky@$18,622,514
+20@Kevin Knox@SF@19@6' 9"@215 lbs@Kentucky@$3,739,920
+2@Luke Kornet@PF@23@7' 1"@250 lbs@Vanderbilt@$1,619,260
+5@Courtney Lee@SG@33@6' 5"@215 lbs@Western Kentucky@$12,253,780
+1@Emmanuel Mudiay@PG@22@6' 5"@200 lbs@-@$4,294,480
+11@Frank Ntilikina@PG@20@6' 6"@200 lbs@-@$4,155,720
+6@Kristaps Porzingis@PF@23@7' 3"@240 lbs@-@$5,697,054
+26@Mitchell Robinson@C@20@7' 1"@240 lbs@Western Kentucky@$1,485,440
+42@Lance Thomas@SF@30@6' 8"@240 lbs@Duke@$7,119,650
+14@Allonzo Trier@SG@23@6' 5"@200 lbs@Arizona@$3,382,000
+32@Noah Vonleh@PF@23@6' 9"@250 lbs@Indiana@$1,512,601
 #Oklahoma City Thunder
-8@Alex Abrines@SG@25@6-6@190@@$5,455,236
-12@Steven Adams@C@25@7-0@255@Pittsburgh@$24,157,303
-3@Corey Brewer@SG@32@6-9@186@Florida@
-30@Deonte Burton@SG@24@6-5@250@Iowa State@
-34@Tyler Davis@C@21@6-10@266@Texas A&M@
---@Hamidou Diallo@SG@20@6-5@198@Kentucky@$838,464
-2@Raymond Felton@PG@34@6-1@205@North Carolina@$1,512,601
-23@Terrance Ferguson@SG@20@6-7@184@@$2,118,840
-13@Paul George@SF@28@6-9@220@Fresno State@$30,560,700
-9@Jerami Grant@SF@24@6-9@220@Syracuse@$8,653,847
---@Devon Hall@SG@23@6-6@206@Virginia@
---@Kevin Hervey@PF@22@6-8@211@Texas-Arlington@
-34@Josh Huestis@SG@26@6-7@230@Stanford@
-7@Timothe Luwawu-Cabarrot@SG@23@6-6@200@@$1,544,951
---@Abdel Nader@SF@24@6-6@230@Iowa State@$1,378,242
-3@Nerlens Noel@C@24@6-11@220@Kentucky@$1,757,429
-54@Patrick Patterson@PF@29@6-9@230@Kentucky@$5,451,600
-21@Andre Roberson@SG@26@6-7@210@Colorado@$10,000,000
-17@Dennis Schroder@PG@24@6-1@172@@$15,500,000
-0@Russell Westbrook@PG@29@6-3@200@UCLA@$35,654,150
+8@Alex Abrines@SG@25@6' 6"@200 lbs@-@$5,455,236
+12@Steven Adams@C@25@7' 0"@265 lbs@Pittsburgh@$24,157,303
+30@Deonte Burton@G@24@6' 5"@245 lbs@Iowa State@-
+6@Hamidou Diallo@SG@20@6' 5"@198 lbs@Kentucky@$838,464
+2@Raymond Felton@PG@34@6' 1"@205 lbs@North Carolina@$1,512,601
+23@Terrance Ferguson@SG@20@6' 7"@190 lbs@-@$2,118,840
+13@Paul George@SF@28@6' 9"@220 lbs@Fresno State@$30,560,700
+9@Jerami Grant@SF@24@6' 9"@220 lbs@Syracuse@$8,653,847
+15@Donte Grantham@F@23@6' 8"@215 lbs@Clemson@-
+7@Timothe Luwawu-Cabarrot@SG@23@6' 6"@210 lbs@-@$1,544,951
+11@Abdel Nader@SF@25@6' 6"@225 lbs@Iowa State@$1,378,242
+3@Nerlens Noel@PF@24@6' 11"@220 lbs@Kentucky@$1,757,429
+54@Patrick Patterson@PF@29@6' 9"@230 lbs@Kentucky@$5,451,600
+21@Andre Roberson@SG@27@6' 7"@210 lbs@Colorado@$10,000,000
+17@Dennis Schroder@PG@25@6' 1"@172 lbs@-@$15,500,000
+0@Russell Westbrook@PG@30@6' 3"@200 lbs@UCLA@$35,654,150
+8@Alex Abrines@SG@25@6' 6"@200 lbs@-@$5,455,236
+12@Steven Adams@C@25@7' 0"@265 lbs@Pittsburgh@$24,157,303
+30@Deonte Burton@G@24@6' 5"@245 lbs@Iowa State@-
+6@Hamidou Diallo@SG@20@6' 5"@198 lbs@Kentucky@$838,464
+2@Raymond Felton@PG@34@6' 1"@205 lbs@North Carolina@$1,512,601
+23@Terrance Ferguson@SG@20@6' 7"@190 lbs@-@$2,118,840
+13@Paul George@SF@28@6' 9"@220 lbs@Fresno State@$30,560,700
+9@Jerami Grant@SF@24@6' 9"@220 lbs@Syracuse@$8,653,847
+15@Donte Grantham@F@23@6' 8"@215 lbs@Clemson@-
+7@Timothe Luwawu-Cabarrot@SG@23@6' 6"@210 lbs@-@$1,544,951
+11@Abdel Nader@SF@25@6' 6"@225 lbs@Iowa State@$1,378,242
+3@Nerlens Noel@PF@24@6' 11"@220 lbs@Kentucky@$1,757,429
+54@Patrick Patterson@PF@29@6' 9"@230 lbs@Kentucky@$5,451,600
+21@Andre Roberson@SG@27@6' 7"@210 lbs@Colorado@$10,000,000
+17@Dennis Schroder@PG@25@6' 1"@172 lbs@-@$15,500,000
+0@Russell Westbrook@PG@30@6' 3"@200 lbs@UCLA@$35,654,150
+8@Alex Abrines@SG@25@6' 6"@200 lbs@-@$5,455,236
+12@Steven Adams@C@25@7' 0"@265 lbs@Pittsburgh@$24,157,303
+30@Deonte Burton@G@24@6' 5"@245 lbs@Iowa State@-
+6@Hamidou Diallo@SG@20@6' 5"@198 lbs@Kentucky@$838,464
+2@Raymond Felton@PG@34@6' 1"@205 lbs@North Carolina@$1,512,601
+23@Terrance Ferguson@SG@20@6' 7"@190 lbs@-@$2,118,840
+13@Paul George@SF@28@6' 9"@220 lbs@Fresno State@$30,560,700
+9@Jerami Grant@SF@24@6' 9"@220 lbs@Syracuse@$8,653,847
+15@Donte Grantham@F@23@6' 8"@215 lbs@Clemson@-
+7@Timothe Luwawu-Cabarrot@SG@23@6' 6"@210 lbs@-@$1,544,951
+11@Abdel Nader@SF@25@6' 6"@225 lbs@Iowa State@$1,378,242
+3@Nerlens Noel@PF@24@6' 11"@220 lbs@Kentucky@$1,757,429
+54@Patrick Patterson@PF@29@6' 9"@230 lbs@Kentucky@$5,451,600
+21@Andre Roberson@SG@27@6' 7"@210 lbs@Colorado@$10,000,000
+17@Dennis Schroder@PG@25@6' 1"@172 lbs@-@$15,500,000
+0@Russell Westbrook@PG@30@6' 3"@200 lbs@UCLA@$35,654,150
 #Orlando Magic
-4@Arron Afflalo@SG@32@6-5@210@UCLA@
-14@D.J. Augustin@PG@30@6-0@183@Texas@$7,250,000
-5@Mohamed Bamba@C@20@7-0@225@Texas@$4,865,040
-24@Khem Birch@C@25@6-9@220@UNLV@$1,378,242
-10@Evan Fournier@SG@25@6-7@205@@$17,000,000
---@Melvin Frazier Jr.@SF@22@6-6@198@Tulane@$1,050,000
-00@Aaron Gordon@PF@22@6-9@220@Arizona@$21,590,909
-2@Jerian Grant@PG@25@6-4@198@Notre Dame@$2,639,314
-1@Jonathan Isaac@PF@20@6-10@210@Florida State@$4,969,080
-25@Wesley Iwundu@SF@23@6-7@195@Kansas State@$1,378,242
---@Justin Jackson@SF@21@6-7@229@Maryland@
---@Amile Jefferson@PF@25@6-9@224@Duke@
-1@Jarell Martin@PF@24@6-10@239@LSU@$2,416,222
---@Timofey Mozgov@C@32@7-1@275@@$16,000,000
-31@Terrence Ross@SG@27@6-7@206@Washington@$10,500,000
-17@Jonathon Simmons@SF@28@6-6@195@Houston@$6,000,000
-5@Marreese Speights@PF@31@6-10@255@Florida@
---@Jarred Vanderbilt@PF@19@6-9@214@Kentucky@$838,464
-9@Nikola Vucevic@C@27@7-0@260@USC@$12,750,000
+14@D.J. Augustin@PG@31@6' 0"@183 lbs@Texas@$7,250,000
+5@Mo Bamba@C@20@7' 0"@221 lbs@Texas@$4,865,040
+24@Khem Birch@C@26@6' 9"@233 lbs@UNLV@$1,378,242
+13@Isaiah Briscoe@PG@22@6' 3"@215 lbs@Kentucky@$838,464
+3@Troy Caupain@PG@23@6' 4"@210 lbs@Cincinnati@-
+10@Evan Fournier@SG@26@6' 7"@205 lbs@-@$17,000,000
+35@Melvin Frazier Jr.@SG@22@6' 6"@200 lbs@Tulane@$1,050,000
+00@Aaron Gordon@PF@23@6' 9"@220 lbs@Arizona@$21,590,909
+22@Jerian Grant@PG@26@6' 4"@205 lbs@Notre Dame@$2,639,314
+1@Jonathan Isaac@PF@21@6' 10"@210 lbs@Florida State@$4,969,080
+25@Wesley Iwundu@SF@24@6' 7"@195 lbs@Kansas State@$1,378,242
+11@Amile Jefferson@PF@25@6' 9"@222 lbs@Duke@-
+2@Jarell Martin@PF@24@6' 10"@239 lbs@LSU@$2,416,222
+21@Timofey Mozgov@C@32@7' 1"@275 lbs@-@$16,000,000
+31@Terrence Ross@SG@27@6' 7"@206 lbs@Washington@$10,500,000
+17@Jonathon Simmons@SF@29@6' 6"@195 lbs@Houston@$6,000,000
+9@Nikola Vucevic@C@28@7' 0"@260 lbs@USC@$12,750,000
+14@D.J. Augustin@PG@31@6' 0"@183 lbs@Texas@$7,250,000
+5@Mo Bamba@C@20@7' 0"@221 lbs@Texas@$4,865,040
+24@Khem Birch@C@26@6' 9"@233 lbs@UNLV@$1,378,242
+13@Isaiah Briscoe@PG@22@6' 3"@215 lbs@Kentucky@$838,464
+3@Troy Caupain@PG@23@6' 4"@210 lbs@Cincinnati@-
+10@Evan Fournier@SG@26@6' 7"@205 lbs@-@$17,000,000
+35@Melvin Frazier Jr.@SG@22@6' 6"@200 lbs@Tulane@$1,050,000
+00@Aaron Gordon@PF@23@6' 9"@220 lbs@Arizona@$21,590,909
+22@Jerian Grant@PG@26@6' 4"@205 lbs@Notre Dame@$2,639,314
+1@Jonathan Isaac@PF@21@6' 10"@210 lbs@Florida State@$4,969,080
+25@Wesley Iwundu@SF@24@6' 7"@195 lbs@Kansas State@$1,378,242
+11@Amile Jefferson@PF@25@6' 9"@222 lbs@Duke@-
+2@Jarell Martin@PF@24@6' 10"@239 lbs@LSU@$2,416,222
+21@Timofey Mozgov@C@32@7' 1"@275 lbs@-@$16,000,000
+31@Terrence Ross@SG@27@6' 7"@206 lbs@Washington@$10,500,000
+17@Jonathon Simmons@SF@29@6' 6"@195 lbs@Houston@$6,000,000
+9@Nikola Vucevic@C@28@7' 0"@260 lbs@USC@$12,750,000
+14@D.J. Augustin@PG@31@6' 0"@183 lbs@Texas@$7,250,000
+5@Mo Bamba@C@20@7' 0"@221 lbs@Texas@$4,865,040
+24@Khem Birch@C@26@6' 9"@233 lbs@UNLV@$1,378,242
+13@Isaiah Briscoe@PG@22@6' 3"@215 lbs@Kentucky@$838,464
+3@Troy Caupain@PG@23@6' 4"@210 lbs@Cincinnati@-
+10@Evan Fournier@SG@26@6' 7"@205 lbs@-@$17,000,000
+35@Melvin Frazier Jr.@SG@22@6' 6"@200 lbs@Tulane@$1,050,000
+00@Aaron Gordon@PF@23@6' 9"@220 lbs@Arizona@$21,590,909
+22@Jerian Grant@PG@26@6' 4"@205 lbs@Notre Dame@$2,639,314
+1@Jonathan Isaac@PF@21@6' 10"@210 lbs@Florida State@$4,969,080
+25@Wesley Iwundu@SF@24@6' 7"@195 lbs@Kansas State@$1,378,242
+11@Amile Jefferson@PF@25@6' 9"@222 lbs@Duke@-
+2@Jarell Martin@PF@24@6' 10"@239 lbs@LSU@$2,416,222
+21@Timofey Mozgov@C@32@7' 1"@275 lbs@-@$16,000,000
+31@Terrence Ross@SG@27@6' 7"@206 lbs@Washington@$10,500,000
+17@Jonathon Simmons@SF@29@6' 6"@195 lbs@Houston@$6,000,000
+9@Nikola Vucevic@C@28@7' 0"@260 lbs@USC@$12,750,000
 #Philadelphia 76ers
-0@Jerryd Bayless@PG@30@6-3@200@Arizona@$8,575,916
-38@Anthony Brown@SF@25@6-7@224@Stanford@
---@Wilson Chandler@SF@31@6-9@225@DePaul@$12,800,562
-33@Robert Covington@SF@27@6-9@225@Tennessee State@$10,464,092
-21@Joel Embiid@C@24@7-0@250@Kansas@$25,467,250
-20@Markelle Fultz@PG@20@6-4@200@Washington@$8,339,880
-11@Demetrius Jackson@PG@24@6-1@201@Notre Dame@
-5@Amir Johnson@C@31@6-9@240@@$1,512,601
-30@Furkan Korkmaz@SG@21@6-7@190@@$1,740,000
-12@T.J. McConnell@PG@26@6-2@190@Arizona@$1,600,520
---@Shake Milton@SG@21@6-6@207@SMU@
-31@Mike Muscala@PF@27@6-11@240@Bucknell@$5,000,000
-31@Norvel Pelle@PF@25@6-11@216@@
-17@JJ Redick@SG@34@6-4@200@Duke@$12,250,000
-9@Dario Saric@PF@24@6-10@223@@$2,526,840
---@Landry Shamet@PG@21@6-5@188@Wichita State@$1,703,649
-25@Ben Simmons@PG@22@6-10@230@LSU@$6,434,520
---@Zhaire Smith@SG@19@6-4@199@Texas Tech@$2,526,840
+43@Jonah Bolden@PF@23@6' 10"@220 lbs@UCLA@$1,690,000
+00@Corey Brewer@SG@32@6' 9"@186 lbs@Florida@-
+23@Jimmy Butler@SG@29@6' 8"@232 lbs@Marquette@$20,445,779
+22@Wilson Chandler@SF@31@6' 9"@225 lbs@DePaul@$12,800,562
+21@Joel Embiid@C@24@7' 0"@250 lbs@Kansas@$25,467,250
+20@Markelle Fultz@PG@20@6' 4"@200 lbs@Washington@$8,339,880
+7@Haywood Highsmith@F@22@6' 7"@220 lbs@Wheeling Jesuit@-
+5@Amir Johnson@C@31@6' 9"@240 lbs@-@$1,512,601
+30@Furkan Korkmaz@SG@21@6' 7"@190 lbs@-@$1,740,000
+12@T.J. McConnell@PG@26@6' 2"@190 lbs@Arizona@$1,600,520
+18@Shake Milton@SG@22@6' 6"@207 lbs@SMU@-
+31@Mike Muscala@PF@27@6' 11"@240 lbs@Bucknell@$5,000,000
+0@Justin Patton@C@21@7' 0"@241 lbs@Creighton@$2,667,600
+17@JJ Redick@SG@34@6' 4"@200 lbs@Duke@$12,250,000
+1@Landry Shamet@PG@21@6' 5"@188 lbs@Wichita State@$1,703,649
+25@Ben Simmons@PG@22@6' 10"@230 lbs@LSU@$6,434,520
+8@Zhaire Smith@SG@19@6' 4"@199 lbs@Texas Tech@$2,526,840
+43@Jonah Bolden@PF@23@6' 10"@220 lbs@UCLA@$1,690,000
+00@Corey Brewer@SG@32@6' 9"@186 lbs@Florida@-
+23@Jimmy Butler@SG@29@6' 8"@232 lbs@Marquette@$20,445,779
+22@Wilson Chandler@SF@31@6' 9"@225 lbs@DePaul@$12,800,562
+21@Joel Embiid@C@24@7' 0"@250 lbs@Kansas@$25,467,250
+20@Markelle Fultz@PG@20@6' 4"@200 lbs@Washington@$8,339,880
+7@Haywood Highsmith@F@22@6' 7"@220 lbs@Wheeling Jesuit@-
+5@Amir Johnson@C@31@6' 9"@240 lbs@-@$1,512,601
+30@Furkan Korkmaz@SG@21@6' 7"@190 lbs@-@$1,740,000
+12@T.J. McConnell@PG@26@6' 2"@190 lbs@Arizona@$1,600,520
+18@Shake Milton@SG@22@6' 6"@207 lbs@SMU@-
+31@Mike Muscala@PF@27@6' 11"@240 lbs@Bucknell@$5,000,000
+0@Justin Patton@C@21@7' 0"@241 lbs@Creighton@$2,667,600
+17@JJ Redick@SG@34@6' 4"@200 lbs@Duke@$12,250,000
+1@Landry Shamet@PG@21@6' 5"@188 lbs@Wichita State@$1,703,649
+25@Ben Simmons@PG@22@6' 10"@230 lbs@LSU@$6,434,520
+8@Zhaire Smith@SG@19@6' 4"@199 lbs@Texas Tech@$2,526,840
+43@Jonah Bolden@PF@23@6' 10"@220 lbs@UCLA@$1,690,000
+00@Corey Brewer@SG@32@6' 9"@186 lbs@Florida@-
+23@Jimmy Butler@SG@29@6' 8"@232 lbs@Marquette@$20,445,779
+22@Wilson Chandler@SF@31@6' 9"@225 lbs@DePaul@$12,800,562
+21@Joel Embiid@C@24@7' 0"@250 lbs@Kansas@$25,467,250
+20@Markelle Fultz@PG@20@6' 4"@200 lbs@Washington@$8,339,880
+7@Haywood Highsmith@F@22@6' 7"@220 lbs@Wheeling Jesuit@-
+5@Amir Johnson@C@31@6' 9"@240 lbs@-@$1,512,601
+30@Furkan Korkmaz@SG@21@6' 7"@190 lbs@-@$1,740,000
+12@T.J. McConnell@PG@26@6' 2"@190 lbs@Arizona@$1,600,520
+18@Shake Milton@SG@22@6' 6"@207 lbs@SMU@-
+31@Mike Muscala@PF@27@6' 11"@240 lbs@Bucknell@$5,000,000
+0@Justin Patton@C@21@7' 0"@241 lbs@Creighton@$2,667,600
+17@JJ Redick@SG@34@6' 4"@200 lbs@Duke@$12,250,000
+1@Landry Shamet@PG@21@6' 5"@188 lbs@Wichita State@$1,703,649
+25@Ben Simmons@PG@22@6' 10"@230 lbs@LSU@$6,434,520
+8@Zhaire Smith@SG@19@6' 4"@199 lbs@Texas Tech@$2,526,840
 #Phoenix Suns
---@Ryan Anderson@PF@30@6-10@240@California@$20,421,546
-1@Trevor Ariza@SF@33@6-8@215@UCLA@$15,000,000
---@Deandre Ayton@PF@20@7-1@250@Arizona@$8,165,160
-35@Dragan Bender@PF@20@7-1@225@@$4,661,280
-1@Devin Booker@SG@21@6-6@210@Kentucky@$3,314,365
---@Mikal Bridges@SF@22@6-7@210@Villanova@$3,552,960
-2@Isaiah Canaan@PG@27@6-0@200@Murray State@
-4@Tyson Chandler@C@35@7-1@240@@$13,585,000
-30@Troy Daniels@SG@27@6-4@205@Virginia Commonwealth@$3,258,539
-10@Shaquille Harrison@PG@24@6-4@190@Tulsa@$1,378,242
-22@Richaun Holmes@PF@24@6-10@235@Bowling Green@$1,600,520
-20@Josh Jackson@SG@21@6-8@200@Kansas@$6,041,520
---@George King@SF@24@6-6@218@Colorado@
---@De'Anthony Melton@PG@20@6-3@193@USC@
---@Elie Okobo@PG@20@6-2@180@@$1,238,464
-25@Alec Peters@PF@23@6-9@235@Valparaiso@
-32@Davon Reed@SG@23@6-6@210@Miami (FL)@$1,378,242
-12@TJ Warren@SF@25@6-8@215@North Carolina State@$11,750,000
+4@Quincy Acy@SF@28@6' 7"@240 lbs@Baylor@-
+15@Ryan Anderson@PF@30@6' 10"@240 lbs@California@$20,421,546
+22@Deandre Ayton@C@20@7' 1"@250 lbs@Arizona@$8,165,160
+35@Dragan Bender@PF@21@7' 1"@225 lbs@-@$4,661,280
+1@Devin Booker@SG@22@6' 6"@210 lbs@Kentucky@$3,314,365
+25@Mikal Bridges@SF@22@6' 7"@210 lbs@Villanova@$3,552,960
+11@Jamal Crawford@SG@38@6' 5"@185 lbs@Michigan@$1,512,601
+30@Troy Daniels@SG@27@6' 4"@205 lbs@Virginia Commonwealth@$3,258,539
+0@Jawun Evans@PG@22@6' 0"@190 lbs@Oklahoma State@$1,378,242
+21@Richaun Holmes@PF@25@6' 10"@235 lbs@Bowling Green@$1,600,520
+20@Josh Jackson@SF@21@6' 8"@200 lbs@Kansas@$6,041,520
+8@George King@SF@25@6' 6"@220 lbs@Colorado@-
+14@De'Anthony Melton@PG@20@6' 4"@200 lbs@USC@$949,000
+2@Elie Okobo@PG@21@6' 3"@190 lbs@-@$1,238,464
+3@Kelly Oubre Jr.@SF@23@6' 7"@205 lbs@Kansas@$3,208,630
+12@T.J. Warren@SF@25@6' 8"@215 lbs@North Carolina State@$11,750,000
+4@Quincy Acy@SF@28@6' 7"@240 lbs@Baylor@-
+15@Ryan Anderson@PF@30@6' 10"@240 lbs@California@$20,421,546
+22@Deandre Ayton@C@20@7' 1"@250 lbs@Arizona@$8,165,160
+35@Dragan Bender@PF@21@7' 1"@225 lbs@-@$4,661,280
+1@Devin Booker@SG@22@6' 6"@210 lbs@Kentucky@$3,314,365
+25@Mikal Bridges@SF@22@6' 7"@210 lbs@Villanova@$3,552,960
+11@Jamal Crawford@SG@38@6' 5"@185 lbs@Michigan@$1,512,601
+30@Troy Daniels@SG@27@6' 4"@205 lbs@Virginia Commonwealth@$3,258,539
+0@Jawun Evans@PG@22@6' 0"@190 lbs@Oklahoma State@$1,378,242
+21@Richaun Holmes@PF@25@6' 10"@235 lbs@Bowling Green@$1,600,520
+20@Josh Jackson@SF@21@6' 8"@200 lbs@Kansas@$6,041,520
+8@George King@SF@25@6' 6"@220 lbs@Colorado@-
+14@De'Anthony Melton@PG@20@6' 4"@200 lbs@USC@$949,000
+2@Elie Okobo@PG@21@6' 3"@190 lbs@-@$1,238,464
+3@Kelly Oubre Jr.@SF@23@6' 7"@205 lbs@Kansas@$3,208,630
+12@T.J. Warren@SF@25@6' 8"@215 lbs@North Carolina State@$11,750,000
+4@Quincy Acy@SF@28@6' 7"@240 lbs@Baylor@-
+15@Ryan Anderson@PF@30@6' 10"@240 lbs@California@$20,421,546
+22@Deandre Ayton@C@20@7' 1"@250 lbs@Arizona@$8,165,160
+35@Dragan Bender@PF@21@7' 1"@225 lbs@-@$4,661,280
+1@Devin Booker@SG@22@6' 6"@210 lbs@Kentucky@$3,314,365
+25@Mikal Bridges@SF@22@6' 7"@210 lbs@Villanova@$3,552,960
+11@Jamal Crawford@SG@38@6' 5"@185 lbs@Michigan@$1,512,601
+30@Troy Daniels@SG@27@6' 4"@205 lbs@Virginia Commonwealth@$3,258,539
+0@Jawun Evans@PG@22@6' 0"@190 lbs@Oklahoma State@$1,378,242
+21@Richaun Holmes@PF@25@6' 10"@235 lbs@Bowling Green@$1,600,520
+20@Josh Jackson@SF@21@6' 8"@200 lbs@Kansas@$6,041,520
+8@George King@SF@25@6' 6"@220 lbs@Colorado@-
+14@De'Anthony Melton@PG@20@6' 4"@200 lbs@USC@$949,000
+2@Elie Okobo@PG@21@6' 3"@190 lbs@-@$1,238,464
+3@Kelly Oubre Jr.@SF@23@6' 7"@205 lbs@Kansas@$3,208,630
+12@T.J. Warren@SF@25@6' 8"@215 lbs@North Carolina State@$11,750,000
 #Portland Trail Blazers
-8@Al-Farouq Aminu@PF@27@6-9@220@Wake Forest@$6,957,105
-2@Wade Baldwin IV@PG@22@6-4@202@Vanderbilt@$1,544,951
-33@Zach Collins@C@20@7-0@230@Gonzaga@$3,628,920
-30@Seth Curry@SG@28@6-2@185@Duke@$2,795,000
-4@Maurice Harkless@SF@25@6-9@220@St. John's@$10,837,079
-10@Jake Layman@SF@24@6-9@210@Maryland@$1,544,951
-11@Meyers Leonard@C@26@7-1@255@Illinois@$10,595,506
-0@Damian Lillard@PG@28@6-3@195@Weber State@$27,977,689
-3@CJ McCollum@SG@26@6-3@190@Lehigh@$25,759,766
-27@Jusuf Nurkic@C@24@7-0@280@@$11,111,111
-0@Cameron Oliver@PF@22@6-8@239@Nevada@
-21@Chinanu Onuaku@C@21@6-10@245@Louisville@$1,544,951
-23@Gary Payton II@PG@25@6-3@190@Oregon State@
---@Anfernee Simons@SG@19@6-4@183@@$1,760,520
---@Nik Stauskas@SG@24@6-6@205@Michigan@$1,512,601
-50@Caleb Swanigan@PF@21@6-8@250@Purdue@$1,740,000
---@Gary Trent Jr.@SG@19@6-6@204@Duke@$838,464
-1@Evan Turner@SF@29@6-7@220@Ohio State@$17,868,853
+8@Al-Farouq Aminu@PF@28@6' 9"@220 lbs@Wake Forest@$6,957,105
+2@Wade Baldwin IV@PG@22@6' 4"@200 lbs@Vanderbilt@$1,544,951
+33@Zach Collins@PF@21@7' 0"@235 lbs@Gonzaga@$3,628,920
+31@Seth Curry@SG@28@6' 2"@185 lbs@Duke@$2,795,000
+4@Maurice Harkless@SF@25@6' 9"@220 lbs@St. John's@$10,837,079
+10@Jake Layman@SF@24@6' 9"@215 lbs@Maryland@$1,544,951
+11@Meyers Leonard@PF@26@7' 1"@255 lbs@Illinois@$10,595,506
+0@Damian Lillard@PG@28@6' 3"@195 lbs@Weber State@$27,977,689
+3@CJ McCollum@SG@27@6' 3"@190 lbs@Lehigh@$25,759,766
+27@Jusuf Nurkic@C@24@7' 0"@275 lbs@-@$11,111,111
+24@Anfernee Simons@SG@19@6' 4"@185 lbs@-@$1,760,520
+6@Nik Stauskas@SG@25@6' 6"@205 lbs@Michigan@$1,512,601
+50@Caleb Swanigan@PF@21@6' 9"@250 lbs@Purdue@$1,740,000
+9@Gary Trent Jr.@SG@20@6' 6"@205 lbs@Duke@$838,464
+1@Evan Turner@SG@30@6' 7"@220 lbs@Ohio State@$17,868,853
+8@Al-Farouq Aminu@PF@28@6' 9"@220 lbs@Wake Forest@$6,957,105
+2@Wade Baldwin IV@PG@22@6' 4"@200 lbs@Vanderbilt@$1,544,951
+33@Zach Collins@PF@21@7' 0"@235 lbs@Gonzaga@$3,628,920
+31@Seth Curry@SG@28@6' 2"@185 lbs@Duke@$2,795,000
+4@Maurice Harkless@SF@25@6' 9"@220 lbs@St. John's@$10,837,079
+10@Jake Layman@SF@24@6' 9"@215 lbs@Maryland@$1,544,951
+11@Meyers Leonard@PF@26@7' 1"@255 lbs@Illinois@$10,595,506
+0@Damian Lillard@PG@28@6' 3"@195 lbs@Weber State@$27,977,689
+3@CJ McCollum@SG@27@6' 3"@190 lbs@Lehigh@$25,759,766
+27@Jusuf Nurkic@C@24@7' 0"@275 lbs@-@$11,111,111
+24@Anfernee Simons@SG@19@6' 4"@185 lbs@-@$1,760,520
+6@Nik Stauskas@SG@25@6' 6"@205 lbs@Michigan@$1,512,601
+50@Caleb Swanigan@PF@21@6' 9"@250 lbs@Purdue@$1,740,000
+9@Gary Trent Jr.@SG@20@6' 6"@205 lbs@Duke@$838,464
+1@Evan Turner@SG@30@6' 7"@220 lbs@Ohio State@$17,868,853
+8@Al-Farouq Aminu@PF@28@6' 9"@220 lbs@Wake Forest@$6,957,105
+2@Wade Baldwin IV@PG@22@6' 4"@200 lbs@Vanderbilt@$1,544,951
+33@Zach Collins@PF@21@7' 0"@235 lbs@Gonzaga@$3,628,920
+31@Seth Curry@SG@28@6' 2"@185 lbs@Duke@$2,795,000
+4@Maurice Harkless@SF@25@6' 9"@220 lbs@St. John's@$10,837,079
+10@Jake Layman@SF@24@6' 9"@215 lbs@Maryland@$1,544,951
+11@Meyers Leonard@PF@26@7' 1"@255 lbs@Illinois@$10,595,506
+0@Damian Lillard@PG@28@6' 3"@195 lbs@Weber State@$27,977,689
+3@CJ McCollum@SG@27@6' 3"@190 lbs@Lehigh@$25,759,766
+27@Jusuf Nurkic@C@24@7' 0"@275 lbs@-@$11,111,111
+24@Anfernee Simons@SG@19@6' 4"@185 lbs@-@$1,760,520
+6@Nik Stauskas@SG@25@6' 6"@205 lbs@Michigan@$1,512,601
+50@Caleb Swanigan@PF@21@6' 9"@250 lbs@Purdue@$1,740,000
+9@Gary Trent Jr.@SG@20@6' 6"@205 lbs@Duke@$838,464
+1@Evan Turner@SG@30@6' 7"@220 lbs@Ohio State@$17,868,853
 #San Antonio Spurs
-12@LaMarcus Aldridge@PF@33@6-11@260@Texas@$22,347,015
-18@Marco Belinelli@SG@32@6-5@210@@$6,153,846
-42@Davis Bertans@C@25@6-10@210@@$7,000,000
-10@Matt Costello@SF@25@6-10@240@Michigan State@
-44@Dante Cunningham@SF@31@6-8@230@Villanova@$2,487,000
-10@DeMar DeRozan@SG@29@6-7@220@USC@$27,739,975
-11@Bryn Forbes@SG@24@6-3@190@Michigan State@$3,125,000
-16@Pau Gasol@C@38@7-0@250@@$16,800,000
-22@Rudy Gay@SF@32@6-8@230@Connecticut@$10,087,200
-24@Darrun Hilliard@SG@25@6-6@220@Villanova@
-77@Joffrey Lauvergne@C@26@6-11@260@@
-7@Chimezie Metu@PF@21@6-10@219@USC@
-8@Patty Mills@PG@30@6-0@185@Saint Mary's@$11,571,429
-5@Dejounte Murray@PG@21@6-5@170@Washington@$1,544,951
-42@Jakob Poeltl@C@22@7-0@230@Utah@$2,947,320
-8@Quincy Pondexter@SG@30@6-7@225@Washington@$1,512,601
-1@Lonnie Walker IV@SG@19@6-5@196@Miami (FL)@$2,357,160
-4@Derrick White@PG@24@6-4@190@Colorado@$1,667,160
+12@LaMarcus Aldridge@C@33@6' 11"@260 lbs@Texas@$22,347,015
+18@Marco Belinelli@SG@32@6' 5"@210 lbs@-@$6,153,846
+42@Davis Bertans@SF@26@6' 10"@225 lbs@-@$7,000,000
+33@Dante Cunningham@SF@31@6' 8"@230 lbs@Villanova@$2,487,000
+10@DeMar DeRozan@SG@29@6' 7"@220 lbs@USC@$27,739,975
+14@Drew Eubanks@PF@21@6' 10"@245 lbs@Oregon State@-
+11@Bryn Forbes@SG@25@6' 3"@190 lbs@Michigan State@$3,125,000
+16@Pau Gasol@C@38@7' 0"@250 lbs@-@$16,800,000
+22@Rudy Gay@SF@32@6' 8"@230 lbs@Connecticut@$10,087,200
+7@Chimezie Metu@PF@21@6' 10"@225 lbs@USC@$838,464
+8@Patty Mills@PG@30@6' 0"@180 lbs@Saint Mary's@$11,571,429
+26@Ben Moore@PF@23@6' 8"@220 lbs@SMU@$1,349,383
+5@Dejounte Murray@PG@22@6' 5"@170 lbs@Washington@$1,544,951
+25@Jakob Poeltl@C@23@7' 0"@230 lbs@Utah@$2,947,320
+3@Quincy Pondexter@SF@30@6' 7"@230 lbs@Washington@$1,512,601
+1@Lonnie Walker IV@SG@20@6' 5"@205 lbs@Miami (FL)@$2,357,160
+4@Derrick White@PG@24@6' 4"@190 lbs@Colorado@$1,667,160
+12@LaMarcus Aldridge@C@33@6' 11"@260 lbs@Texas@$22,347,015
+18@Marco Belinelli@SG@32@6' 5"@210 lbs@-@$6,153,846
+42@Davis Bertans@SF@26@6' 10"@225 lbs@-@$7,000,000
+33@Dante Cunningham@SF@31@6' 8"@230 lbs@Villanova@$2,487,000
+10@DeMar DeRozan@SG@29@6' 7"@220 lbs@USC@$27,739,975
+14@Drew Eubanks@PF@21@6' 10"@245 lbs@Oregon State@-
+11@Bryn Forbes@SG@25@6' 3"@190 lbs@Michigan State@$3,125,000
+16@Pau Gasol@C@38@7' 0"@250 lbs@-@$16,800,000
+22@Rudy Gay@SF@32@6' 8"@230 lbs@Connecticut@$10,087,200
+7@Chimezie Metu@PF@21@6' 10"@225 lbs@USC@$838,464
+8@Patty Mills@PG@30@6' 0"@180 lbs@Saint Mary's@$11,571,429
+26@Ben Moore@PF@23@6' 8"@220 lbs@SMU@$1,349,383
+5@Dejounte Murray@PG@22@6' 5"@170 lbs@Washington@$1,544,951
+25@Jakob Poeltl@C@23@7' 0"@230 lbs@Utah@$2,947,320
+3@Quincy Pondexter@SF@30@6' 7"@230 lbs@Washington@$1,512,601
+1@Lonnie Walker IV@SG@20@6' 5"@205 lbs@Miami (FL)@$2,357,160
+4@Derrick White@PG@24@6' 4"@190 lbs@Colorado@$1,667,160
+12@LaMarcus Aldridge@C@33@6' 11"@260 lbs@Texas@$22,347,015
+18@Marco Belinelli@SG@32@6' 5"@210 lbs@-@$6,153,846
+42@Davis Bertans@SF@26@6' 10"@225 lbs@-@$7,000,000
+33@Dante Cunningham@SF@31@6' 8"@230 lbs@Villanova@$2,487,000
+10@DeMar DeRozan@SG@29@6' 7"@220 lbs@USC@$27,739,975
+14@Drew Eubanks@PF@21@6' 10"@245 lbs@Oregon State@-
+11@Bryn Forbes@SG@25@6' 3"@190 lbs@Michigan State@$3,125,000
+16@Pau Gasol@C@38@7' 0"@250 lbs@-@$16,800,000
+22@Rudy Gay@SF@32@6' 8"@230 lbs@Connecticut@$10,087,200
+7@Chimezie Metu@PF@21@6' 10"@225 lbs@USC@$838,464
+8@Patty Mills@PG@30@6' 0"@180 lbs@Saint Mary's@$11,571,429
+26@Ben Moore@PF@23@6' 8"@220 lbs@SMU@$1,349,383
+5@Dejounte Murray@PG@22@6' 5"@170 lbs@Washington@$1,544,951
+25@Jakob Poeltl@C@23@7' 0"@230 lbs@Utah@$2,947,320
+3@Quincy Pondexter@SF@30@6' 7"@230 lbs@Washington@$1,512,601
+1@Lonnie Walker IV@SG@20@6' 5"@205 lbs@Miami (FL)@$2,357,160
+4@Derrick White@PG@24@6' 4"@190 lbs@Colorado@$1,667,160
 #Sacramento Kings
---@Jamel Artis@SG@25@6-7@213@Pittsburgh@
---@Marvin Bagley III@PF@19@6-11@234@Duke@$7,305,600
---@Nemanja Bjelica@PF@30@6-10@234@@$6,500,000
-8@Bogdan Bogdanovic@SG@26@6-6@205@@$9,000,000
-00@Willie Cauley-Stein@C@25@7-0@240@Kentucky@$4,696,875
-45@Jack Cooley@C@27@6-10@274@Notre Dame@
-23@Deyonta Davis@C@21@7-0@237@Michigan State@$1,544,951
-11@Yogi Ferrell@PG@25@6-0@180@Indiana@$3,000,000
-5@De'Aaron Fox@PG@20@6-3@175@Kentucky@$5,470,920
-20@Harry Giles@PF@20@6-10@240@Duke@$2,207,040
-40@Nigel Hayes@SF@23@6-7@254@Wisconsin@
-24@Buddy Hield@SG@24@6-4@214@Oklahoma@$3,844,760
-25@Justin Jackson@SF@23@6-8@210@North Carolina@$2,807,880
-41@Kosta Koufos@C@29@7-0@265@Ohio State@$8,739,500
-7@Skal Labissiere@PF@22@6-11@225@Kentucky@$1,544,951
-10@Frank Mason III@PG@24@5-11@190@Kansas@$1,378,242
-23@Ben McLemore@SG@25@6-5@195@Kansas@$5,460,000
-50@Zach Randolph@PF@37@6-9@250@Michigan State@$11,692,308
-29@JaKarr Sampson@SF@25@6-9@207@St. John's@
-9@Iman Shumpert@SG@28@6-5@220@Georgia Tech@$11,011,234
+35@Marvin Bagley III@PF@19@6' 11"@234 lbs@Duke@$7,305,600
+88@Nemanja Bjelica@PF@30@6' 10"@234 lbs@-@$6,500,000
+8@Bogdan Bogdanovic@SG@26@6' 6"@205 lbs@-@$9,000,000
+00@Willie Cauley-Stein@C@25@7' 0"@240 lbs@Kentucky@$4,696,875
+3@Yogi Ferrell@PG@25@6' 0"@180 lbs@Indiana@$3,000,000
+5@De'Aaron Fox@PG@21@6' 3"@175 lbs@Kentucky@$5,470,920
+32@Wenyen Gabriel@F@21@6' 9"@205 lbs@Kentucky@-
+20@Harry Giles@PF@20@6' 10"@240 lbs@Duke@$2,207,040
+24@Buddy Hield@SG@26@6' 4"@214 lbs@Oklahoma@$3,844,760
+25@Justin Jackson@SF@23@6' 8"@210 lbs@North Carolina@$2,807,880
+41@Kosta Koufos@C@29@7' 0"@245 lbs@Ohio State@$8,739,500
+7@Skal Labissiere@PF@22@6' 11"@235 lbs@Kentucky@$1,544,951
+10@Frank Mason III@PG@24@5' 11"@190 lbs@Kansas@$1,378,242
+23@Ben McLemore@SG@25@6' 5"@201 lbs@Kansas@$5,460,000
+50@Zach Randolph@PF@37@6' 9"@250 lbs@Michigan State@$11,692,308
+9@Iman Shumpert@SG@28@6' 5"@215 lbs@Georgia Tech@$11,011,234
+19@Troy Williams@SF@24@6' 7"@218 lbs@Indiana@$1,512,601
+35@Marvin Bagley III@PF@19@6' 11"@234 lbs@Duke@$7,305,600
+88@Nemanja Bjelica@PF@30@6' 10"@234 lbs@-@$6,500,000
+8@Bogdan Bogdanovic@SG@26@6' 6"@205 lbs@-@$9,000,000
+00@Willie Cauley-Stein@C@25@7' 0"@240 lbs@Kentucky@$4,696,875
+3@Yogi Ferrell@PG@25@6' 0"@180 lbs@Indiana@$3,000,000
+5@De'Aaron Fox@PG@21@6' 3"@175 lbs@Kentucky@$5,470,920
+32@Wenyen Gabriel@F@21@6' 9"@205 lbs@Kentucky@-
+20@Harry Giles@PF@20@6' 10"@240 lbs@Duke@$2,207,040
+24@Buddy Hield@SG@26@6' 4"@214 lbs@Oklahoma@$3,844,760
+25@Justin Jackson@SF@23@6' 8"@210 lbs@North Carolina@$2,807,880
+41@Kosta Koufos@C@29@7' 0"@245 lbs@Ohio State@$8,739,500
+7@Skal Labissiere@PF@22@6' 11"@235 lbs@Kentucky@$1,544,951
+10@Frank Mason III@PG@24@5' 11"@190 lbs@Kansas@$1,378,242
+23@Ben McLemore@SG@25@6' 5"@201 lbs@Kansas@$5,460,000
+50@Zach Randolph@PF@37@6' 9"@250 lbs@Michigan State@$11,692,308
+9@Iman Shumpert@SG@28@6' 5"@215 lbs@Georgia Tech@$11,011,234
+19@Troy Williams@SF@24@6' 7"@218 lbs@Indiana@$1,512,601
+35@Marvin Bagley III@PF@19@6' 11"@234 lbs@Duke@$7,305,600
+88@Nemanja Bjelica@PF@30@6' 10"@234 lbs@-@$6,500,000
+8@Bogdan Bogdanovic@SG@26@6' 6"@205 lbs@-@$9,000,000
+00@Willie Cauley-Stein@C@25@7' 0"@240 lbs@Kentucky@$4,696,875
+3@Yogi Ferrell@PG@25@6' 0"@180 lbs@Indiana@$3,000,000
+5@De'Aaron Fox@PG@21@6' 3"@175 lbs@Kentucky@$5,470,920
+32@Wenyen Gabriel@F@21@6' 9"@205 lbs@Kentucky@-
+20@Harry Giles@PF@20@6' 10"@240 lbs@Duke@$2,207,040
+24@Buddy Hield@SG@26@6' 4"@214 lbs@Oklahoma@$3,844,760
+25@Justin Jackson@SF@23@6' 8"@210 lbs@North Carolina@$2,807,880
+41@Kosta Koufos@C@29@7' 0"@245 lbs@Ohio State@$8,739,500
+7@Skal Labissiere@PF@22@6' 11"@235 lbs@Kentucky@$1,544,951
+10@Frank Mason III@PG@24@5' 11"@190 lbs@Kansas@$1,378,242
+23@Ben McLemore@SG@25@6' 5"@201 lbs@Kansas@$5,460,000
+50@Zach Randolph@PF@37@6' 9"@250 lbs@Michigan State@$11,692,308
+9@Iman Shumpert@SG@28@6' 5"@215 lbs@Georgia Tech@$11,011,234
+19@Troy Williams@SF@24@6' 7"@218 lbs@Indiana@$1,512,601
 #Toronto Raptors
-3@OG Anunoby@SF@21@6-8@235@Indiana@$2,034,120
-4@Lorenzo Brown@PG@28@6-5@189@North Carolina State@$1,512,601
---@Kay Felder@PG@23@5-9@176@Oakland@
-14@Danny Green@SG@31@6-6@215@North Carolina@$10,000,000
-9@Serge Ibaka@PF@28@6-10@235@@$21,666,667
-2@Kawhi Leonard@SF@27@6-7@230@San Diego State@$23,114,067
-7@Kyle Lowry@PG@32@6-0@205@Villanova@$31,200,000
-18@Jordan Loyd@G@25@6-4@210@@
-0@CJ Miles@SF@31@6-6@225@@$8,333,333
-13@Malcolm Miller@SF@25@6-7@210@Holy Cross@
-55@Greg Monroe@C@28@6-11@265@Georgetown@
-92@Lucas Nogueira@C@26@7-0@220@@
-24@Norman Powell@SF@25@6-4@215@UCLA@$9,367,200
-22@Malachi Richardson@SG@22@6-6@205@Syracuse@$1,569,360
-43@Pascal Siakam@PF@24@6-9@230@New Mexico State@$1,544,951
-17@Jonas Valanciunas@C@26@7-0@255@@$16,539,326
-23@Fred VanVleet@PG@24@6-0@195@Wichita State@$8,653,847
-55@Delon Wright@PG@26@6-5@190@Utah@$2,536,898
+3@OG Anunoby@SF@21@6' 8"@232 lbs@Indiana@$2,034,120
+25@Chris Boucher@PF@26@6' 10"@200 lbs@Oregon@-
+14@Danny Green@SG@31@6' 6"@215 lbs@North Carolina@$10,000,000
+9@Serge Ibaka@C@29@6' 10"@235 lbs@-@$21,666,667
+2@Kawhi Leonard@SF@27@6' 7"@230 lbs@San Diego State@$23,114,067
+7@Kyle Lowry@PG@32@6' 1"@196 lbs@Villanova@$31,200,000
+8@Jordan Loyd@PG@25@6' 4"@210 lbs@Indianapolis@-
+1@Patrick McCaw@SG@23@6' 7"@185 lbs@UNLV@$777,665
+0@CJ Miles@SF@31@6' 6"@220 lbs@-@$8,333,333
+15@Greg Monroe@C@28@6' 11"@265 lbs@Georgetown@$1,512,601
+24@Norman Powell@SF@25@6' 4"@215 lbs@UCLA@$9,367,200
+22@Malachi Richardson@SG@23@6' 6"@205 lbs@Syracuse@$1,569,360
+43@Pascal Siakam@PF@24@6' 9"@230 lbs@New Mexico State@$1,544,951
+17@Jonas Valanciunas@C@26@7' 0"@265 lbs@-@$16,539,326
+23@Fred VanVleet@PG@24@6' 0"@195 lbs@Wichita State@$8,653,847
+55@Delon Wright@PG@26@6' 5"@183 lbs@Utah@$2,536,898
+3@OG Anunoby@SF@21@6' 8"@232 lbs@Indiana@$2,034,120
+25@Chris Boucher@PF@26@6' 10"@200 lbs@Oregon@-
+14@Danny Green@SG@31@6' 6"@215 lbs@North Carolina@$10,000,000
+9@Serge Ibaka@C@29@6' 10"@235 lbs@-@$21,666,667
+2@Kawhi Leonard@SF@27@6' 7"@230 lbs@San Diego State@$23,114,067
+7@Kyle Lowry@PG@32@6' 1"@196 lbs@Villanova@$31,200,000
+8@Jordan Loyd@PG@25@6' 4"@210 lbs@Indianapolis@-
+1@Patrick McCaw@SG@23@6' 7"@185 lbs@UNLV@$777,665
+0@CJ Miles@SF@31@6' 6"@220 lbs@-@$8,333,333
+15@Greg Monroe@C@28@6' 11"@265 lbs@Georgetown@$1,512,601
+24@Norman Powell@SF@25@6' 4"@215 lbs@UCLA@$9,367,200
+22@Malachi Richardson@SG@23@6' 6"@205 lbs@Syracuse@$1,569,360
+43@Pascal Siakam@PF@24@6' 9"@230 lbs@New Mexico State@$1,544,951
+17@Jonas Valanciunas@C@26@7' 0"@265 lbs@-@$16,539,326
+23@Fred VanVleet@PG@24@6' 0"@195 lbs@Wichita State@$8,653,847
+55@Delon Wright@PG@26@6' 5"@183 lbs@Utah@$2,536,898
+3@OG Anunoby@SF@21@6' 8"@232 lbs@Indiana@$2,034,120
+25@Chris Boucher@PF@26@6' 10"@200 lbs@Oregon@-
+14@Danny Green@SG@31@6' 6"@215 lbs@North Carolina@$10,000,000
+9@Serge Ibaka@C@29@6' 10"@235 lbs@-@$21,666,667
+2@Kawhi Leonard@SF@27@6' 7"@230 lbs@San Diego State@$23,114,067
+7@Kyle Lowry@PG@32@6' 1"@196 lbs@Villanova@$31,200,000
+8@Jordan Loyd@PG@25@6' 4"@210 lbs@Indianapolis@-
+1@Patrick McCaw@SG@23@6' 7"@185 lbs@UNLV@$777,665
+0@CJ Miles@SF@31@6' 6"@220 lbs@-@$8,333,333
+15@Greg Monroe@C@28@6' 11"@265 lbs@Georgetown@$1,512,601
+24@Norman Powell@SF@25@6' 4"@215 lbs@UCLA@$9,367,200
+22@Malachi Richardson@SG@23@6' 6"@205 lbs@Syracuse@$1,569,360
+43@Pascal Siakam@PF@24@6' 9"@230 lbs@New Mexico State@$1,544,951
+17@Jonas Valanciunas@C@26@7' 0"@265 lbs@-@$16,539,326
+23@Fred VanVleet@PG@24@6' 0"@195 lbs@Wichita State@$8,653,847
+55@Delon Wright@PG@26@6' 5"@183 lbs@Utah@$2,536,898
 #Utah Jazz
---@Grayson Allen@SG@22@6-5@198@Duke@$2,074,320
-13@Tony Bradley@C@20@6-10@248@North Carolina@$1,679,520
-10@Alec Burks@SG@27@6-6@214@Colorado@$11,536,515
-34@Tyler Cavanaugh@PF@24@6-9@238@George Washington@
-99@Jae Crowder@PF@28@6-6@235@Marquette@$7,305,825
-11@Dante Exum@PG@23@6-6@190@@$9,600,000
-15@Derrick Favors@PF@27@6-10@265@Georgia Tech@$16,900,000
-27@Rudy Gobert@C@26@7-1@245@@$23,241,573
-44@Isaac Haas@C@22@7-2@290@@
-2@Joe Ingles@SF@30@6-8@226@@$13,045,455
-18@Jairus Lyles@G@22@6-2@175@@
-21@Erik McCree@SF@24@6-8@225@Louisiana Tech@
-45@Donovan Mitchell@SG@22@6-3@215@Louisville@$3,111,480
-25@Raul Neto@PG@26@6-1@179@@$2,150,000
-31@Georges Niang@SF@25@6-6@231@Iowa State@$1,512,601
-23@Royce O'Neale@SF@25@6-6@226@Baylor@$1,378,242
-3@Ricky Rubio@PG@27@6-4@190@@$14,975,000
-22@Thabo Sefolosha@SF@34@6-7@220@@$5,250,000
-33@Ekpe Udoh@C@31@6-10@245@Baylor@$3,360,000
+24@Grayson Allen@SG@23@6' 5"@198 lbs@Duke@$2,074,320
+13@Tony Bradley@C@21@6' 10"@248 lbs@North Carolina@$1,679,520
+34@Tyler Cavanaugh@PF@24@6' 9"@238 lbs@George Washington@-
+99@Jae Crowder@PF@28@6' 6"@235 lbs@Marquette@$7,305,825
+11@Dante Exum@PG@23@6' 6"@190 lbs@-@$9,600,000
+15@Derrick Favors@PF@27@6' 10"@265 lbs@Georgia Tech@$16,900,000
+27@Rudy Gobert@C@26@7' 1"@245 lbs@-@$23,241,573
+2@Joe Ingles@SF@31@6' 8"@226 lbs@-@$13,045,455
+26@Kyle Korver@SG@37@6' 7"@212 lbs@Creighton@$7,560,000
+45@Donovan Mitchell@SG@22@6' 3"@215 lbs@Louisville@$3,111,480
+30@Naz Mitrou-Long@SG@25@6' 4"@218 lbs@Iowa State@-
+25@Raul Neto@PG@26@6' 1"@179 lbs@-@$2,150,000
+31@Georges Niang@SF@25@6' 8"@230 lbs@Iowa State@$1,512,601
+23@Royce O'Neale@SF@25@6' 6"@226 lbs@Baylor@$1,378,242
+3@Ricky Rubio@PG@28@6' 4"@190 lbs@-@$14,975,000
+22@Thabo Sefolosha@SF@34@6' 7"@220 lbs@-@$5,250,000
+33@Ekpe Udoh@C@31@6' 10"@245 lbs@Baylor@$3,360,000
+24@Grayson Allen@SG@23@6' 5"@198 lbs@Duke@$2,074,320
+13@Tony Bradley@C@21@6' 10"@248 lbs@North Carolina@$1,679,520
+34@Tyler Cavanaugh@PF@24@6' 9"@238 lbs@George Washington@-
+99@Jae Crowder@PF@28@6' 6"@235 lbs@Marquette@$7,305,825
+11@Dante Exum@PG@23@6' 6"@190 lbs@-@$9,600,000
+15@Derrick Favors@PF@27@6' 10"@265 lbs@Georgia Tech@$16,900,000
+27@Rudy Gobert@C@26@7' 1"@245 lbs@-@$23,241,573
+2@Joe Ingles@SF@31@6' 8"@226 lbs@-@$13,045,455
+26@Kyle Korver@SG@37@6' 7"@212 lbs@Creighton@$7,560,000
+45@Donovan Mitchell@SG@22@6' 3"@215 lbs@Louisville@$3,111,480
+30@Naz Mitrou-Long@SG@25@6' 4"@218 lbs@Iowa State@-
+25@Raul Neto@PG@26@6' 1"@179 lbs@-@$2,150,000
+31@Georges Niang@SF@25@6' 8"@230 lbs@Iowa State@$1,512,601
+23@Royce O'Neale@SF@25@6' 6"@226 lbs@Baylor@$1,378,242
+3@Ricky Rubio@PG@28@6' 4"@190 lbs@-@$14,975,000
+22@Thabo Sefolosha@SF@34@6' 7"@220 lbs@-@$5,250,000
+33@Ekpe Udoh@C@31@6' 10"@245 lbs@Baylor@$3,360,000
+24@Grayson Allen@SG@23@6' 5"@198 lbs@Duke@$2,074,320
+13@Tony Bradley@C@21@6' 10"@248 lbs@North Carolina@$1,679,520
+34@Tyler Cavanaugh@PF@24@6' 9"@238 lbs@George Washington@-
+99@Jae Crowder@PF@28@6' 6"@235 lbs@Marquette@$7,305,825
+11@Dante Exum@PG@23@6' 6"@190 lbs@-@$9,600,000
+15@Derrick Favors@PF@27@6' 10"@265 lbs@Georgia Tech@$16,900,000
+27@Rudy Gobert@C@26@7' 1"@245 lbs@-@$23,241,573
+2@Joe Ingles@SF@31@6' 8"@226 lbs@-@$13,045,455
+26@Kyle Korver@SG@37@6' 7"@212 lbs@Creighton@$7,560,000
+45@Donovan Mitchell@SG@22@6' 3"@215 lbs@Louisville@$3,111,480
+30@Naz Mitrou-Long@SG@25@6' 4"@218 lbs@Iowa State@-
+25@Raul Neto@PG@26@6' 1"@179 lbs@-@$2,150,000
+31@Georges Niang@SF@25@6' 8"@230 lbs@Iowa State@$1,512,601
+23@Royce O'Neale@SF@25@6' 6"@226 lbs@Baylor@$1,378,242
+3@Ricky Rubio@PG@28@6' 4"@190 lbs@-@$14,975,000
+22@Thabo Sefolosha@SF@34@6' 7"@220 lbs@-@$5,250,000
+33@Ekpe Udoh@C@31@6' 10"@245 lbs@Baylor@$3,360,000
 #Washington Wizards
-3@Bradley Beal@SG@25@6-5@207@Florida@$25,434,263
---@Troy Brown Jr.@SF@19@6-7@215@Oregon@$2,749,080
---@Thomas Bryant@C@21@6-10@248@Indiana@$1,378,242
-8@Tim Frazier@PG@27@6-1@170@Penn State@
-32@Jeff Green@SF@32@6-9@235@Georgetown@$1,512,601
-12@Dwight Howard@C@32@6-11@265@@$5,337,000
-4@Ty Lawson@PG@30@5-11@195@North Carolina@
-28@Ian Mahinmi@C@31@6-11@262@@$15,944,154
-1@Chris McCullough@PF@23@6-9@215@Syracuse@
-20@Jodie Meeks@SG@31@6-4@210@Kentucky@$3,454,500
-5@Markieff Morris@PF@29@6-10@245@Kansas@$8,600,000
-12@Kelly Oubre Jr.@SF@22@6-7@205@Kansas@$3,208,630
-22@Otto Porter Jr.@SF@25@6-8@198@Georgetown@$26,011,913
---@Austin Rivers@PG@26@6-4@200@Duke@$12,650,000
-7@Devin Robinson@SF@23@6-8@200@Florida@
---@Issuf Sanon@SG@18@6-4@190@@
-31@Tomas Satoransky@SG@26@6-7@210@@$3,129,187
-9@Ramon Sessions@PG@32@6-3@190@Nevada@
-14@Jason Smith@PF@32@7-0@240@Colorado State@$5,450,000
-2@John Wall@PG@28@6-4@210@Kentucky@$19,169,800
+1@Trevor Ariza@SF@33@6' 8"@215 lbs@UCLA@$15,000,000
+3@Bradley Beal@SG@25@6' 5"@207 lbs@Florida@$25,434,263
+6@Troy Brown Jr.@SF@19@6' 7"@215 lbs@Oregon@$2,749,080
+13@Thomas Bryant@C@21@6' 11"@248 lbs@Indiana@$1,378,242
+8@Sam Dekker@SF@24@6' 9"@230 lbs@Wisconsin@$2,760,095
+32@Jeff Green@SF@32@6' 9"@235 lbs@Georgetown@$1,512,601
+21@Dwight Howard@C@33@6' 11"@265 lbs@-@$5,337,000
+28@Ian Mahinmi@C@32@6' 11"@262 lbs@-@$15,944,154
+52@Jordan McRae@SG@27@6' 5"@179 lbs@Tennessee@-
+5@Markieff Morris@PF@29@6' 10"@245 lbs@Kansas@$8,600,000
+0@Gary Payton II@PG@26@6' 3"@190 lbs@Oregon State@-
+22@Otto Porter Jr.@SF@25@6' 8"@198 lbs@Georgetown@$26,011,913
+9@Chasson Randle@PG@25@6' 2"@185 lbs@Stanford@$869,094
+7@Devin Robinson@SF@23@6' 8"@200 lbs@Florida@-
+31@Tomas Satoransky@SG@27@6' 7"@210 lbs@-@$3,129,187
+2@John Wall@PG@28@6' 4"@210 lbs@Kentucky@$19,169,800
+1@Trevor Ariza@SF@33@6' 8"@215 lbs@UCLA@$15,000,000
+3@Bradley Beal@SG@25@6' 5"@207 lbs@Florida@$25,434,263
+6@Troy Brown Jr.@SF@19@6' 7"@215 lbs@Oregon@$2,749,080
+13@Thomas Bryant@C@21@6' 11"@248 lbs@Indiana@$1,378,242
+8@Sam Dekker@SF@24@6' 9"@230 lbs@Wisconsin@$2,760,095
+32@Jeff Green@SF@32@6' 9"@235 lbs@Georgetown@$1,512,601
+21@Dwight Howard@C@33@6' 11"@265 lbs@-@$5,337,000
+28@Ian Mahinmi@C@32@6' 11"@262 lbs@-@$15,944,154
+52@Jordan McRae@SG@27@6' 5"@179 lbs@Tennessee@-
+5@Markieff Morris@PF@29@6' 10"@245 lbs@Kansas@$8,600,000
+0@Gary Payton II@PG@26@6' 3"@190 lbs@Oregon State@-
+22@Otto Porter Jr.@SF@25@6' 8"@198 lbs@Georgetown@$26,011,913
+9@Chasson Randle@PG@25@6' 2"@185 lbs@Stanford@$869,094
+7@Devin Robinson@SF@23@6' 8"@200 lbs@Florida@-
+31@Tomas Satoransky@SG@27@6' 7"@210 lbs@-@$3,129,187
+2@John Wall@PG@28@6' 4"@210 lbs@Kentucky@$19,169,800
+1@Trevor Ariza@SF@33@6' 8"@215 lbs@UCLA@$15,000,000
+3@Bradley Beal@SG@25@6' 5"@207 lbs@Florida@$25,434,263
+6@Troy Brown Jr.@SF@19@6' 7"@215 lbs@Oregon@$2,749,080
+13@Thomas Bryant@C@21@6' 11"@248 lbs@Indiana@$1,378,242
+8@Sam Dekker@SF@24@6' 9"@230 lbs@Wisconsin@$2,760,095
+32@Jeff Green@SF@32@6' 9"@235 lbs@Georgetown@$1,512,601
+21@Dwight Howard@C@33@6' 11"@265 lbs@-@$5,337,000
+28@Ian Mahinmi@C@32@6' 11"@262 lbs@-@$15,944,154
+52@Jordan McRae@SG@27@6' 5"@179 lbs@Tennessee@-
+5@Markieff Morris@PF@29@6' 10"@245 lbs@Kansas@$8,600,000
+0@Gary Payton II@PG@26@6' 3"@190 lbs@Oregon State@-
+22@Otto Porter Jr.@SF@25@6' 8"@198 lbs@Georgetown@$26,011,913
+9@Chasson Randle@PG@25@6' 2"@185 lbs@Stanford@$869,094
+7@Devin Robinson@SF@23@6' 8"@200 lbs@Florida@-
+31@Tomas Satoransky@SG@27@6' 7"@210 lbs@-@$3,129,187
+2@John Wall@PG@28@6' 4"@210 lbs@Kentucky@$19,169,800
